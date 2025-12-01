@@ -1,0 +1,115 @@
+/* Stadium Section Container */
+.stadium-container {
+  padding: 60px 30px;
+  color: #f0f0f0;
+  background: linear-gradient(to bottom right, #1a1a25, #101018);
+  min-height: 100vh;
+}
+
+/* Title Styling */
+.stadium-title {
+  text-align: center;
+  font-size: 2.5rem;
+  color: #ffcc00;
+  margin-bottom: 40px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+/* Grid Layout */
+.stadium-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 40px;
+  justify-items: center;
+}
+
+/* Card Styling */
+.stadium-card {
+  background: rgba(255, 255, 255, 0.04);
+  border-radius: 16px;
+  padding: 0; /* Changed from 28px to 0 for better image fitting */
+  width: 100%;
+  max-width: 480px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  transition: all 0.3s ease;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  overflow: hidden; /* Ensures image stays within card bounds */
+}
+
+.stadium-card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 12px 30px rgba(255, 204, 0, 0.25);
+}
+
+/* Image Wrapper - Now fills the card width */
+.stadium-image-wrapper {
+  width: 100%;
+  height: 240px; /* Fixed height for consistency */
+  overflow: hidden;
+  position: relative;
+}
+
+/* Perfectly Fitted Stadium Image */
+.stadium-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.5s ease;
+}
+
+.stadium-card:hover .stadium-image {
+  transform: scale(1.1);
+}
+
+/* Content Container */
+.stadium-content {
+  padding: 20px;
+}
+
+/* Card Heading */
+.stadium-card h3 {
+  color: #ffd700;
+  font-size: 1.5rem;
+  margin-bottom: 12px;
+  text-align: center;
+}
+
+/* Card Text */
+.stadium-card p {
+  margin: 5px 0;
+  font-size: 1rem;
+  text-align: center;
+  color: #e0e0e0;
+}
+
+/* Responsive Layout */
+@media (max-width: 1280px) {
+  .stadium-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 768px) {
+  .stadium-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .stadium-title {
+    font-size: 2rem;
+  }
+
+  .stadium-card {
+    max-width: 95%;
+  }
+}
+
+@media (max-width: 480px) {
+  .stadium-image-wrapper {
+    height: 200px; /* Slightly smaller on mobile */
+  }
+}

@@ -1,0 +1,76 @@
+.highest-score-container {
+    width: 90%;
+    margin: 20px auto;
+    background: var(--secondary-color);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    color: var(--text-color);
+  }
+  
+  h1 {
+    text-align: center;
+    color: var(--highlight-color);
+  }
+  
+  /* Table Styling */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th,
+  td {
+    padding: 12px 15px;
+    border-bottom: 1px solid var(--border-color);
+    text-align: center;
+  }
+  
+  /* Header Styling */
+  th {
+    background-color: var(--primary-bg);
+    color: var(--highlight-color);
+    font-size: 18px;
+  }
+  
+  /* Row Hover Effect */
+  tr:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+    transition: 0.3s;
+  }
+  
+  /* Player Cell Styling */
+  .player-cell {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    gap: 15px;
+    font-weight: bold;
+  }
+  
+  /* Player Image */
+  .player-image {
+    width: 70px;  /* Increased size */
+    height: 70px;
+    border-radius: 50%;
+    border: 2px solid var(--highlight-color);
+  }
+  
+  /* Team Column Styling */
+  .teams-column {
+    text-align: left;
+    max-width: 250px;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+  
+  /* Dark Theme Variables */
+  :root {
+    --primary-bg: #121212;  /* Dark background */
+    --secondary-color: #1e1e1e; /* Darker table background */
+    --highlight-color: #ffcc00;  /* Golden yellow highlight */
+    --text-color: #ffffff;  /* White text */
+    --border-color: #333333;  /* Light border */
+    --hover-bg: rgba(255, 255, 255, 0.1);  /* Slight hover effect */
+  }
+  

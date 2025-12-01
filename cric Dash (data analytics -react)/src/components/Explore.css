@@ -1,0 +1,140 @@
+/* Explore Page Container */
+.explore-container {
+  padding: 40px;
+  text-align: center;
+  background: #121212;
+  color: #ffffff;
+}
+
+/* Title Styling */
+.explore-title {
+  font-size: 2rem;
+  margin-bottom: 20px;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  background: linear-gradient(90deg, #ffcc00, #ff6600);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* Grid Layout for Cards */
+.explore-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 25px;
+  padding: 20px;
+}
+
+/* Individual Card Styling */
+.explore-card {
+  background: linear-gradient(135deg, #222, #333);
+  border-radius: 12px;
+  padding: 25px;
+  text-align: center;
+  color: white;
+  text-decoration: none;
+  transition: all 0.3s ease-in-out;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 170px;
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.25);
+  position: relative;
+  overflow: hidden;
+}
+
+/* Icon Styling */
+.explore-icon {
+  font-size: 2.2rem;
+  color: #ffcc00;
+  margin-bottom: 12px;
+  transition: transform 0.3s ease-in-out;
+}
+
+/* Card Text */
+.explore-text {
+  font-size: 1.1rem;
+  font-weight: bold;
+  text-transform: capitalize;
+}
+
+/* Hover Effect */
+.explore-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 8px 16px rgba(255, 204, 0, 0.4);
+}
+
+/* Hover Effect - Icon Animation */
+.explore-card:hover .explore-icon {
+  transform: scale(1.2) rotate(10deg);
+}
+
+/* Mobile Optimization */
+@media (max-width: 768px) {
+  .explore-grid {
+    grid-template-columns: 1fr;
+  }
+}
+/* Force full-screen dark background */
+html, body {
+    min-height: 100vh;
+    background-color: #121212 !important;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+/* Make sure the last section covers the full height */
+.container {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+/* Fix any unwanted white space */
+body > * {
+    background-color: #121212 !important;
+}
+
+/* Prevent unwanted scroll issues */
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+/* If a footer exists, ensure it stays at the bottom */
+.footer {
+    margin-top: auto;
+    background-color: #121212 !important;
+}
+
+/* Remove any unwanted white gaps */
+* {
+    box-sizing: border-box;
+}
+.explore-card:hover::after {
+  content: '';
+  position: absolute;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+  background: radial-gradient(circle, rgba(255, 204, 0, 0.1) 0%, transparent 70%);
+  z-index: 0;
+  animation: pulse-glow 1s ease-out;
+}
+
+@keyframes pulse-glow {
+  from {
+    transform: scale(1);
+    opacity: 0.8;
+  }
+  to {
+    transform: scale(1.2);
+    opacity: 0;
+  }
+}

@@ -1,0 +1,39 @@
+.player-details {
+  background: var(--secondary-color);
+  padding: 20px;
+  border-radius: 10px;
+  border: 1px solid var(--border-color);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  width: 60%;
+  text-align: center;
+  color: var(--text-color);
+  margin: 20px auto;
+}
+
+.player-details h1 {
+  color: var(--highlight-color);
+  margin-bottom: 20px;
+}
+
+.player-image {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 2px solid var(--highlight-color);
+  margin-bottom: 20px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+td {
+  padding: 10px;
+  border-bottom: 1px solid var(--border-color);
+}
+
+td:first-child {
+  font-weight: bold;
+  color: var(--highlight-color);
+}

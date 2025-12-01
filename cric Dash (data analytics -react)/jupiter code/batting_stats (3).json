@@ -1,0 +1,6732 @@
+[
+    {
+        "batter": "Virat Kohli",
+        "total_runs": 8014,
+        "balls_faced": 6236,
+        "fours": 708,
+        "sixes": 273,
+        "dismissals": 218,
+        "strike_rate": 128.51,
+        "batting_avg": 36.76
+    },
+    {
+        "batter": "Shikhar Dhawan",
+        "total_runs": 6769,
+        "balls_faced": 5483,
+        "fours": 768,
+        "sixes": 153,
+        "dismissals": 194,
+        "strike_rate": 123.45,
+        "batting_avg": 34.89
+    },
+    {
+        "batter": "Rohit Sharma ",
+        "total_runs": 6630,
+        "balls_faced": 5183,
+        "fours": 599,
+        "sixes": 281,
+        "dismissals": 232,
+        "strike_rate": 127.92,
+        "batting_avg": 28.58
+    },
+    {
+        "batter": "DA Warner               ",
+        "total_runs": 6567,
+        "balls_faced": 4849,
+        "fours": 663,
+        "sixes": 236,
+        "dismissals": 164,
+        "strike_rate": 135.43,
+        "batting_avg": 40.04
+    },
+    {
+        "batter": "Suresh Raina            ",
+        "total_runs": 5536,
+        "balls_faced": 4177,
+        "fours": 506,
+        "sixes": 204,
+        "dismissals": 168,
+        "strike_rate": 132.54,
+        "batting_avg": 32.95
+    },
+    {
+        "batter": "MS Dhoni                ",
+        "total_runs": 5243,
+        "balls_faced": 3947,
+        "fours": 363,
+        "sixes": 252,
+        "dismissals": 149,
+        "strike_rate": 132.84,
+        "batting_avg": 35.19
+    },
+    {
+        "batter": "AB de Villiers          ",
+        "total_runs": 5181,
+        "balls_faced": 3487,
+        "fours": 414,
+        "sixes": 253,
+        "dismissals": 125,
+        "strike_rate": 148.58,
+        "batting_avg": 41.45
+    },
+    {
+        "batter": "CH Gayle                ",
+        "total_runs": 4997,
+        "balls_faced": 3516,
+        "fours": 408,
+        "sixes": 359,
+        "dismissals": 128,
+        "strike_rate": 142.12,
+        "batting_avg": 39.04
+    },
+    {
+        "batter": "Robin Uthappa ",
+        "total_runs": 4954,
+        "balls_faced": 3927,
+        "fours": 481,
+        "sixes": 182,
+        "dismissals": 184,
+        "strike_rate": 126.15,
+        "batting_avg": 26.92
+    },
+    {
+        "batter": "Dinesh Karthik       ",
+        "total_runs": 4843,
+        "balls_faced": 3687,
+        "fours": 466,
+        "sixes": 161,
+        "dismissals": 189,
+        "strike_rate": 131.35,
+        "batting_avg": 25.62
+    },
+    {
+        "batter": "KL Rahul                ",
+        "total_runs": 4689,
+        "balls_faced": 3578,
+        "fours": 400,
+        "sixes": 187,
+        "dismissals": 106,
+        "strike_rate": 131.05,
+        "batting_avg": 44.24
+    },
+    {
+        "batter": "Ajinkya Rahane          ",
+        "total_runs": 4642,
+        "balls_faced": 3858,
+        "fours": 479,
+        "sixes": 103,
+        "dismissals": 156,
+        "strike_rate": 120.32,
+        "batting_avg": 29.76
+    },
+    {
+        "batter": "Faf du Plessis         ",
+        "total_runs": 4571,
+        "balls_faced": 3435,
+        "fours": 422,
+        "sixes": 166,
+        "dismissals": 125,
+        "strike_rate": 133.07,
+        "batting_avg": 36.57
+    },
+    {
+        "batter": "Sanju Samson            ",
+        "total_runs": 4419,
+        "balls_faced": 3270,
+        "fours": 352,
+        "sixes": 206,
+        "dismissals": 142,
+        "strike_rate": 135.14,
+        "batting_avg": 31.12
+    },
+    {
+        "batter": "AT Rayudu               ",
+        "total_runs": 4348,
+        "balls_faced": 3490,
+        "fours": 359,
+        "sixes": 173,
+        "dismissals": 152,
+        "strike_rate": 124.58,
+        "batting_avg": 28.61
+    },
+    {
+        "batter": "Gautam Gambhir          ",
+        "total_runs": 4217,
+        "balls_faced": 3524,
+        "fours": 492,
+        "sixes": 59,
+        "dismissals": 135,
+        "strike_rate": 119.67,
+        "batting_avg": 31.24
+    },
+    {
+        "batter": "Shane Watson          ",
+        "total_runs": 3880,
+        "balls_faced": 2892,
+        "fours": 377,
+        "sixes": 190,
+        "dismissals": 126,
+        "strike_rate": 134.16,
+        "batting_avg": 30.79
+    },
+    {
+        "batter": "MK Pandey               ",
+        "total_runs": 3859,
+        "balls_faced": 3288,
+        "fours": 335,
+        "sixes": 111,
+        "dismissals": 133,
+        "strike_rate": 117.37,
+        "batting_avg": 29.02
+    },
+    {
+        "batter": "SA Yadav                ",
+        "total_runs": 3594,
+        "balls_faced": 2522,
+        "fours": 385,
+        "sixes": 130,
+        "dismissals": 112,
+        "strike_rate": 142.51,
+        "batting_avg": 32.09
+    },
+    {
+        "batter": "JC Buttler              ",
+        "total_runs": 3583,
+        "balls_faced": 2519,
+        "fours": 356,
+        "sixes": 161,
+        "dismissals": 96,
+        "strike_rate": 142.24,
+        "batting_avg": 37.32
+    },
+    {
+        "batter": "KA Pollard              ",
+        "total_runs": 3437,
+        "balls_faced": 2447,
+        "fours": 221,
+        "sixes": 224,
+        "dismissals": 129,
+        "strike_rate": 140.46,
+        "batting_avg": 26.64
+    },
+    {
+        "batter": "RR Pant                 ",
+        "total_runs": 3297,
+        "balls_faced": 2296,
+        "fours": 298,
+        "sixes": 154,
+        "dismissals": 96,
+        "strike_rate": 143.6,
+        "batting_avg": 34.34
+    },
+    {
+        "batter": "Yusuf Pathan ",
+        "total_runs": 3222,
+        "balls_faced": 2334,
+        "fours": 263,
+        "sixes": 161,
+        "dismissals": 111,
+        "strike_rate": 138.05,
+        "batting_avg": 29.03
+    },
+    {
+        "batter": "Shubman Gill            ",
+        "total_runs": 3216,
+        "balls_faced": 2432,
+        "fours": 310,
+        "sixes": 95,
+        "dismissals": 86,
+        "strike_rate": 132.24,
+        "batting_avg": 37.4
+    },
+    {
+        "batter": "Q de Kock               ",
+        "total_runs": 3160,
+        "balls_faced": 2410,
+        "fours": 316,
+        "sixes": 123,
+        "dismissals": 101,
+        "strike_rate": 131.12,
+        "batting_avg": 31.29
+    },
+    {
+        "batter": "Shreyas Iyer             ",
+        "total_runs": 3131,
+        "balls_faced": 2545,
+        "fours": 272,
+        "sixes": 113,
+        "dismissals": 102,
+        "strike_rate": 123.03,
+        "batting_avg": 30.7
+    },
+    {
+        "batter": "Ravindra Jadeja        ",
+        "total_runs": 2959,
+        "balls_faced": 2378,
+        "fours": 215,
+        "sixes": 107,
+        "dismissals": 114,
+        "strike_rate": 124.43,
+        "batting_avg": 25.96
+    },
+    {
+        "batter": "Wriddhiman Saha",
+        "total_runs": 2934,
+        "balls_faced": 2368,
+        "fours": 296,
+        "sixes": 87,
+        "dismissals": 121,
+        "strike_rate": 123.9,
+        "batting_avg": 24.25
+    },
+    {
+        "batter": "DA Miller               ",
+        "total_runs": 2924,
+        "balls_faced": 2171,
+        "fours": 207,
+        "sixes": 134,
+        "dismissals": 84,
+        "strike_rate": 134.68,
+        "batting_avg": 34.81
+    },
+    {
+        "batter": "Brendon McCullum",
+        "total_runs": 2882,
+        "balls_faced": 2272,
+        "fours": 293,
+        "sixes": 130,
+        "dismissals": 106,
+        "strike_rate": 126.85,
+        "batting_avg": 27.19
+    },
+    {
+        "batter": "Parthiv Patel ",
+        "total_runs": 2848,
+        "balls_faced": 2442,
+        "fours": 365,
+        "sixes": 49,
+        "dismissals": 127,
+        "strike_rate": 116.63,
+        "batting_avg": 22.43
+    },
+    {
+        "batter": "Glenn Maxwell        ",
+        "total_runs": 2772,
+        "balls_faced": 1842,
+        "fours": 233,
+        "sixes": 160,
+        "dismissals": 111,
+        "strike_rate": 150.49,
+        "batting_avg": 24.97
+    },
+    {
+        "batter": "Yuvraj Singh            ",
+        "total_runs": 2754,
+        "balls_faced": 2207,
+        "fours": 218,
+        "sixes": 149,
+        "dismissals": 109,
+        "strike_rate": 124.78,
+        "batting_avg": 25.27
+    },
+    {
+        "batter": "Virender Sehwag      ",
+        "total_runs": 2728,
+        "balls_faced": 1833,
+        "fours": 334,
+        "sixes": 106,
+        "dismissals": 98,
+        "strike_rate": 148.83,
+        "batting_avg": 27.84
+    },
+    {
+        "batter": "MA Agarwal              ",
+        "total_runs": 2669,
+        "balls_faced": 2081,
+        "fours": 265,
+        "sixes": 98,
+        "dismissals": 116,
+        "strike_rate": 128.26,
+        "batting_avg": 23.01
+    },
+    {
+        "batter": "Ishan Kishan            ",
+        "total_runs": 2644,
+        "balls_faced": 1991,
+        "fours": 255,
+        "sixes": 119,
+        "dismissals": 91,
+        "strike_rate": 132.8,
+        "batting_avg": 29.05
+    },
+    {
+        "batter": "N Rana                  ",
+        "total_runs": 2636,
+        "balls_faced": 2015,
+        "fours": 234,
+        "sixes": 132,
+        "dismissals": 94,
+        "strike_rate": 130.82,
+        "batting_avg": 28.04
+    },
+    {
+        "batter": "M Vijay                 ",
+        "total_runs": 2619,
+        "balls_faced": 2208,
+        "fours": 247,
+        "sixes": 91,
+        "dismissals": 97,
+        "strike_rate": 118.61,
+        "batting_avg": 27.0
+    },
+    {
+        "batter": "Hardik Pandya",
+        "total_runs": 2534,
+        "balls_faced": 1814,
+        "fours": 189,
+        "sixes": 137,
+        "dismissals": 89,
+        "strike_rate": 139.69,
+        "batting_avg": 28.47
+    },
+    {
+        "batter": "SPD Smith               ",
+        "total_runs": 2495,
+        "balls_faced": 1999,
+        "fours": 226,
+        "sixes": 60,
+        "dismissals": 78,
+        "strike_rate": 124.81,
+        "batting_avg": 31.99
+    },
+    {
+        "batter": "Shaun Marsh             ",
+        "total_runs": 2489,
+        "balls_faced": 1913,
+        "fours": 269,
+        "sixes": 78,
+        "dismissals": 65,
+        "strike_rate": 130.11,
+        "batting_avg": 38.29
+    },
+    {
+        "batter": "Andre Russell       ",
+        "total_runs": 2488,
+        "balls_faced": 1515,
+        "fours": 171,
+        "sixes": 209,
+        "dismissals": 84,
+        "strike_rate": 164.22,
+        "batting_avg": 29.62
+    },
+    {
+        "batter": "Jacques Kallis",
+        "total_runs": 2427,
+        "balls_faced": 2291,
+        "fours": 255,
+        "sixes": 44,
+        "dismissals": 89,
+        "strike_rate": 105.94,
+        "batting_avg": 27.27
+    },
+    {
+        "batter": "Dwayne Smith            ",
+        "total_runs": 2385,
+        "balls_faced": 1803,
+        "fours": 245,
+        "sixes": 117,
+        "dismissals": 81,
+        "strike_rate": 132.28,
+        "batting_avg": 29.44
+    },
+    {
+        "batter": "RD Gaikwad              ",
+        "total_runs": 2380,
+        "balls_faced": 1781,
+        "fours": 217,
+        "sixes": 91,
+        "dismissals": 56,
+        "strike_rate": 133.63,
+        "batting_avg": 42.5
+    },
+    {
+        "batter": "Sachin Tendulkar        ",
+        "total_runs": 2334,
+        "balls_faced": 2044,
+        "fours": 296,
+        "sixes": 29,
+        "dismissals": 71,
+        "strike_rate": 114.19,
+        "batting_avg": 32.87
+    },
+    {
+        "batter": "Rahul Tripathi            ",
+        "total_runs": 2236,
+        "balls_faced": 1650,
+        "fours": 223,
+        "sixes": 84,
+        "dismissals": 81,
+        "strike_rate": 135.52,
+        "batting_avg": 27.6
+    },
+    {
+        "batter": "Rahul Dravid",
+        "total_runs": 2174,
+        "balls_faced": 1918,
+        "fours": 269,
+        "sixes": 28,
+        "dismissals": 77,
+        "strike_rate": 113.35,
+        "batting_avg": 28.23
+    },
+    {
+        "batter": "KS Williamson           ",
+        "total_runs": 2132,
+        "balls_faced": 1734,
+        "fours": 187,
+        "sixes": 64,
+        "dismissals": 59,
+        "strike_rate": 122.95,
+        "batting_avg": 36.14
+    },
+    {
+        "batter": "AJ Finch                ",
+        "total_runs": 2092,
+        "balls_faced": 1696,
+        "fours": 214,
+        "sixes": 78,
+        "dismissals": 84,
+        "strike_rate": 123.35,
+        "batting_avg": 24.9
+    },
+    {
+        "batter": "Adam Gilchrist         ",
+        "total_runs": 2069,
+        "balls_faced": 1555,
+        "fours": 239,
+        "sixes": 92,
+        "dismissals": 76,
+        "strike_rate": 133.05,
+        "batting_avg": 27.22
+    },
+    {
+        "batter": "JP Duminy               ",
+        "total_runs": 2029,
+        "balls_faced": 1680,
+        "fours": 126,
+        "sixes": 79,
+        "dismissals": 49,
+        "strike_rate": 120.77,
+        "batting_avg": 41.41
+    },
+    {
+        "batter": "Michael Hussey ",
+        "total_runs": 1977,
+        "balls_faced": 1648,
+        "fours": 198,
+        "sixes": 52,
+        "dismissals": 52,
+        "strike_rate": 119.96,
+        "batting_avg": 38.02
+    },
+    {
+        "batter": "PP Shaw                 ",
+        "total_runs": 1892,
+        "balls_faced": 1321,
+        "fours": 238,
+        "sixes": 61,
+        "dismissals": 77,
+        "strike_rate": 143.22,
+        "batting_avg": 24.57
+    },
+    {
+        "batter": "Marcus Stoinis          ",
+        "total_runs": 1866,
+        "balls_faced": 1366,
+        "fours": 150,
+        "sixes": 91,
+        "dismissals": 67,
+        "strike_rate": 136.6,
+        "batting_avg": 27.85
+    },
+    {
+        "batter": "Mahela Jayawardene ",
+        "total_runs": 1808,
+        "balls_faced": 1522,
+        "fours": 200,
+        "sixes": 40,
+        "dismissals": 64,
+        "strike_rate": 118.79,
+        "batting_avg": 28.25
+    },
+    {
+        "batter": "Nicholas Pooran          ",
+        "total_runs": 1769,
+        "balls_faced": 1143,
+        "fours": 113,
+        "sixes": 127,
+        "dismissals": 56,
+        "strike_rate": 154.77,
+        "batting_avg": 31.59
+    },
+    {
+        "batter": "Mandeep Singh           ",
+        "total_runs": 1706,
+        "balls_faced": 1418,
+        "fours": 176,
+        "sixes": 38,
+        "dismissals": 85,
+        "strike_rate": 120.31,
+        "batting_avg": 20.07
+    },
+    {
+        "batter": "Manoj Tiwary     ",
+        "total_runs": 1695,
+        "balls_faced": 1489,
+        "fours": 156,
+        "sixes": 40,
+        "dismissals": 61,
+        "strike_rate": 113.83,
+        "batting_avg": 27.79
+    },
+    {
+        "batter": "Kumar Sangakkara      ",
+        "total_runs": 1687,
+        "balls_faced": 1424,
+        "fours": 195,
+        "sixes": 27,
+        "dismissals": 69,
+        "strike_rate": 118.47,
+        "batting_avg": 24.45
+    },
+    {
+        "batter": "Axar Patel           ",
+        "total_runs": 1653,
+        "balls_faced": 1318,
+        "fours": 107,
+        "sixes": 79,
+        "dismissals": 78,
+        "strike_rate": 125.42,
+        "batting_avg": 21.19
+    },
+    {
+        "batter": "Krunal Pandya           ",
+        "total_runs": 1647,
+        "balls_faced": 1287,
+        "fours": 144,
+        "sixes": 61,
+        "dismissals": 74,
+        "strike_rate": 127.97,
+        "batting_avg": 22.26
+    },
+    {
+        "batter": "Yashasvi Jaiswal         ",
+        "total_runs": 1607,
+        "balls_faced": 1095,
+        "fours": 199,
+        "sixes": 64,
+        "dismissals": 49,
+        "strike_rate": 146.76,
+        "batting_avg": 32.8
+    },
+    {
+        "batter": "Jonny Bairstow        ",
+        "total_runs": 1589,
+        "balls_faced": 1132,
+        "fours": 166,
+        "sixes": 69,
+        "dismissals": 48,
+        "strike_rate": 140.37,
+        "batting_avg": 33.1
+    },
+    {
+        "batter": "DJ Bravo                ",
+        "total_runs": 1560,
+        "balls_faced": 1247,
+        "fours": 120,
+        "sixes": 66,
+        "dismissals": 69,
+        "strike_rate": 125.1,
+        "batting_avg": 22.61
+    },
+    {
+        "batter": "D Padikkal              ",
+        "total_runs": 1559,
+        "balls_faced": 1323,
+        "fours": 170,
+        "sixes": 42,
+        "dismissals": 63,
+        "strike_rate": 117.84,
+        "batting_avg": 24.75
+    },
+    {
+        "batter": "NV Ojha                 ",
+        "total_runs": 1554,
+        "balls_faced": 1360,
+        "fours": 121,
+        "sixes": 79,
+        "dismissals": 74,
+        "strike_rate": 114.26,
+        "batting_avg": 21.0
+    },
+    {
+        "batter": "Sunil Narine         ",
+        "total_runs": 1534,
+        "balls_faced": 984,
+        "fours": 164,
+        "sixes": 97,
+        "dismissals": 84,
+        "strike_rate": 155.89,
+        "batting_avg": 18.26
+    },
+    {
+        "batter": "Shivam Dube            ",
+        "total_runs": 1502,
+        "balls_faced": 1077,
+        "fours": 86,
+        "sixes": 101,
+        "dismissals": 50,
+        "strike_rate": 139.46,
+        "batting_avg": 30.04
+    },
+    {
+        "batter": "KK Nair                 ",
+        "total_runs": 1496,
+        "balls_faced": 1192,
+        "fours": 161,
+        "sixes": 39,
+        "dismissals": 65,
+        "strike_rate": 125.5,
+        "batting_avg": 23.02
+    },
+    {
+        "batter": "Saurabh Tiwary         ",
+        "total_runs": 1494,
+        "balls_faced": 1291,
+        "fours": 111,
+        "sixes": 50,
+        "dismissals": 50,
+        "strike_rate": 115.72,
+        "batting_avg": 29.88
+    },
+    {
+        "batter": "Deepak Hooda        ",
+        "total_runs": 1466,
+        "balls_faced": 1170,
+        "fours": 96,
+        "sixes": 61,
+        "dismissals": 77,
+        "strike_rate": 125.3,
+        "batting_avg": 19.04
+    },
+    {
+        "batter": "S Badrinath             ",
+        "total_runs": 1441,
+        "balls_faced": 1245,
+        "fours": 154,
+        "sixes": 28,
+        "dismissals": 48,
+        "strike_rate": 115.74,
+        "batting_avg": 30.02
+    },
+    {
+        "batter": "EJG Morgan              ",
+        "total_runs": 1406,
+        "balls_faced": 1181,
+        "fours": 112,
+        "sixes": 64,
+        "dismissals": 61,
+        "strike_rate": 119.05,
+        "batting_avg": 23.05
+    },
+    {
+        "batter": "Brad Hodge             ",
+        "total_runs": 1400,
+        "balls_faced": 1153,
+        "fours": 122,
+        "sixes": 43,
+        "dismissals": 46,
+        "strike_rate": 121.42,
+        "batting_avg": 30.43
+    },
+    {
+        "batter": "Abhishek Sharma         ",
+        "total_runs": 1377,
+        "balls_faced": 925,
+        "fours": 128,
+        "sixes": 73,
+        "dismissals": 55,
+        "strike_rate": 148.86,
+        "batting_avg": 25.04
+    },
+    {
+        "batter": "Sourav Ganguly        ",
+        "total_runs": 1349,
+        "balls_faced": 1326,
+        "fours": 137,
+        "sixes": 42,
+        "dismissals": 54,
+        "strike_rate": 101.73,
+        "batting_avg": 24.98
+    },
+    {
+        "batter": "CA Lynn                 ",
+        "total_runs": 1329,
+        "balls_faced": 974,
+        "fours": 132,
+        "sixes": 66,
+        "dismissals": 39,
+        "strike_rate": 136.45,
+        "batting_avg": 34.08
+    },
+    {
+        "batter": "Venkatesh Iyer             ",
+        "total_runs": 1326,
+        "balls_faced": 1000,
+        "fours": 121,
+        "sixes": 61,
+        "dismissals": 43,
+        "strike_rate": 132.6,
+        "batting_avg": 30.84
+    },
+    {
+        "batter": "David Hussey ",
+        "total_runs": 1322,
+        "balls_faced": 1101,
+        "fours": 90,
+        "sixes": 60,
+        "dismissals": 49,
+        "strike_rate": 120.07,
+        "batting_avg": 26.98
+    },
+    {
+        "batter": "Shimron Hetmyer          ",
+        "total_runs": 1243,
+        "balls_faced": 854,
+        "fours": 76,
+        "sixes": 82,
+        "dismissals": 40,
+        "strike_rate": 145.55,
+        "batting_avg": 31.08
+    },
+    {
+        "batter": "KM Jadhav               ",
+        "total_runs": 1208,
+        "balls_faced": 1012,
+        "fours": 102,
+        "sixes": 40,
+        "dismissals": 54,
+        "strike_rate": 119.37,
+        "batting_avg": 22.37
+    },
+    {
+        "batter": "Riyan Parag            ",
+        "total_runs": 1173,
+        "balls_faced": 909,
+        "fours": 84,
+        "sixes": 60,
+        "dismissals": 47,
+        "strike_rate": 129.04,
+        "batting_avg": 24.96
+    },
+    {
+        "batter": "MM Ali                  ",
+        "total_runs": 1162,
+        "balls_faced": 849,
+        "fours": 95,
+        "sixes": 67,
+        "dismissals": 49,
+        "strike_rate": 136.87,
+        "batting_avg": 23.71
+    },
+    {
+        "batter": "Tilak Varma             ",
+        "total_runs": 1156,
+        "balls_faced": 830,
+        "fours": 90,
+        "sixes": 58,
+        "dismissals": 28,
+        "strike_rate": 139.28,
+        "batting_avg": 41.29
+    },
+    {
+        "batter": "Tillakaratne Dilshan        ",
+        "total_runs": 1153,
+        "balls_faced": 1047,
+        "fours": 140,
+        "sixes": 24,
+        "dismissals": 41,
+        "strike_rate": 110.12,
+        "batting_avg": 28.12
+    },
+    {
+        "batter": "Irfan Pathan         ",
+        "total_runs": 1150,
+        "balls_faced": 985,
+        "fours": 88,
+        "sixes": 38,
+        "dismissals": 53,
+        "strike_rate": 116.75,
+        "batting_avg": 21.7
+    },
+    {
+        "batter": "V Shankar               ",
+        "total_runs": 1115,
+        "balls_faced": 890,
+        "fours": 80,
+        "sixes": 45,
+        "dismissals": 43,
+        "strike_rate": 125.28,
+        "batting_avg": 25.93
+    },
+    {
+        "batter": "Matthew Hayden        ",
+        "total_runs": 1107,
+        "balls_faced": 839,
+        "fours": 121,
+        "sixes": 44,
+        "dismissals": 28,
+        "strike_rate": 131.94,
+        "batting_avg": 39.54
+    },
+    {
+        "batter": "M Vohra                 ",
+        "total_runs": 1083,
+        "balls_faced": 863,
+        "fours": 104,
+        "sixes": 43,
+        "dismissals": 48,
+        "strike_rate": 125.49,
+        "batting_avg": 22.56
+    },
+    {
+        "batter": "LMP Simmons             ",
+        "total_runs": 1079,
+        "balls_faced": 878,
+        "fours": 109,
+        "sixes": 44,
+        "dismissals": 27,
+        "strike_rate": 122.89,
+        "batting_avg": 39.96
+    },
+    {
+        "batter": "B Sai Sudharsan         ",
+        "total_runs": 1034,
+        "balls_faced": 770,
+        "fours": 95,
+        "sixes": 32,
+        "dismissals": 21,
+        "strike_rate": 134.29,
+        "batting_avg": 49.24
+    },
+    {
+        "batter": "Ross Taylor           ",
+        "total_runs": 1017,
+        "balls_faced": 847,
+        "fours": 66,
+        "sixes": 46,
+        "dismissals": 41,
+        "strike_rate": 120.07,
+        "batting_avg": 24.8
+    },
+    {
+        "batter": "R Tewatia               ",
+        "total_runs": 1013,
+        "balls_faced": 788,
+        "fours": 84,
+        "sixes": 47,
+        "dismissals": 43,
+        "strike_rate": 128.55,
+        "batting_avg": 23.56
+    },
+    {
+        "batter": "KP Pietersen            ",
+        "total_runs": 1001,
+        "balls_faced": 758,
+        "fours": 91,
+        "sixes": 40,
+        "dismissals": 29,
+        "strike_rate": 132.06,
+        "batting_avg": 34.52
+    },
+    {
+        "batter": "MC Henriques            ",
+        "total_runs": 1000,
+        "balls_faced": 801,
+        "fours": 87,
+        "sixes": 28,
+        "dismissals": 38,
+        "strike_rate": 124.84,
+        "batting_avg": 26.32
+    },
+    {
+        "batter": "Aiden Markram         ",
+        "total_runs": 995,
+        "balls_faced": 787,
+        "fours": 73,
+        "sixes": 35,
+        "dismissals": 33,
+        "strike_rate": 126.43,
+        "batting_avg": 30.15
+    },
+    {
+        "batter": "Heinrich Klaasen        ",
+        "total_runs": 993,
+        "balls_faced": 613,
+        "fours": 56,
+        "sixes": 64,
+        "dismissals": 26,
+        "strike_rate": 161.99,
+        "batting_avg": 38.19
+    },
+    {
+        "batter": "Y Venugopal Rao         ",
+        "total_runs": 985,
+        "balls_faced": 865,
+        "fours": 77,
+        "sixes": 37,
+        "dismissals": 42,
+        "strike_rate": 113.87,
+        "batting_avg": 23.45
+    },
+    {
+        "batter": "Albie Morkel",
+        "total_runs": 975,
+        "balls_faced": 712,
+        "fours": 61,
+        "sixes": 55,
+        "dismissals": 40,
+        "strike_rate": 136.94,
+        "batting_avg": 24.38
+    },
+    {
+        "batter": "Andrew Symonds             ",
+        "total_runs": 974,
+        "balls_faced": 781,
+        "fours": 74,
+        "sixes": 41,
+        "dismissals": 26,
+        "strike_rate": 124.71,
+        "batting_avg": 37.46
+    },
+    {
+        "batter": "Cameron White                 ",
+        "total_runs": 971,
+        "balls_faced": 774,
+        "fours": 76,
+        "sixes": 38,
+        "dismissals": 35,
+        "strike_rate": 125.45,
+        "batting_avg": 27.74
+    },
+    {
+        "batter": "LS Livingstone          ",
+        "total_runs": 939,
+        "balls_faced": 609,
+        "fours": 66,
+        "sixes": 66,
+        "dismissals": 33,
+        "strike_rate": 154.19,
+        "batting_avg": 28.45
+    },
+    {
+        "batter": "BA Stokes               ",
+        "total_runs": 935,
+        "balls_faced": 718,
+        "fours": 81,
+        "sixes": 32,
+        "dismissals": 41,
+        "strike_rate": 130.22,
+        "batting_avg": 22.8
+    },
+    {
+        "batter": "DP Conway               ",
+        "total_runs": 924,
+        "balls_faced": 669,
+        "fours": 100,
+        "sixes": 30,
+        "dismissals": 20,
+        "strike_rate": 138.12,
+        "batting_avg": 46.2
+    },
+    {
+        "batter": "RK Singh                ",
+        "total_runs": 893,
+        "balls_faced": 654,
+        "fours": 67,
+        "sixes": 46,
+        "dismissals": 29,
+        "strike_rate": 136.54,
+        "batting_avg": 30.79
+    },
+    {
+        "batter": "Herschelle Gibbs          ",
+        "total_runs": 886,
+        "balls_faced": 837,
+        "fours": 83,
+        "sixes": 31,
+        "dismissals": 32,
+        "strike_rate": 105.85,
+        "batting_avg": 27.69
+    },
+    {
+        "batter": "Sam Curran          ",
+        "total_runs": 883,
+        "balls_faced": 673,
+        "fours": 74,
+        "sixes": 37,
+        "dismissals": 36,
+        "strike_rate": 131.2,
+        "batting_avg": 24.53
+    },
+    {
+        "batter": "STR Binny               ",
+        "total_runs": 880,
+        "balls_faced": 700,
+        "fours": 66,
+        "sixes": 35,
+        "dismissals": 44,
+        "strike_rate": 125.71,
+        "batting_avg": 20.0
+    },
+    {
+        "batter": "Harbhajan Singh         ",
+        "total_runs": 833,
+        "balls_faced": 636,
+        "fours": 79,
+        "sixes": 42,
+        "dismissals": 56,
+        "strike_rate": 130.97,
+        "batting_avg": 14.88
+    },
+    {
+        "batter": "Ravichandran Ashwin            ",
+        "total_runs": 800,
+        "balls_faced": 698,
+        "fours": 61,
+        "sixes": 28,
+        "dismissals": 59,
+        "strike_rate": 114.61,
+        "batting_avg": 13.56
+    },
+    {
+        "batter": "Rajat Patidar          ",
+        "total_runs": 799,
+        "balls_faced": 534,
+        "fours": 51,
+        "sixes": 54,
+        "dismissals": 24,
+        "strike_rate": 149.63,
+        "batting_avg": 33.29
+    },
+    {
+        "batter": "MS Bisla                ",
+        "total_runs": 798,
+        "balls_faced": 737,
+        "fours": 93,
+        "sixes": 23,
+        "dismissals": 37,
+        "strike_rate": 108.28,
+        "batting_avg": 21.57
+    },
+    {
+        "batter": "Shakib Al Hasan         ",
+        "total_runs": 795,
+        "balls_faced": 665,
+        "fours": 73,
+        "sixes": 21,
+        "dismissals": 40,
+        "strike_rate": 119.55,
+        "batting_avg": 19.88
+    },
+    {
+        "batter": "Travis Head            ",
+        "total_runs": 772,
+        "balls_faced": 458,
+        "fours": 76,
+        "sixes": 40,
+        "dismissals": 20,
+        "strike_rate": 168.56,
+        "batting_avg": 38.6
+    },
+    {
+        "batter": "Sanath Jayasuriya ",
+        "total_runs": 768,
+        "balls_faced": 573,
+        "fours": 84,
+        "sixes": 39,
+        "dismissals": 29,
+        "strike_rate": 134.03,
+        "batting_avg": 26.48
+    },
+    {
+        "batter": "Prabhsimran Singh      ",
+        "total_runs": 756,
+        "balls_faced": 528,
+        "fours": 78,
+        "sixes": 41,
+        "dismissals": 35,
+        "strike_rate": 143.18,
+        "batting_avg": 21.6
+    },
+    {
+        "batter": "Graeme Smith         ",
+        "total_runs": 739,
+        "balls_faced": 691,
+        "fours": 94,
+        "sixes": 9,
+        "dismissals": 30,
+        "strike_rate": 106.95,
+        "batting_avg": 24.63
+    },
+    {
+        "batter": "Jitesh Sharma         ",
+        "total_runs": 730,
+        "balls_faced": 501,
+        "fours": 53,
+        "sixes": 45,
+        "dismissals": 32,
+        "strike_rate": 145.71,
+        "batting_avg": 22.81
+    },
+    {
+        "batter": "AD Mathews              ",
+        "total_runs": 724,
+        "balls_faced": 599,
+        "fours": 44,
+        "sixes": 29,
+        "dismissals": 31,
+        "strike_rate": 120.87,
+        "batting_avg": 23.35
+    },
+    {
+        "batter": "Cameron Green            ",
+        "total_runs": 707,
+        "balls_faced": 472,
+        "fours": 62,
+        "sixes": 32,
+        "dismissals": 20,
+        "strike_rate": 149.79,
+        "batting_avg": 35.35
+    },
+    {
+        "batter": "TL Suman                ",
+        "total_runs": 676,
+        "balls_faced": 587,
+        "fours": 55,
+        "sixes": 26,
+        "dismissals": 30,
+        "strike_rate": 115.16,
+        "batting_avg": 22.53
+    },
+    {
+        "batter": "Abhishek Nayar ",
+        "total_runs": 672,
+        "balls_faced": 588,
+        "fours": 55,
+        "sixes": 20,
+        "dismissals": 39,
+        "strike_rate": 114.29,
+        "batting_avg": 17.23
+    },
+    {
+        "batter": "MR Marsh                ",
+        "total_runs": 665,
+        "balls_faced": 532,
+        "fours": 48,
+        "sixes": 38,
+        "dismissals": 32,
+        "strike_rate": 125.0,
+        "batting_avg": 20.78
+    },
+    {
+        "batter": "GJ Bailey               ",
+        "total_runs": 663,
+        "balls_faced": 552,
+        "fours": 59,
+        "sixes": 19,
+        "dismissals": 29,
+        "strike_rate": 120.11,
+        "batting_avg": 22.86
+    },
+    {
+        "batter": "TH David                ",
+        "total_runs": 659,
+        "balls_faced": 417,
+        "fours": 38,
+        "sixes": 46,
+        "dismissals": 23,
+        "strike_rate": 158.03,
+        "batting_avg": 28.65
+    },
+    {
+        "batter": "E Lewis                 ",
+        "total_runs": 654,
+        "balls_faced": 499,
+        "fours": 62,
+        "sixes": 36,
+        "dismissals": 24,
+        "strike_rate": 131.06,
+        "batting_avg": 27.25
+    },
+    {
+        "batter": "PD Salt                 ",
+        "total_runs": 653,
+        "balls_faced": 385,
+        "fours": 74,
+        "sixes": 34,
+        "dismissals": 20,
+        "strike_rate": 169.61,
+        "batting_avg": 32.65
+    },
+    {
+        "batter": "Ayush Badoni           ",
+        "total_runs": 634,
+        "balls_faced": 505,
+        "fours": 46,
+        "sixes": 24,
+        "dismissals": 26,
+        "strike_rate": 125.54,
+        "batting_avg": 24.38
+    },
+    {
+        "batter": "Piyush Chawla         ",
+        "total_runs": 624,
+        "balls_faced": 580,
+        "fours": 56,
+        "sixes": 20,
+        "dismissals": 57,
+        "strike_rate": 107.59,
+        "batting_avg": 10.95
+    },
+    {
+        "batter": "CH Morris               ",
+        "total_runs": 618,
+        "balls_faced": 413,
+        "fours": 41,
+        "sixes": 35,
+        "dismissals": 29,
+        "strike_rate": 149.64,
+        "batting_avg": 21.31
+    },
+    {
+        "batter": "JJ Roy                  ",
+        "total_runs": 614,
+        "balls_faced": 460,
+        "fours": 75,
+        "sixes": 21,
+        "dismissals": 19,
+        "strike_rate": 133.48,
+        "batting_avg": 32.32
+    },
+    {
+        "batter": "JD Ryder                ",
+        "total_runs": 604,
+        "balls_faced": 466,
+        "fours": 69,
+        "sixes": 19,
+        "dismissals": 29,
+        "strike_rate": 129.61,
+        "batting_avg": 20.83
+    },
+    {
+        "batter": "SN Khan                 ",
+        "total_runs": 585,
+        "balls_faced": 456,
+        "fours": 63,
+        "sixes": 14,
+        "dismissals": 29,
+        "strike_rate": 128.29,
+        "batting_avg": 20.17
+    },
+    {
+        "batter": "Abdul Samad             ",
+        "total_runs": 579,
+        "balls_faced": 408,
+        "fours": 37,
+        "sixes": 36,
+        "dismissals": 32,
+        "strike_rate": 141.91,
+        "batting_avg": 18.09
+    },
+    {
+        "batter": "HM Amla                 ",
+        "total_runs": 577,
+        "balls_faced": 418,
+        "fours": 60,
+        "sixes": 21,
+        "dismissals": 13,
+        "strike_rate": 138.04,
+        "batting_avg": 44.38
+    },
+    {
+        "batter": "M Shahrukh Khan         ",
+        "total_runs": 553,
+        "balls_faced": 413,
+        "fours": 35,
+        "sixes": 37,
+        "dismissals": 25,
+        "strike_rate": 133.9,
+        "batting_avg": 22.12
+    },
+    {
+        "batter": "Rashid Khan             ",
+        "total_runs": 545,
+        "balls_faced": 355,
+        "fours": 39,
+        "sixes": 38,
+        "dismissals": 37,
+        "strike_rate": 153.52,
+        "batting_avg": 14.73
+    },
+    {
+        "batter": "CJ Anderson             ",
+        "total_runs": 538,
+        "balls_faced": 436,
+        "fours": 40,
+        "sixes": 31,
+        "dismissals": 22,
+        "strike_rate": 123.39,
+        "batting_avg": 24.45
+    },
+    {
+        "batter": "Shahbaz Ahmed           ",
+        "total_runs": 536,
+        "balls_faced": 467,
+        "fours": 28,
+        "sixes": 25,
+        "dismissals": 29,
+        "strike_rate": 114.78,
+        "batting_avg": 18.48
+    },
+    {
+        "batter": "RS Bopara               ",
+        "total_runs": 531,
+        "balls_faced": 468,
+        "fours": 39,
+        "sixes": 16,
+        "dismissals": 19,
+        "strike_rate": 113.46,
+        "batting_avg": 27.95
+    },
+    {
+        "batter": "Mahipal Lomror         ",
+        "total_runs": 527,
+        "balls_faced": 389,
+        "fours": 33,
+        "sixes": 30,
+        "dismissals": 30,
+        "strike_rate": 135.48,
+        "batting_avg": 17.57
+    },
+    {
+        "batter": "JP Faulkner             ",
+        "total_runs": 527,
+        "balls_faced": 406,
+        "fours": 36,
+        "sixes": 23,
+        "dismissals": 28,
+        "strike_rate": 129.8,
+        "batting_avg": 18.82
+    },
+    {
+        "batter": "Pat Cummins      ",
+        "total_runs": 515,
+        "balls_faced": 359,
+        "fours": 33,
+        "sixes": 34,
+        "dismissals": 29,
+        "strike_rate": 143.45,
+        "batting_avg": 17.76
+    },
+    {
+        "batter": "M Manhas                ",
+        "total_runs": 514,
+        "balls_faced": 486,
+        "fours": 43,
+        "sixes": 10,
+        "dismissals": 24,
+        "strike_rate": 105.76,
+        "batting_avg": 21.42
+    },
+    {
+        "batter": "Gurkeerat Singh         ",
+        "total_runs": 511,
+        "balls_faced": 436,
+        "fours": 55,
+        "sixes": 11,
+        "dismissals": 27,
+        "strike_rate": 117.2,
+        "batting_avg": 18.93
+    },
+    {
+        "batter": "OA Shah                 ",
+        "total_runs": 506,
+        "balls_faced": 405,
+        "fours": 34,
+        "sixes": 23,
+        "dismissals": 13,
+        "strike_rate": 124.94,
+        "batting_avg": 38.92
+    },
+    {
+        "batter": "PC Valthaty             ",
+        "total_runs": 505,
+        "balls_faced": 432,
+        "fours": 61,
+        "sixes": 20,
+        "dismissals": 22,
+        "strike_rate": 116.9,
+        "batting_avg": 22.95
+    },
+    {
+        "batter": "SW Billings             ",
+        "total_runs": 503,
+        "balls_faced": 399,
+        "fours": 40,
+        "sixes": 20,
+        "dismissals": 26,
+        "strike_rate": 126.07,
+        "batting_avg": 19.35
+    },
+    {
+        "batter": "Rilee Rossouw           ",
+        "total_runs": 473,
+        "balls_faced": 321,
+        "fours": 45,
+        "sixes": 25,
+        "dismissals": 21,
+        "strike_rate": 147.35,
+        "batting_avg": 22.52
+    },
+    {
+        "batter": "DT Christian            ",
+        "total_runs": 460,
+        "balls_faced": 408,
+        "fours": 23,
+        "sixes": 19,
+        "dismissals": 28,
+        "strike_rate": 112.75,
+        "batting_avg": 16.43
+    },
+    {
+        "batter": "NLTC Perera             ",
+        "total_runs": 424,
+        "balls_faced": 326,
+        "fours": 23,
+        "sixes": 26,
+        "dismissals": 24,
+        "strike_rate": 130.06,
+        "batting_avg": 17.67
+    },
+    {
+        "batter": "Swapnil Asnodkar         ",
+        "total_runs": 423,
+        "balls_faced": 352,
+        "fours": 56,
+        "sixes": 10,
+        "dismissals": 19,
+        "strike_rate": 120.17,
+        "batting_avg": 22.26
+    },
+    {
+        "batter": "Shashank Singh          ",
+        "total_runs": 423,
+        "balls_faced": 272,
+        "fours": 33,
+        "sixes": 25,
+        "dismissals": 11,
+        "strike_rate": 155.51,
+        "batting_avg": 38.45
+    },
+    {
+        "batter": "James Hopes       ",
+        "total_runs": 417,
+        "balls_faced": 314,
+        "fours": 49,
+        "sixes": 11,
+        "dismissals": 17,
+        "strike_rate": 132.8,
+        "batting_avg": 24.53
+    },
+    {
+        "batter": "J Botha                 ",
+        "total_runs": 409,
+        "balls_faced": 364,
+        "fours": 39,
+        "sixes": 5,
+        "dismissals": 22,
+        "strike_rate": 112.36,
+        "batting_avg": 18.59
+    },
+    {
+        "batter": "Laxmi Shukla",
+        "total_runs": 405,
+        "balls_faced": 358,
+        "fours": 33,
+        "sixes": 16,
+        "dismissals": 29,
+        "strike_rate": 113.13,
+        "batting_avg": 13.97
+    },
+    {
+        "batter": "T Stubbs                ",
+        "total_runs": 405,
+        "balls_faced": 239,
+        "fours": 26,
+        "sixes": 26,
+        "dismissals": 9,
+        "strike_rate": 169.46,
+        "batting_avg": 45.0
+    },
+    {
+        "batter": "AL Menaria              ",
+        "total_runs": 401,
+        "balls_faced": 367,
+        "fours": 24,
+        "sixes": 18,
+        "dismissals": 22,
+        "strike_rate": 109.26,
+        "batting_avg": 18.23
+    },
+    {
+        "batter": "Mark Boucher              ",
+        "total_runs": 394,
+        "balls_faced": 318,
+        "fours": 32,
+        "sixes": 13,
+        "dismissals": 15,
+        "strike_rate": 123.9,
+        "batting_avg": 26.27
+    },
+    {
+        "batter": "CA Pujara               ",
+        "total_runs": 390,
+        "balls_faced": 403,
+        "fours": 50,
+        "sixes": 4,
+        "dismissals": 18,
+        "strike_rate": 96.77,
+        "batting_avg": 21.67
+    },
+    {
+        "batter": "Azhar Mahmood           ",
+        "total_runs": 388,
+        "balls_faced": 311,
+        "fours": 39,
+        "sixes": 13,
+        "dismissals": 19,
+        "strike_rate": 124.76,
+        "batting_avg": 20.42
+    },
+    {
+        "batter": "Amit Mishra           ",
+        "total_runs": 381,
+        "balls_faced": 440,
+        "fours": 31,
+        "sixes": 5,
+        "dismissals": 31,
+        "strike_rate": 86.59,
+        "batting_avg": 12.29
+    },
+    {
+        "batter": "KR Mayers               ",
+        "total_runs": 379,
+        "balls_faced": 276,
+        "fours": 38,
+        "sixes": 22,
+        "dismissals": 13,
+        "strike_rate": 137.32,
+        "batting_avg": 29.15
+    },
+    {
+        "batter": "Washington Sundar       ",
+        "total_runs": 378,
+        "balls_faced": 341,
+        "fours": 32,
+        "sixes": 9,
+        "dismissals": 27,
+        "strike_rate": 110.85,
+        "batting_avg": 14.0
+    },
+    {
+        "batter": "Dwaraka Ravi Teja        ",
+        "total_runs": 375,
+        "balls_faced": 325,
+        "fours": 35,
+        "sixes": 9,
+        "dismissals": 20,
+        "strike_rate": 115.38,
+        "batting_avg": 18.75
+    },
+    {
+        "batter": "Sunny Sohal    ",
+        "total_runs": 368,
+        "balls_faced": 311,
+        "fours": 34,
+        "sixes": 18,
+        "dismissals": 18,
+        "strike_rate": 118.33,
+        "batting_avg": 20.44
+    },
+    {
+        "batter": "P Negi                  ",
+        "total_runs": 365,
+        "balls_faced": 301,
+        "fours": 27,
+        "sixes": 16,
+        "dismissals": 26,
+        "strike_rate": 121.26,
+        "batting_avg": 14.04
+    },
+    {
+        "batter": "Abishek Porel           ",
+        "total_runs": 360,
+        "balls_faced": 244,
+        "fours": 37,
+        "sixes": 15,
+        "dismissals": 16,
+        "strike_rate": 147.54,
+        "batting_avg": 22.5
+    },
+    {
+        "batter": "Rovman Powell          ",
+        "total_runs": 360,
+        "balls_faced": 254,
+        "fours": 21,
+        "sixes": 28,
+        "dismissals": 20,
+        "strike_rate": 141.73,
+        "batting_avg": 18.0
+    },
+    {
+        "batter": "Karn Sharma        ",
+        "total_runs": 351,
+        "balls_faced": 306,
+        "fours": 20,
+        "sixes": 17,
+        "dismissals": 25,
+        "strike_rate": 114.71,
+        "batting_avg": 14.04
+    },
+    {
+        "batter": "DJ Mitchell             ",
+        "total_runs": 351,
+        "balls_faced": 274,
+        "fours": 28,
+        "sixes": 10,
+        "dismissals": 13,
+        "strike_rate": 128.1,
+        "batting_avg": 27.0
+    },
+    {
+        "batter": "Nehal Wadhera             ",
+        "total_runs": 350,
+        "balls_faced": 261,
+        "fours": 32,
+        "sixes": 18,
+        "dismissals": 15,
+        "strike_rate": 134.1,
+        "batting_avg": 23.33
+    },
+    {
+        "batter": "Dhruv Jurel             ",
+        "total_runs": 347,
+        "balls_faced": 237,
+        "fours": 29,
+        "sixes": 16,
+        "dismissals": 13,
+        "strike_rate": 146.41,
+        "batting_avg": 26.69
+    },
+    {
+        "batter": "Rajat Bhatia        ",
+        "total_runs": 342,
+        "balls_faced": 290,
+        "fours": 24,
+        "sixes": 13,
+        "dismissals": 29,
+        "strike_rate": 117.93,
+        "batting_avg": 11.79
+    },
+    {
+        "batter": "Praveen Kumar",
+        "total_runs": 340,
+        "balls_faced": 323,
+        "fours": 22,
+        "sixes": 17,
+        "dismissals": 34,
+        "strike_rate": 105.26,
+        "batting_avg": 10.0
+    },
+    {
+        "batter": "AP Tare                 ",
+        "total_runs": 339,
+        "balls_faced": 285,
+        "fours": 40,
+        "sixes": 11,
+        "dismissals": 24,
+        "strike_rate": 118.95,
+        "batting_avg": 14.12
+    },
+    {
+        "batter": "J Fraser-McGurk         ",
+        "total_runs": 330,
+        "balls_faced": 150,
+        "fours": 32,
+        "sixes": 28,
+        "dismissals": 8,
+        "strike_rate": 220.0,
+        "batting_avg": 41.25
+    },
+    {
+        "batter": "JEC Franklin            ",
+        "total_runs": 327,
+        "balls_faced": 309,
+        "fours": 25,
+        "sixes": 9,
+        "dismissals": 11,
+        "strike_rate": 105.83,
+        "batting_avg": 29.73
+    },
+    {
+        "batter": "RN ten Doeschate        ",
+        "total_runs": 326,
+        "balls_faced": 238,
+        "fours": 26,
+        "sixes": 15,
+        "dismissals": 17,
+        "strike_rate": 136.97,
+        "batting_avg": 19.18
+    },
+    {
+        "batter": "Anuj Rawat              ",
+        "total_runs": 318,
+        "balls_faced": 276,
+        "fours": 26,
+        "sixes": 14,
+        "dismissals": 14,
+        "strike_rate": 115.22,
+        "batting_avg": 22.71
+    },
+    {
+        "batter": "R Vinay Kumar           ",
+        "total_runs": 310,
+        "balls_faced": 289,
+        "fours": 21,
+        "sixes": 9,
+        "dismissals": 26,
+        "strike_rate": 107.27,
+        "batting_avg": 11.92
+    },
+    {
+        "batter": "Shardul Thakur        ",
+        "total_runs": 307,
+        "balls_faced": 228,
+        "fours": 27,
+        "sixes": 13,
+        "dismissals": 23,
+        "strike_rate": 134.65,
+        "batting_avg": 13.35
+    },
+    {
+        "batter": "Bhuvneshwar Kumar        ",
+        "total_runs": 306,
+        "balls_faced": 338,
+        "fours": 30,
+        "sixes": 3,
+        "dismissals": 34,
+        "strike_rate": 90.53,
+        "batting_avg": 9.0
+    },
+    {
+        "batter": "Lalit Yadav             ",
+        "total_runs": 305,
+        "balls_faced": 301,
+        "fours": 27,
+        "sixes": 7,
+        "dismissals": 15,
+        "strike_rate": 101.33,
+        "batting_avg": 20.33
+    },
+    {
+        "batter": "Debabrata Das    ",
+        "total_runs": 304,
+        "balls_faced": 267,
+        "fours": 23,
+        "sixes": 16,
+        "dismissals": 12,
+        "strike_rate": 113.86,
+        "batting_avg": 25.33
+    },
+    {
+        "batter": "Nithish Kumar Reddy     ",
+        "total_runs": 303,
+        "balls_faced": 221,
+        "fours": 15,
+        "sixes": 21,
+        "dismissals": 9,
+        "strike_rate": 137.1,
+        "batting_avg": 33.67
+    },
+    {
+        "batter": "C de Grandhomme         ",
+        "total_runs": 303,
+        "balls_faced": 229,
+        "fours": 18,
+        "sixes": 18,
+        "dismissals": 15,
+        "strike_rate": 132.31,
+        "batting_avg": 20.2
+    },
+    {
+        "batter": "Luke Pomersbach   ",
+        "total_runs": 302,
+        "balls_faced": 251,
+        "fours": 25,
+        "sixes": 13,
+        "dismissals": 11,
+        "strike_rate": 120.32,
+        "batting_avg": 27.45
+    },
+    {
+        "batter": "UBT Chand               ",
+        "total_runs": 300,
+        "balls_faced": 314,
+        "fours": 32,
+        "sixes": 9,
+        "dismissals": 20,
+        "strike_rate": 95.54,
+        "batting_avg": 15.0
+    },
+    {
+        "batter": "DJG Sammy               ",
+        "total_runs": 295,
+        "balls_faced": 251,
+        "fours": 15,
+        "sixes": 18,
+        "dismissals": 15,
+        "strike_rate": 117.53,
+        "batting_avg": 19.67
+    },
+    {
+        "batter": "Shreevats Goswami      ",
+        "total_runs": 293,
+        "balls_faced": 307,
+        "fours": 32,
+        "sixes": 3,
+        "dismissals": 20,
+        "strike_rate": 95.44,
+        "batting_avg": 14.65
+    },
+    {
+        "batter": "Rahmanullah Gurbaz      ",
+        "total_runs": 289,
+        "balls_faced": 228,
+        "fours": 24,
+        "sixes": 19,
+        "dismissals": 13,
+        "strike_rate": 126.75,
+        "batting_avg": 22.23
+    },
+    {
+        "batter": "Y Nagar                 ",
+        "total_runs": 285,
+        "balls_faced": 271,
+        "fours": 20,
+        "sixes": 9,
+        "dismissals": 15,
+        "strike_rate": 105.17,
+        "batting_avg": 19.0
+    },
+    {
+        "batter": "GH Vihari               ",
+        "total_runs": 284,
+        "balls_faced": 331,
+        "fours": 23,
+        "sixes": 1,
+        "dismissals": 20,
+        "strike_rate": 85.8,
+        "batting_avg": 14.2
+    },
+    {
+        "batter": "VVS Laxman              ",
+        "total_runs": 282,
+        "balls_faced": 271,
+        "fours": 33,
+        "sixes": 5,
+        "dismissals": 16,
+        "strike_rate": 104.06,
+        "batting_avg": 17.62
+    },
+    {
+        "batter": "A Ashish Reddy          ",
+        "total_runs": 280,
+        "balls_faced": 196,
+        "fours": 16,
+        "sixes": 15,
+        "dismissals": 15,
+        "strike_rate": 142.86,
+        "batting_avg": 18.67
+    },
+    {
+        "batter": "Bharat Chipli             ",
+        "total_runs": 280,
+        "balls_faced": 256,
+        "fours": 28,
+        "sixes": 7,
+        "dismissals": 16,
+        "strike_rate": 109.38,
+        "batting_avg": 17.5
+    },
+    {
+        "batter": "MJ Lumb                 ",
+        "total_runs": 278,
+        "balls_faced": 198,
+        "fours": 45,
+        "sixes": 6,
+        "dismissals": 10,
+        "strike_rate": 140.4,
+        "batting_avg": 27.8
+    },
+    {
+        "batter": "PBB Rajapaksa           ",
+        "total_runs": 277,
+        "balls_faced": 201,
+        "fours": 22,
+        "sixes": 15,
+        "dismissals": 12,
+        "strike_rate": 137.81,
+        "batting_avg": 23.08
+    },
+    {
+        "batter": "PK Garg                 ",
+        "total_runs": 273,
+        "balls_faced": 247,
+        "fours": 16,
+        "sixes": 9,
+        "dismissals": 19,
+        "strike_rate": 110.53,
+        "batting_avg": 14.37
+    },
+    {
+        "batter": "MJ Guptill              ",
+        "total_runs": 271,
+        "balls_faced": 197,
+        "fours": 24,
+        "sixes": 15,
+        "dismissals": 12,
+        "strike_rate": 137.56,
+        "batting_avg": 22.58
+    },
+    {
+        "batter": "R Sathish               ",
+        "total_runs": 270,
+        "balls_faced": 236,
+        "fours": 22,
+        "sixes": 6,
+        "dismissals": 16,
+        "strike_rate": 114.41,
+        "batting_avg": 16.88
+    },
+    {
+        "batter": "Mohammad Kaif            ",
+        "total_runs": 259,
+        "balls_faced": 258,
+        "fours": 22,
+        "sixes": 6,
+        "dismissals": 16,
+        "strike_rate": 100.39,
+        "batting_avg": 16.19
+    },
+    {
+        "batter": "JO Holder               ",
+        "total_runs": 259,
+        "balls_faced": 217,
+        "fours": 13,
+        "sixes": 18,
+        "dismissals": 21,
+        "strike_rate": 119.35,
+        "batting_avg": 12.33
+    },
+    {
+        "batter": "Harshal Patel          ",
+        "total_runs": 249,
+        "balls_faced": 214,
+        "fours": 16,
+        "sixes": 15,
+        "dismissals": 26,
+        "strike_rate": 116.36,
+        "batting_avg": 9.58
+    },
+    {
+        "batter": "Atharva Taide           ",
+        "total_runs": 247,
+        "balls_faced": 177,
+        "fours": 27,
+        "sixes": 8,
+        "dismissals": 8,
+        "strike_rate": 139.55,
+        "batting_avg": 30.88
+    },
+    {
+        "batter": "K Gowtham               ",
+        "total_runs": 247,
+        "balls_faced": 159,
+        "fours": 15,
+        "sixes": 17,
+        "dismissals": 18,
+        "strike_rate": 155.35,
+        "batting_avg": 13.72
+    },
+    {
+        "batter": "Simon Katich         ",
+        "total_runs": 241,
+        "balls_faced": 191,
+        "fours": 26,
+        "sixes": 8,
+        "dismissals": 10,
+        "strike_rate": 126.18,
+        "batting_avg": 24.1
+    },
+    {
+        "batter": "BCJ Cutting             ",
+        "total_runs": 238,
+        "balls_faced": 146,
+        "fours": 15,
+        "sixes": 19,
+        "dismissals": 11,
+        "strike_rate": 163.01,
+        "batting_avg": 21.64
+    },
+    {
+        "batter": "MD Mishra               ",
+        "total_runs": 237,
+        "balls_faced": 213,
+        "fours": 24,
+        "sixes": 8,
+        "dismissals": 15,
+        "strike_rate": 111.27,
+        "batting_avg": 15.8
+    },
+    {
+        "batter": "Harpreet Brar           ",
+        "total_runs": 233,
+        "balls_faced": 201,
+        "fours": 19,
+        "sixes": 9,
+        "dismissals": 12,
+        "strike_rate": 115.92,
+        "batting_avg": 19.42
+    },
+    {
+        "batter": "A Manohar               ",
+        "total_runs": 231,
+        "balls_faced": 181,
+        "fours": 21,
+        "sixes": 10,
+        "dismissals": 14,
+        "strike_rate": 127.62,
+        "batting_avg": 16.5
+    },
+    {
+        "batter": "Dewald Brevis           ",
+        "total_runs": 230,
+        "balls_faced": 176,
+        "fours": 17,
+        "sixes": 16,
+        "dismissals": 10,
+        "strike_rate": 130.68,
+        "batting_avg": 23.0
+    },
+    {
+        "batter": "WG Jacks                ",
+        "total_runs": 230,
+        "balls_faced": 133,
+        "fours": 16,
+        "sixes": 18,
+        "dismissals": 6,
+        "strike_rate": 172.93,
+        "batting_avg": 38.33
+    },
+    {
+        "batter": "Rachin Ravindra         ",
+        "total_runs": 222,
+        "balls_faced": 146,
+        "fours": 22,
+        "sixes": 12,
+        "dismissals": 9,
+        "strike_rate": 152.05,
+        "batting_avg": 24.67
+    },
+    {
+        "batter": "Mohammad Nabi           ",
+        "total_runs": 221,
+        "balls_faced": 157,
+        "fours": 18,
+        "sixes": 12,
+        "dismissals": 17,
+        "strike_rate": 140.76,
+        "batting_avg": 13.0
+    },
+    {
+        "batter": "Karan Goel            ",
+        "total_runs": 218,
+        "balls_faced": 239,
+        "fours": 17,
+        "sixes": 9,
+        "dismissals": 14,
+        "strike_rate": 91.21,
+        "batting_avg": 15.57
+    },
+    {
+        "batter": "AA Jhunjhunwala         ",
+        "total_runs": 217,
+        "balls_faced": 218,
+        "fours": 19,
+        "sixes": 5,
+        "dismissals": 14,
+        "strike_rate": 99.54,
+        "batting_avg": 15.5
+    },
+    {
+        "batter": "Rishi Dhawan        ",
+        "total_runs": 210,
+        "balls_faced": 188,
+        "fours": 18,
+        "sixes": 7,
+        "dismissals": 10,
+        "strike_rate": 111.7,
+        "batting_avg": 21.0
+    },
+    {
+        "batter": "UT Yadav                ",
+        "total_runs": 208,
+        "balls_faced": 211,
+        "fours": 16,
+        "sixes": 9,
+        "dismissals": 21,
+        "strike_rate": 98.58,
+        "batting_avg": 9.9
+    },
+    {
+        "batter": "K Rabada                ",
+        "total_runs": 206,
+        "balls_faced": 207,
+        "fours": 16,
+        "sixes": 8,
+        "dismissals": 16,
+        "strike_rate": 99.52,
+        "batting_avg": 12.88
+    },
+    {
+        "batter": "CA Ingram               ",
+        "total_runs": 205,
+        "balls_faced": 183,
+        "fours": 22,
+        "sixes": 5,
+        "dismissals": 12,
+        "strike_rate": 112.02,
+        "batting_avg": 17.08
+    },
+    {
+        "batter": "PD Collingwood          ",
+        "total_runs": 203,
+        "balls_faced": 159,
+        "fours": 9,
+        "sixes": 13,
+        "dismissals": 4,
+        "strike_rate": 127.67,
+        "batting_avg": 50.75
+    },
+    {
+        "batter": "JC Archer               ",
+        "total_runs": 199,
+        "balls_faced": 132,
+        "fours": 11,
+        "sixes": 14,
+        "dismissals": 13,
+        "strike_rate": 150.76,
+        "batting_avg": 15.31
+    },
+    {
+        "batter": "KS Bharat               ",
+        "total_runs": 199,
+        "balls_faced": 168,
+        "fours": 12,
+        "sixes": 8,
+        "dismissals": 7,
+        "strike_rate": 118.45,
+        "batting_avg": 28.43
+    },
+    {
+        "batter": "Shane Warne           ",
+        "total_runs": 198,
+        "balls_faced": 219,
+        "fours": 14,
+        "sixes": 6,
+        "dismissals": 19,
+        "strike_rate": 90.41,
+        "batting_avg": 10.42
+    },
+    {
+        "batter": "Jaydev Unadkat         ",
+        "total_runs": 197,
+        "balls_faced": 170,
+        "fours": 16,
+        "sixes": 7,
+        "dismissals": 14,
+        "strike_rate": 115.88,
+        "batting_avg": 14.07
+    },
+    {
+        "batter": "Stephen Fleming           ",
+        "total_runs": 196,
+        "balls_faced": 171,
+        "fours": 27,
+        "sixes": 3,
+        "dismissals": 9,
+        "strike_rate": 114.62,
+        "batting_avg": 21.78
+    },
+    {
+        "batter": "AS Raut                 ",
+        "total_runs": 194,
+        "balls_faced": 172,
+        "fours": 13,
+        "sixes": 7,
+        "dismissals": 11,
+        "strike_rate": 112.79,
+        "batting_avg": 17.64
+    },
+    {
+        "batter": "BJ Rohrer               ",
+        "total_runs": 193,
+        "balls_faced": 146,
+        "fours": 21,
+        "sixes": 5,
+        "dismissals": 7,
+        "strike_rate": 132.19,
+        "batting_avg": 27.57
+    },
+    {
+        "batter": "Salman Butt             ",
+        "total_runs": 193,
+        "balls_faced": 172,
+        "fours": 30,
+        "sixes": 2,
+        "dismissals": 7,
+        "strike_rate": 112.21,
+        "batting_avg": 27.57
+    },
+    {
+        "batter": "Yogesh Takawale       ",
+        "total_runs": 192,
+        "balls_faced": 183,
+        "fours": 26,
+        "sixes": 3,
+        "dismissals": 8,
+        "strike_rate": 104.92,
+        "batting_avg": 24.0
+    },
+    {
+        "batter": "HC Brook                ",
+        "total_runs": 190,
+        "balls_faced": 159,
+        "fours": 23,
+        "sixes": 4,
+        "dismissals": 9,
+        "strike_rate": 119.5,
+        "batting_avg": 21.11
+    },
+    {
+        "batter": "Ashutosh Sharma         ",
+        "total_runs": 189,
+        "balls_faced": 118,
+        "fours": 10,
+        "sixes": 15,
+        "dismissals": 8,
+        "strike_rate": 160.17,
+        "batting_avg": 23.62
+    },
+    {
+        "batter": "Bipul Sharma            ",
+        "total_runs": 187,
+        "balls_faced": 124,
+        "fours": 11,
+        "sixes": 9,
+        "dismissals": 6,
+        "strike_rate": 150.81,
+        "batting_avg": 31.17
+    },
+    {
+        "batter": "SD Hope                 ",
+        "total_runs": 183,
+        "balls_faced": 125,
+        "fours": 12,
+        "sixes": 12,
+        "dismissals": 8,
+        "strike_rate": 146.4,
+        "batting_avg": 22.88
+    },
+    {
+        "batter": "Kuldeep Yadav           ",
+        "total_runs": 183,
+        "balls_faced": 224,
+        "fours": 16,
+        "sixes": 3,
+        "dismissals": 10,
+        "strike_rate": 81.7,
+        "batting_avg": 18.3
+    },
+    {
+        "batter": "FY Fazal                ",
+        "total_runs": 183,
+        "balls_faced": 179,
+        "fours": 22,
+        "sixes": 1,
+        "dismissals": 9,
+        "strike_rate": 102.23,
+        "batting_avg": 20.33
+    },
+    {
+        "batter": "MS Wade                 ",
+        "total_runs": 183,
+        "balls_faced": 185,
+        "fours": 23,
+        "sixes": 2,
+        "dismissals": 13,
+        "strike_rate": 98.92,
+        "batting_avg": 14.08
+    },
+    {
+        "batter": "Sikandar Raza           ",
+        "total_runs": 182,
+        "balls_faced": 143,
+        "fours": 12,
+        "sixes": 8,
+        "dismissals": 7,
+        "strike_rate": 127.27,
+        "batting_avg": 26.0
+    },
+    {
+        "batter": "AC Voges                ",
+        "total_runs": 181,
+        "balls_faced": 143,
+        "fours": 15,
+        "sixes": 3,
+        "dismissals": 6,
+        "strike_rate": 126.57,
+        "batting_avg": 30.17
+    },
+    {
+        "batter": "CR Brathwaite           ",
+        "total_runs": 181,
+        "balls_faced": 120,
+        "fours": 10,
+        "sixes": 16,
+        "dismissals": 14,
+        "strike_rate": 150.83,
+        "batting_avg": 12.93
+    },
+    {
+        "batter": "S Gopal                 ",
+        "total_runs": 180,
+        "balls_faced": 173,
+        "fours": 19,
+        "sixes": 2,
+        "dismissals": 13,
+        "strike_rate": 104.05,
+        "batting_avg": 13.85
+    },
+    {
+        "batter": "Ajit Agarkar      ",
+        "total_runs": 179,
+        "balls_faced": 160,
+        "fours": 13,
+        "sixes": 5,
+        "dismissals": 8,
+        "strike_rate": 111.87,
+        "batting_avg": 22.38
+    },
+    {
+        "batter": "C Munro                 ",
+        "total_runs": 177,
+        "balls_faced": 144,
+        "fours": 19,
+        "sixes": 8,
+        "dismissals": 9,
+        "strike_rate": 122.92,
+        "batting_avg": 19.67
+    },
+    {
+        "batter": "Farveez Maharoof       ",
+        "total_runs": 177,
+        "balls_faced": 124,
+        "fours": 12,
+        "sixes": 9,
+        "dismissals": 10,
+        "strike_rate": 142.74,
+        "batting_avg": 17.7
+    },
+    {
+        "batter": "DH Yagnik               ",
+        "total_runs": 170,
+        "balls_faced": 142,
+        "fours": 23,
+        "sixes": 2,
+        "dismissals": 9,
+        "strike_rate": 119.72,
+        "batting_avg": 18.89
+    },
+    {
+        "batter": "Ramandeep Singh         ",
+        "total_runs": 170,
+        "balls_faced": 106,
+        "fours": 8,
+        "sixes": 13,
+        "dismissals": 6,
+        "strike_rate": 160.38,
+        "batting_avg": 28.33
+    },
+    {
+        "batter": "CM Gautam               ",
+        "total_runs": 169,
+        "balls_faced": 158,
+        "fours": 17,
+        "sixes": 6,
+        "dismissals": 9,
+        "strike_rate": 106.96,
+        "batting_avg": 18.78
+    },
+    {
+        "batter": "MN van Wyk              ",
+        "total_runs": 167,
+        "balls_faced": 135,
+        "fours": 19,
+        "sixes": 1,
+        "dismissals": 3,
+        "strike_rate": 123.7,
+        "batting_avg": 55.67
+    },
+    {
+        "batter": "MG Johnson              ",
+        "total_runs": 167,
+        "balls_faced": 168,
+        "fours": 10,
+        "sixes": 7,
+        "dismissals": 14,
+        "strike_rate": 99.4,
+        "batting_avg": 11.93
+    },
+    {
+        "batter": "Dale Steyn         ",
+        "total_runs": 167,
+        "balls_faced": 163,
+        "fours": 14,
+        "sixes": 3,
+        "dismissals": 22,
+        "strike_rate": 102.45,
+        "batting_avg": 7.59
+    },
+    {
+        "batter": "PA Reddy                ",
+        "total_runs": 164,
+        "balls_faced": 167,
+        "fours": 15,
+        "sixes": 2,
+        "dismissals": 10,
+        "strike_rate": 98.2,
+        "batting_avg": 16.4
+    },
+    {
+        "batter": "A Raghuvanshi           ",
+        "total_runs": 163,
+        "balls_faced": 109,
+        "fours": 16,
+        "sixes": 8,
+        "dismissals": 7,
+        "strike_rate": 149.54,
+        "batting_avg": 23.29
+    },
+    {
+        "batter": "N Jagadeesan            ",
+        "total_runs": 162,
+        "balls_faced": 155,
+        "fours": 21,
+        "sixes": 2,
+        "dismissals": 9,
+        "strike_rate": 104.52,
+        "batting_avg": 18.0
+    },
+    {
+        "batter": "MN Samuels              ",
+        "total_runs": 161,
+        "balls_faced": 174,
+        "fours": 9,
+        "sixes": 7,
+        "dismissals": 12,
+        "strike_rate": 92.53,
+        "batting_avg": 13.42
+    },
+    {
+        "batter": "R McLaren               ",
+        "total_runs": 159,
+        "balls_faced": 178,
+        "fours": 14,
+        "sixes": 1,
+        "dismissals": 8,
+        "strike_rate": 89.33,
+        "batting_avg": 19.88
+    },
+    {
+        "batter": "RE van der Merwe        ",
+        "total_runs": 159,
+        "balls_faced": 144,
+        "fours": 11,
+        "sixes": 8,
+        "dismissals": 12,
+        "strike_rate": 110.42,
+        "batting_avg": 13.25
+    },
+    {
+        "batter": "D Wiese                 ",
+        "total_runs": 148,
+        "balls_faced": 105,
+        "fours": 12,
+        "sixes": 7,
+        "dismissals": 6,
+        "strike_rate": 140.95,
+        "batting_avg": 24.67
+    },
+    {
+        "batter": "AD Hales                ",
+        "total_runs": 148,
+        "balls_faced": 119,
+        "fours": 13,
+        "sixes": 6,
+        "dismissals": 6,
+        "strike_rate": 124.37,
+        "batting_avg": 24.67
+    },
+    {
+        "batter": "Shaun Pollock ",
+        "total_runs": 147,
+        "balls_faced": 116,
+        "fours": 12,
+        "sixes": 8,
+        "dismissals": 8,
+        "strike_rate": 126.72,
+        "batting_avg": 18.38
+    },
+    {
+        "batter": "Vidyut Sivaramakrishnan             ",
+        "total_runs": 145,
+        "balls_faced": 115,
+        "fours": 21,
+        "sixes": 3,
+        "dismissals": 8,
+        "strike_rate": 126.09,
+        "batting_avg": 18.12
+    },
+    {
+        "batter": "Sachin Baby             ",
+        "total_runs": 144,
+        "balls_faced": 123,
+        "fours": 11,
+        "sixes": 5,
+        "dismissals": 10,
+        "strike_rate": 117.07,
+        "batting_avg": 14.4
+    },
+    {
+        "batter": "N Saini                 ",
+        "total_runs": 140,
+        "balls_faced": 143,
+        "fours": 16,
+        "sixes": 0,
+        "dismissals": 11,
+        "strike_rate": 97.9,
+        "batting_avg": 12.73
+    },
+    {
+        "batter": "Naman Dhir              ",
+        "total_runs": 140,
+        "balls_faced": 84,
+        "fours": 12,
+        "sixes": 10,
+        "dismissals": 6,
+        "strike_rate": 166.67,
+        "batting_avg": 23.33
+    },
+    {
+        "batter": "Anmolpreet Singh        ",
+        "total_runs": 139,
+        "balls_faced": 117,
+        "fours": 19,
+        "sixes": 3,
+        "dismissals": 9,
+        "strike_rate": 118.8,
+        "batting_avg": 15.44
+    },
+    {
+        "batter": "S Anirudha              ",
+        "total_runs": 136,
+        "balls_faced": 121,
+        "fours": 9,
+        "sixes": 7,
+        "dismissals": 8,
+        "strike_rate": 112.4,
+        "batting_avg": 17.0
+    },
+    {
+        "batter": "Scott Styris ",
+        "total_runs": 131,
+        "balls_faced": 134,
+        "fours": 10,
+        "sixes": 3,
+        "dismissals": 7,
+        "strike_rate": 97.76,
+        "batting_avg": 18.71
+    },
+    {
+        "batter": "Wasim Jaffer ",
+        "total_runs": 130,
+        "balls_faced": 129,
+        "fours": 14,
+        "sixes": 3,
+        "dismissals": 7,
+        "strike_rate": 100.78,
+        "batting_avg": 18.57
+    },
+    {
+        "batter": "Rahul Chahar          ",
+        "total_runs": 129,
+        "balls_faced": 127,
+        "fours": 13,
+        "sixes": 5,
+        "dismissals": 16,
+        "strike_rate": 101.57,
+        "batting_avg": 8.06
+    },
+    {
+        "batter": "Kamran Akmal            ",
+        "total_runs": 128,
+        "balls_faced": 78,
+        "fours": 13,
+        "sixes": 8,
+        "dismissals": 4,
+        "strike_rate": 164.1,
+        "batting_avg": 32.0
+    },
+    {
+        "batter": "TK Curran               ",
+        "total_runs": 127,
+        "balls_faced": 108,
+        "fours": 10,
+        "sixes": 3,
+        "dismissals": 5,
+        "strike_rate": 117.59,
+        "batting_avg": 25.4
+    },
+    {
+        "batter": "UT Khawaja              ",
+        "total_runs": 127,
+        "balls_faced": 105,
+        "fours": 14,
+        "sixes": 3,
+        "dismissals": 5,
+        "strike_rate": 120.95,
+        "batting_avg": 25.4
+    },
+    {
+        "batter": "P Dogra                 ",
+        "total_runs": 127,
+        "balls_faced": 141,
+        "fours": 4,
+        "sixes": 5,
+        "dismissals": 12,
+        "strike_rate": 90.07,
+        "batting_avg": 10.58
+    },
+    {
+        "batter": "M Morkel                ",
+        "total_runs": 126,
+        "balls_faced": 93,
+        "fours": 11,
+        "sixes": 5,
+        "dismissals": 11,
+        "strike_rate": 135.48,
+        "batting_avg": 11.45
+    },
+    {
+        "batter": "SS Prabhudessai         ",
+        "total_runs": 126,
+        "balls_faced": 113,
+        "fours": 11,
+        "sixes": 4,
+        "dismissals": 9,
+        "strike_rate": 111.5,
+        "batting_avg": 14.0
+    },
+    {
+        "batter": "MC Juneja               ",
+        "total_runs": 125,
+        "balls_faced": 134,
+        "fours": 11,
+        "sixes": 1,
+        "dismissals": 7,
+        "strike_rate": 93.28,
+        "batting_avg": 17.86
+    },
+    {
+        "batter": "BB Samantray            ",
+        "total_runs": 125,
+        "balls_faced": 116,
+        "fours": 13,
+        "sixes": 2,
+        "dismissals": 5,
+        "strike_rate": 107.76,
+        "batting_avg": 25.0
+    },
+    {
+        "batter": "Brett Lee          ",
+        "total_runs": 124,
+        "balls_faced": 102,
+        "fours": 8,
+        "sixes": 8,
+        "dismissals": 10,
+        "strike_rate": 121.57,
+        "batting_avg": 12.4
+    },
+    {
+        "batter": "MM Sharma               ",
+        "total_runs": 124,
+        "balls_faced": 137,
+        "fours": 9,
+        "sixes": 4,
+        "dismissals": 16,
+        "strike_rate": 90.51,
+        "batting_avg": 7.75
+    },
+    {
+        "batter": "Harpreet Singh          ",
+        "total_runs": 123,
+        "balls_faced": 119,
+        "fours": 10,
+        "sixes": 3,
+        "dismissals": 6,
+        "strike_rate": 103.36,
+        "batting_avg": 20.5
+    },
+    {
+        "batter": "AB McDonald             ",
+        "total_runs": 123,
+        "balls_faced": 103,
+        "fours": 9,
+        "sixes": 4,
+        "dismissals": 5,
+        "strike_rate": 119.42,
+        "batting_avg": 24.6
+    },
+    {
+        "batter": "Niraj Patel            ",
+        "total_runs": 121,
+        "balls_faced": 124,
+        "fours": 14,
+        "sixes": 1,
+        "dismissals": 5,
+        "strike_rate": 97.58,
+        "batting_avg": 24.2
+    },
+    {
+        "batter": "Daniel Vettori         ",
+        "total_runs": 121,
+        "balls_faced": 118,
+        "fours": 11,
+        "sixes": 2,
+        "dismissals": 7,
+        "strike_rate": 102.54,
+        "batting_avg": 17.29
+    },
+    {
+        "batter": "TG Southee              ",
+        "total_runs": 120,
+        "balls_faced": 108,
+        "fours": 8,
+        "sixes": 4,
+        "dismissals": 11,
+        "strike_rate": 111.11,
+        "batting_avg": 10.91
+    },
+    {
+        "batter": "AC Blizzard             ",
+        "total_runs": 120,
+        "balls_faced": 91,
+        "fours": 21,
+        "sixes": 2,
+        "dismissals": 7,
+        "strike_rate": 131.87,
+        "batting_avg": 17.14
+    },
+    {
+        "batter": "MW Short                ",
+        "total_runs": 117,
+        "balls_faced": 99,
+        "fours": 15,
+        "sixes": 4,
+        "dismissals": 6,
+        "strike_rate": 118.18,
+        "batting_avg": 19.5
+    },
+    {
+        "batter": "Misbah-ul-Haq           ",
+        "total_runs": 117,
+        "balls_faced": 82,
+        "fours": 10,
+        "sixes": 6,
+        "dismissals": 9,
+        "strike_rate": 142.68,
+        "batting_avg": 13.0
+    },
+    {
+        "batter": "Zaheer Khan               ",
+        "total_runs": 117,
+        "balls_faced": 141,
+        "fours": 11,
+        "sixes": 2,
+        "dismissals": 15,
+        "strike_rate": 82.98,
+        "batting_avg": 7.8
+    },
+    {
+        "batter": "RJ Harris               ",
+        "total_runs": 117,
+        "balls_faced": 112,
+        "fours": 6,
+        "sixes": 3,
+        "dismissals": 12,
+        "strike_rate": 104.46,
+        "batting_avg": 9.75
+    },
+    {
+        "batter": "KK Cooper               ",
+        "total_runs": 116,
+        "balls_faced": 70,
+        "fours": 9,
+        "sixes": 8,
+        "dismissals": 9,
+        "strike_rate": 165.71,
+        "batting_avg": 12.89
+    },
+    {
+        "batter": "Aman Hakim Khan         ",
+        "total_runs": 115,
+        "balls_faced": 109,
+        "fours": 8,
+        "sixes": 6,
+        "dismissals": 9,
+        "strike_rate": 105.5,
+        "batting_avg": 12.78
+    },
+    {
+        "batter": "R Shepherd              ",
+        "total_runs": 115,
+        "balls_faced": 68,
+        "fours": 7,
+        "sixes": 10,
+        "dismissals": 6,
+        "strike_rate": 169.12,
+        "batting_avg": 19.17
+    },
+    {
+        "batter": "DJM Short               ",
+        "total_runs": 115,
+        "balls_faced": 102,
+        "fours": 11,
+        "sixes": 5,
+        "dismissals": 7,
+        "strike_rate": 112.75,
+        "batting_avg": 16.43
+    },
+    {
+        "batter": "Murali Kartik          ",
+        "total_runs": 113,
+        "balls_faced": 109,
+        "fours": 7,
+        "sixes": 1,
+        "dismissals": 7,
+        "strike_rate": 103.67,
+        "batting_avg": 16.14
+    },
+    {
+        "batter": "DJ Harris               ",
+        "total_runs": 111,
+        "balls_faced": 103,
+        "fours": 11,
+        "sixes": 5,
+        "dismissals": 3,
+        "strike_rate": 107.77,
+        "batting_avg": 37.0
+    },
+    {
+        "batter": "Mohammed Siraj          ",
+        "total_runs": 109,
+        "balls_faced": 122,
+        "fours": 10,
+        "sixes": 4,
+        "dismissals": 10,
+        "strike_rate": 89.34,
+        "batting_avg": 10.9
+    },
+    {
+        "batter": "SE Rutherford           ",
+        "total_runs": 106,
+        "balls_faced": 107,
+        "fours": 3,
+        "sixes": 8,
+        "dismissals": 7,
+        "strike_rate": 99.07,
+        "batting_avg": 15.14
+    },
+    {
+        "batter": "LJ Wright               ",
+        "total_runs": 106,
+        "balls_faced": 63,
+        "fours": 16,
+        "sixes": 3,
+        "dismissals": 4,
+        "strike_rate": 168.25,
+        "batting_avg": 26.5
+    },
+    {
+        "batter": "Jacob Oram              ",
+        "total_runs": 106,
+        "balls_faced": 110,
+        "fours": 6,
+        "sixes": 5,
+        "dismissals": 8,
+        "strike_rate": 96.36,
+        "batting_avg": 13.25
+    },
+    {
+        "batter": "Mitchell Starc            ",
+        "total_runs": 105,
+        "balls_faced": 109,
+        "fours": 11,
+        "sixes": 0,
+        "dismissals": 8,
+        "strike_rate": 96.33,
+        "batting_avg": 13.12
+    },
+    {
+        "batter": "Dhawal Kulkarni        ",
+        "total_runs": 104,
+        "balls_faced": 113,
+        "fours": 7,
+        "sixes": 2,
+        "dismissals": 9,
+        "strike_rate": 92.04,
+        "batting_avg": 11.56
+    },
+    {
+        "batter": "RJ Quiney               ",
+        "total_runs": 103,
+        "balls_faced": 105,
+        "fours": 12,
+        "sixes": 3,
+        "dismissals": 7,
+        "strike_rate": 98.1,
+        "batting_avg": 14.71
+    },
+    {
+        "batter": "Manpreet Gony           ",
+        "total_runs": 99,
+        "balls_faced": 76,
+        "fours": 6,
+        "sixes": 8,
+        "dismissals": 9,
+        "strike_rate": 130.26,
+        "batting_avg": 11.0
+    },
+    {
+        "batter": "Siddharth Chitnis",
+        "total_runs": 99,
+        "balls_faced": 92,
+        "fours": 10,
+        "sixes": 2,
+        "dismissals": 7,
+        "strike_rate": 107.61,
+        "batting_avg": 14.14
+    },
+    {
+        "batter": "CJ Ferguson             ",
+        "total_runs": 98,
+        "balls_faced": 119,
+        "fours": 9,
+        "sixes": 0,
+        "dismissals": 6,
+        "strike_rate": 82.35,
+        "batting_avg": 16.33
+    },
+    {
+        "batter": "MJ Clarke               ",
+        "total_runs": 98,
+        "balls_faced": 96,
+        "fours": 12,
+        "sixes": 0,
+        "dismissals": 6,
+        "strike_rate": 102.08,
+        "batting_avg": 16.33
+    },
+    {
+        "batter": "PN Mankad               ",
+        "total_runs": 97,
+        "balls_faced": 75,
+        "fours": 13,
+        "sixes": 2,
+        "dismissals": 3,
+        "strike_rate": 129.33,
+        "batting_avg": 32.33
+    },
+    {
+        "batter": "Arshad Khan             ",
+        "total_runs": 96,
+        "balls_faced": 67,
+        "fours": 5,
+        "sixes": 6,
+        "dismissals": 4,
+        "strike_rate": 143.28,
+        "batting_avg": 24.0
+    },
+    {
+        "batter": "Pinal Shah          ",
+        "total_runs": 92,
+        "balls_faced": 97,
+        "fours": 9,
+        "sixes": 2,
+        "dismissals": 8,
+        "strike_rate": 94.85,
+        "batting_avg": 11.5
+    },
+    {
+        "batter": "DJ Jacobs               ",
+        "total_runs": 92,
+        "balls_faced": 101,
+        "fours": 10,
+        "sixes": 4,
+        "dismissals": 7,
+        "strike_rate": 91.09,
+        "batting_avg": 13.14
+    },
+    {
+        "batter": "JDS Neesham             ",
+        "total_runs": 92,
+        "balls_faced": 93,
+        "fours": 6,
+        "sixes": 2,
+        "dismissals": 8,
+        "strike_rate": 98.92,
+        "batting_avg": 11.5
+    },
+    {
+        "batter": "Ricky Ponting",
+        "total_runs": 91,
+        "balls_faced": 129,
+        "fours": 5,
+        "sixes": 2,
+        "dismissals": 8,
+        "strike_rate": 70.54,
+        "batting_avg": 11.38
+    },
+    {
+        "batter": "AJ Tye                  ",
+        "total_runs": 91,
+        "balls_faced": 79,
+        "fours": 6,
+        "sixes": 5,
+        "dismissals": 8,
+        "strike_rate": 115.19,
+        "batting_avg": 11.38
+    },
+    {
+        "batter": "S Rana                  ",
+        "total_runs": 91,
+        "balls_faced": 82,
+        "fours": 9,
+        "sixes": 1,
+        "dismissals": 5,
+        "strike_rate": 110.98,
+        "batting_avg": 18.2
+    },
+    {
+        "batter": "AD Nath                 ",
+        "total_runs": 90,
+        "balls_faced": 99,
+        "fours": 7,
+        "sixes": 2,
+        "dismissals": 10,
+        "strike_rate": 90.91,
+        "batting_avg": 9.0
+    },
+    {
+        "batter": "Iqbal Abdulla           ",
+        "total_runs": 88,
+        "balls_faced": 86,
+        "fours": 9,
+        "sixes": 1,
+        "dismissals": 1,
+        "strike_rate": 102.33,
+        "batting_avg": 88.0
+    },
+    {
+        "batter": "SL Malinga              ",
+        "total_runs": 88,
+        "balls_faced": 103,
+        "fours": 6,
+        "sixes": 5,
+        "dismissals": 12,
+        "strike_rate": 85.44,
+        "batting_avg": 7.33
+    },
+    {
+        "batter": "Ankit Sharma            ",
+        "total_runs": 87,
+        "balls_faced": 69,
+        "fours": 7,
+        "sixes": 4,
+        "dismissals": 7,
+        "strike_rate": 126.09,
+        "batting_avg": 12.43
+    },
+    {
+        "batter": "AP Majumdar             ",
+        "total_runs": 87,
+        "balls_faced": 77,
+        "fours": 7,
+        "sixes": 2,
+        "dismissals": 4,
+        "strike_rate": 112.99,
+        "batting_avg": 21.75
+    },
+    {
+        "batter": "MJ McClenaghan          ",
+        "total_runs": 85,
+        "balls_faced": 73,
+        "fours": 5,
+        "sixes": 7,
+        "dismissals": 11,
+        "strike_rate": 116.44,
+        "batting_avg": 7.73
+    },
+    {
+        "batter": "Trent Boult              ",
+        "total_runs": 83,
+        "balls_faced": 82,
+        "fours": 5,
+        "sixes": 3,
+        "dismissals": 7,
+        "strike_rate": 101.22,
+        "batting_avg": 11.86
+    },
+    {
+        "batter": "RE Levi                 ",
+        "total_runs": 83,
+        "balls_faced": 74,
+        "fours": 10,
+        "sixes": 4,
+        "dismissals": 6,
+        "strike_rate": 112.16,
+        "batting_avg": 13.83
+    },
+    {
+        "batter": "NM Coulter-Nile         ",
+        "total_runs": 82,
+        "balls_faced": 75,
+        "fours": 7,
+        "sixes": 4,
+        "dismissals": 10,
+        "strike_rate": 109.33,
+        "batting_avg": 8.2
+    },
+    {
+        "batter": "LA Carseldine           ",
+        "total_runs": 81,
+        "balls_faced": 71,
+        "fours": 11,
+        "sixes": 0,
+        "dismissals": 3,
+        "strike_rate": 114.08,
+        "batting_avg": 27.0
+    },
+    {
+        "batter": "Shahid Afridi           ",
+        "total_runs": 81,
+        "balls_faced": 46,
+        "fours": 7,
+        "sixes": 6,
+        "dismissals": 8,
+        "strike_rate": 176.09,
+        "batting_avg": 10.12
+    },
+    {
+        "batter": "Chaminda Vaas            ",
+        "total_runs": 81,
+        "balls_faced": 73,
+        "fours": 2,
+        "sixes": 3,
+        "dismissals": 7,
+        "strike_rate": 110.96,
+        "batting_avg": 11.57
+    },
+    {
+        "batter": "CJ Jordan               ",
+        "total_runs": 81,
+        "balls_faced": 81,
+        "fours": 3,
+        "sixes": 3,
+        "dismissals": 9,
+        "strike_rate": 100.0,
+        "batting_avg": 9.0
+    },
+    {
+        "batter": "RV Patel                ",
+        "total_runs": 80,
+        "balls_faced": 76,
+        "fours": 6,
+        "sixes": 2,
+        "dismissals": 5,
+        "strike_rate": 105.26,
+        "batting_avg": 16.0
+    },
+    {
+        "batter": "DL Chahar               ",
+        "total_runs": 80,
+        "balls_faced": 61,
+        "fours": 2,
+        "sixes": 6,
+        "dismissals": 7,
+        "strike_rate": 131.15,
+        "batting_avg": 11.43
+    },
+    {
+        "batter": "Dimitri Mascarenhas      ",
+        "total_runs": 79,
+        "balls_faced": 79,
+        "fours": 5,
+        "sixes": 1,
+        "dismissals": 10,
+        "strike_rate": 100.0,
+        "batting_avg": 7.9
+    },
+    {
+        "batter": "JR Philippe             ",
+        "total_runs": 78,
+        "balls_faced": 80,
+        "fours": 9,
+        "sixes": 1,
+        "dismissals": 4,
+        "strike_rate": 97.5,
+        "batting_avg": 19.5
+    },
+    {
+        "batter": "CR Woakes               ",
+        "total_runs": 78,
+        "balls_faced": 77,
+        "fours": 7,
+        "sixes": 2,
+        "dismissals": 5,
+        "strike_rate": 101.3,
+        "batting_avg": 15.6
+    },
+    {
+        "batter": "Balachandra Akhil ",
+        "total_runs": 76,
+        "balls_faced": 57,
+        "fours": 5,
+        "sixes": 5,
+        "dismissals": 7,
+        "strike_rate": 133.33,
+        "batting_avg": 10.86
+    },
+    {
+        "batter": "IR Jaggi                ",
+        "total_runs": 76,
+        "balls_faced": 100,
+        "fours": 6,
+        "sixes": 0,
+        "dismissals": 5,
+        "strike_rate": 76.0,
+        "batting_avg": 15.2
+    },
+    {
+        "batter": "TR Birt                 ",
+        "total_runs": 75,
+        "balls_faced": 59,
+        "fours": 9,
+        "sixes": 2,
+        "dismissals": 5,
+        "strike_rate": 127.12,
+        "batting_avg": 15.0
+    },
+    {
+        "batter": "Mohammed Shami          ",
+        "total_runs": 74,
+        "balls_faced": 82,
+        "fours": 6,
+        "sixes": 2,
+        "dismissals": 13,
+        "strike_rate": 90.24,
+        "batting_avg": 5.69
+    },
+    {
+        "batter": "M Klinger               ",
+        "total_runs": 73,
+        "balls_faced": 78,
+        "fours": 9,
+        "sixes": 0,
+        "dismissals": 4,
+        "strike_rate": 93.59,
+        "batting_avg": 18.25
+    },
+    {
+        "batter": "Ramnaresh Sarwan             ",
+        "total_runs": 73,
+        "balls_faced": 78,
+        "fours": 6,
+        "sixes": 1,
+        "dismissals": 3,
+        "strike_rate": 93.59,
+        "batting_avg": 24.33
+    },
+    {
+        "batter": "PWH de Silva            ",
+        "total_runs": 72,
+        "balls_faced": 80,
+        "fours": 7,
+        "sixes": 1,
+        "dismissals": 11,
+        "strike_rate": 90.0,
+        "batting_avg": 6.55
+    },
+    {
+        "batter": "J Suchith               ",
+        "total_runs": 70,
+        "balls_faced": 62,
+        "fours": 6,
+        "sixes": 3,
+        "dismissals": 4,
+        "strike_rate": 112.9,
+        "batting_avg": 17.5
+    },
+    {
+        "batter": "Mitchell Santner      ",
+        "total_runs": 70,
+        "balls_faced": 77,
+        "fours": 4,
+        "sixes": 3,
+        "dismissals": 6,
+        "strike_rate": 90.91,
+        "batting_avg": 11.67
+    },
+    {
+        "batter": "AA Bilakhia             ",
+        "total_runs": 69,
+        "balls_faced": 88,
+        "fours": 5,
+        "sixes": 0,
+        "dismissals": 5,
+        "strike_rate": 78.41,
+        "batting_avg": 13.8
+    },
+    {
+        "batter": "Vivrant Sharma          ",
+        "total_runs": 69,
+        "balls_faced": 49,
+        "fours": 9,
+        "sixes": 2,
+        "dismissals": 1,
+        "strike_rate": 140.82,
+        "batting_avg": 69.0
+    },
+    {
+        "batter": "Lockie Ferguson   ",
+        "total_runs": 68,
+        "balls_faced": 48,
+        "fours": 6,
+        "sixes": 2,
+        "dismissals": 4,
+        "strike_rate": 141.67,
+        "batting_avg": 17.0
+    },
+    {
+        "batter": "JJ Bumrah               ",
+        "total_runs": 68,
+        "balls_faced": 80,
+        "fours": 5,
+        "sixes": 1,
+        "dismissals": 8,
+        "strike_rate": 85.0,
+        "batting_avg": 8.5
+    },
+    {
+        "batter": "Ramesh Powar           ",
+        "total_runs": 67,
+        "balls_faced": 64,
+        "fours": 6,
+        "sixes": 1,
+        "dismissals": 3,
+        "strike_rate": 104.69,
+        "batting_avg": 22.33
+    },
+    {
+        "batter": "HR Shokeen              ",
+        "total_runs": 66,
+        "balls_faced": 67,
+        "fours": 9,
+        "sixes": 0,
+        "dismissals": 3,
+        "strike_rate": 98.51,
+        "batting_avg": 22.0
+    },
+    {
+        "batter": "M Jansen                ",
+        "total_runs": 66,
+        "balls_faced": 71,
+        "fours": 5,
+        "sixes": 2,
+        "dismissals": 8,
+        "strike_rate": 92.96,
+        "batting_avg": 8.25
+    },
+    {
+        "batter": "R Sharma                ",
+        "total_runs": 66,
+        "balls_faced": 77,
+        "fours": 5,
+        "sixes": 3,
+        "dismissals": 11,
+        "strike_rate": 85.71,
+        "batting_avg": 6.0
+    },
+    {
+        "batter": "WD Parnell              ",
+        "total_runs": 65,
+        "balls_faced": 86,
+        "fours": 4,
+        "sixes": 1,
+        "dismissals": 10,
+        "strike_rate": 75.58,
+        "batting_avg": 6.5
+    },
+    {
+        "batter": "GD Phillips             ",
+        "total_runs": 65,
+        "balls_faced": 55,
+        "fours": 3,
+        "sixes": 6,
+        "dismissals": 7,
+        "strike_rate": 118.18,
+        "batting_avg": 9.29
+    },
+    {
+        "batter": "KA Jamieson             ",
+        "total_runs": 65,
+        "balls_faced": 55,
+        "fours": 5,
+        "sixes": 3,
+        "dismissals": 3,
+        "strike_rate": 118.18,
+        "batting_avg": 21.67
+    },
+    {
+        "batter": "Mohammad Hafeez         ",
+        "total_runs": 64,
+        "balls_faced": 84,
+        "fours": 7,
+        "sixes": 2,
+        "dismissals": 8,
+        "strike_rate": 76.19,
+        "batting_avg": 8.0
+    },
+    {
+        "batter": "Anirudh Singh           ",
+        "total_runs": 63,
+        "balls_faced": 69,
+        "fours": 6,
+        "sixes": 1,
+        "dismissals": 4,
+        "strike_rate": 91.3,
+        "batting_avg": 15.75
+    },
+    {
+        "batter": "A Flintoff              ",
+        "total_runs": 62,
+        "balls_faced": 57,
+        "fours": 5,
+        "sixes": 2,
+        "dismissals": 2,
+        "strike_rate": 108.77,
+        "batting_avg": 31.0
+    },
+    {
+        "batter": "SP Jackson              ",
+        "total_runs": 61,
+        "balls_faced": 57,
+        "fours": 5,
+        "sixes": 1,
+        "dismissals": 6,
+        "strike_rate": 107.02,
+        "batting_avg": 10.17
+    },
+    {
+        "batter": "S Aravind               ",
+        "total_runs": 59,
+        "balls_faced": 59,
+        "fours": 7,
+        "sixes": 0,
+        "dismissals": 3,
+        "strike_rate": 100.0,
+        "batting_avg": 19.67
+    },
+    {
+        "batter": "MG Bracewell            ",
+        "total_runs": 58,
+        "balls_faced": 49,
+        "fours": 6,
+        "sixes": 1,
+        "dismissals": 2,
+        "strike_rate": 118.37,
+        "batting_avg": 29.0
+    },
+    {
+        "batter": "Ishant Sharma",
+        "total_runs": 57,
+        "balls_faced": 71,
+        "fours": 4,
+        "sixes": 2,
+        "dismissals": 7,
+        "strike_rate": 80.28,
+        "batting_avg": 8.14
+    },
+    {
+        "batter": "Vishnu Vinod            ",
+        "total_runs": 56,
+        "balls_faced": 58,
+        "fours": 3,
+        "sixes": 3,
+        "dismissals": 6,
+        "strike_rate": 96.55,
+        "batting_avg": 9.33
+    },
+    {
+        "batter": "Wilkin Mota            ",
+        "total_runs": 56,
+        "balls_faced": 76,
+        "fours": 2,
+        "sixes": 0,
+        "dismissals": 5,
+        "strike_rate": 73.68,
+        "batting_avg": 11.2
+    },
+    {
+        "batter": "Mahesh Rawat         ",
+        "total_runs": 55,
+        "balls_faced": 70,
+        "fours": 4,
+        "sixes": 1,
+        "dismissals": 5,
+        "strike_rate": 78.57,
+        "batting_avg": 11.0
+    },
+    {
+        "batter": "Sandeep Sharma          ",
+        "total_runs": 54,
+        "balls_faced": 73,
+        "fours": 4,
+        "sixes": 0,
+        "dismissals": 5,
+        "strike_rate": 73.97,
+        "batting_avg": 10.8
+    },
+    {
+        "batter": "DJ Willey               ",
+        "total_runs": 53,
+        "balls_faced": 64,
+        "fours": 7,
+        "sixes": 0,
+        "dismissals": 3,
+        "strike_rate": 82.81,
+        "batting_avg": 17.67
+    },
+    {
+        "batter": "Aakash Chopra             ",
+        "total_runs": 53,
+        "balls_faced": 75,
+        "fours": 7,
+        "sixes": 0,
+        "dismissals": 5,
+        "strike_rate": 70.67,
+        "batting_avg": 10.6
+    },
+    {
+        "batter": "RP Singh                ",
+        "total_runs": 52,
+        "balls_faced": 78,
+        "fours": 2,
+        "sixes": 1,
+        "dismissals": 15,
+        "strike_rate": 66.67,
+        "batting_avg": 3.47
+    },
+    {
+        "batter": "Shoaib Malik            ",
+        "total_runs": 52,
+        "balls_faced": 49,
+        "fours": 5,
+        "sixes": 0,
+        "dismissals": 4,
+        "strike_rate": 106.12,
+        "batting_avg": 13.0
+    },
+    {
+        "batter": "Shivam Mavi             ",
+        "total_runs": 51,
+        "balls_faced": 58,
+        "fours": 4,
+        "sixes": 2,
+        "dismissals": 9,
+        "strike_rate": 87.93,
+        "batting_avg": 5.67
+    },
+    {
+        "batter": "OF Smith                ",
+        "total_runs": 51,
+        "balls_faced": 50,
+        "fours": 1,
+        "sixes": 5,
+        "dismissals": 3,
+        "strike_rate": 102.0,
+        "batting_avg": 17.0
+    },
+    {
+        "batter": "Sameer Rizvi            ",
+        "total_runs": 51,
+        "balls_faced": 43,
+        "fours": 4,
+        "sixes": 2,
+        "dismissals": 4,
+        "strike_rate": 118.6,
+        "batting_avg": 12.75
+    },
+    {
+        "batter": "R Rampaul               ",
+        "total_runs": 51,
+        "balls_faced": 52,
+        "fours": 3,
+        "sixes": 2,
+        "dismissals": 5,
+        "strike_rate": 98.08,
+        "batting_avg": 10.2
+    },
+    {
+        "batter": "Swapnil Singh           ",
+        "total_runs": 51,
+        "balls_faced": 46,
+        "fours": 3,
+        "sixes": 3,
+        "dismissals": 5,
+        "strike_rate": 110.87,
+        "batting_avg": 10.2
+    },
+    {
+        "batter": "KB Arun Karthik         ",
+        "total_runs": 51,
+        "balls_faced": 53,
+        "fours": 4,
+        "sixes": 1,
+        "dismissals": 5,
+        "strike_rate": 96.23,
+        "batting_avg": 10.2
+    },
+    {
+        "batter": "RV Gomez                ",
+        "total_runs": 50,
+        "balls_faced": 53,
+        "fours": 5,
+        "sixes": 1,
+        "dismissals": 7,
+        "strike_rate": 94.34,
+        "batting_avg": 7.14
+    },
+    {
+        "batter": "VR Aaron                ",
+        "total_runs": 50,
+        "balls_faced": 73,
+        "fours": 2,
+        "sixes": 2,
+        "dismissals": 4,
+        "strike_rate": 68.49,
+        "batting_avg": 12.5
+    },
+    {
+        "batter": "Arjun Yadav                ",
+        "total_runs": 49,
+        "balls_faced": 40,
+        "fours": 5,
+        "sixes": 2,
+        "dismissals": 7,
+        "strike_rate": 122.5,
+        "batting_avg": 7.0
+    },
+    {
+        "batter": "A Nortje                ",
+        "total_runs": 49,
+        "balls_faced": 51,
+        "fours": 6,
+        "sixes": 0,
+        "dismissals": 5,
+        "strike_rate": 96.08,
+        "batting_avg": 9.8
+    },
+    {
+        "batter": "AG Paunikar             ",
+        "total_runs": 49,
+        "balls_faced": 61,
+        "fours": 9,
+        "sixes": 0,
+        "dismissals": 5,
+        "strike_rate": 80.33,
+        "batting_avg": 9.8
+    },
+    {
+        "batter": "Sanjay Bangar            ",
+        "total_runs": 49,
+        "balls_faced": 58,
+        "fours": 1,
+        "sixes": 3,
+        "dismissals": 6,
+        "strike_rate": 84.48,
+        "batting_avg": 8.17
+    },
+    {
+        "batter": "M Markande              ",
+        "total_runs": 48,
+        "balls_faced": 44,
+        "fours": 5,
+        "sixes": 1,
+        "dismissals": 3,
+        "strike_rate": 109.09,
+        "batting_avg": 16.0
+    },
+    {
+        "batter": "Tom Kohler-Cadmore ",
+        "total_runs": 48,
+        "balls_faced": 54,
+        "fours": 7,
+        "sixes": 1,
+        "dismissals": 3,
+        "strike_rate": 88.89,
+        "batting_avg": 16.0
+    },
+    {
+        "batter": "Yashpal Singh           ",
+        "total_runs": 47,
+        "balls_faced": 67,
+        "fours": 5,
+        "sixes": 0,
+        "dismissals": 4,
+        "strike_rate": 70.15,
+        "batting_avg": 11.75
+    },
+    {
+        "batter": "D Pretorius             ",
+        "total_runs": 44,
+        "balls_faced": 28,
+        "fours": 3,
+        "sixes": 3,
+        "dismissals": 4,
+        "strike_rate": 157.14,
+        "batting_avg": 11.0
+    },
+    {
+        "batter": "DR Sams                 ",
+        "total_runs": 44,
+        "balls_faced": 48,
+        "fours": 1,
+        "sixes": 3,
+        "dismissals": 10,
+        "strike_rate": 91.67,
+        "batting_avg": 4.4
+    },
+    {
+        "batter": "Sunny Singh             ",
+        "total_runs": 43,
+        "balls_faced": 31,
+        "fours": 6,
+        "sixes": 1,
+        "dismissals": 4,
+        "strike_rate": 138.71,
+        "batting_avg": 10.75
+    },
+    {
+        "batter": "PVD Chameera            ",
+        "total_runs": 43,
+        "balls_faced": 32,
+        "fours": 3,
+        "sixes": 3,
+        "dismissals": 3,
+        "strike_rate": 134.38,
+        "batting_avg": 14.33
+    },
+    {
+        "batter": "AB Barath               ",
+        "total_runs": 42,
+        "balls_faced": 43,
+        "fours": 5,
+        "sixes": 1,
+        "dismissals": 2,
+        "strike_rate": 97.67,
+        "batting_avg": 21.0
+    },
+    {
+        "batter": "Azmatullah Omarzai      ",
+        "total_runs": 42,
+        "balls_faced": 34,
+        "fours": 2,
+        "sixes": 2,
+        "dismissals": 4,
+        "strike_rate": 123.53,
+        "batting_avg": 10.5
+    },
+    {
+        "batter": "Siddharth Trivedi         ",
+        "total_runs": 42,
+        "balls_faced": 61,
+        "fours": 3,
+        "sixes": 1,
+        "dismissals": 8,
+        "strike_rate": 68.85,
+        "batting_avg": 5.25
+    },
+    {
+        "batter": "Avesh Khan              ",
+        "total_runs": 41,
+        "balls_faced": 25,
+        "fours": 3,
+        "sixes": 3,
+        "dismissals": 1,
+        "strike_rate": 164.0,
+        "batting_avg": 41.0
+    },
+    {
+        "batter": "Ashish Nehra          ",
+        "total_runs": 41,
+        "balls_faced": 63,
+        "fours": 3,
+        "sixes": 1,
+        "dismissals": 8,
+        "strike_rate": 65.08,
+        "batting_avg": 5.12
+    },
+    {
+        "batter": "Rasikh Salam            ",
+        "total_runs": 40,
+        "balls_faced": 40,
+        "fours": 5,
+        "sixes": 0,
+        "dismissals": 5,
+        "strike_rate": 100.0,
+        "batting_avg": 8.0
+    },
+    {
+        "batter": "Chamara Silva             ",
+        "total_runs": 40,
+        "balls_faced": 27,
+        "fours": 5,
+        "sixes": 1,
+        "dismissals": 2,
+        "strike_rate": 148.15,
+        "batting_avg": 20.0
+    },
+    {
+        "batter": "J Yadav                 ",
+        "total_runs": 40,
+        "balls_faced": 38,
+        "fours": 2,
+        "sixes": 1,
+        "dismissals": 2,
+        "strike_rate": 105.26,
+        "batting_avg": 20.0
+    },
+    {
+        "batter": "BR Dunk                 ",
+        "total_runs": 40,
+        "balls_faced": 36,
+        "fours": 7,
+        "sixes": 0,
+        "dismissals": 3,
+        "strike_rate": 111.11,
+        "batting_avg": 13.33
+    },
+    {
+        "batter": "S Nadeem                ",
+        "total_runs": 39,
+        "balls_faced": 88,
+        "fours": 2,
+        "sixes": 0,
+        "dismissals": 16,
+        "strike_rate": 44.32,
+        "batting_avg": 2.44
+    },
+    {
+        "batter": "Munaf Patel",
+        "total_runs": 39,
+        "balls_faced": 41,
+        "fours": 5,
+        "sixes": 0,
+        "dismissals": 5,
+        "strike_rate": 95.12,
+        "batting_avg": 7.8
+    },
+    {
+        "batter": "AUK Pathan              ",
+        "total_runs": 39,
+        "balls_faced": 26,
+        "fours": 5,
+        "sixes": 2,
+        "dismissals": 5,
+        "strike_rate": 150.0,
+        "batting_avg": 7.8
+    },
+    {
+        "batter": "Dominic Thornely         ",
+        "total_runs": 39,
+        "balls_faced": 54,
+        "fours": 2,
+        "sixes": 2,
+        "dismissals": 3,
+        "strike_rate": 72.22,
+        "batting_avg": 13.0
+    },
+    {
+        "batter": "Umar Gul                ",
+        "total_runs": 39,
+        "balls_faced": 19,
+        "fours": 1,
+        "sixes": 5,
+        "dismissals": 3,
+        "strike_rate": 205.26,
+        "batting_avg": 13.0
+    },
+    {
+        "batter": "S Narwal                ",
+        "total_runs": 37,
+        "balls_faced": 29,
+        "fours": 6,
+        "sixes": 0,
+        "dismissals": 4,
+        "strike_rate": 127.59,
+        "batting_avg": 9.25
+    },
+    {
+        "batter": "Yuzvendra Chahal         ",
+        "total_runs": 37,
+        "balls_faced": 89,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 6,
+        "strike_rate": 41.57,
+        "batting_avg": 6.17
+    },
+    {
+        "batter": "KW Richardson           ",
+        "total_runs": 36,
+        "balls_faced": 39,
+        "fours": 2,
+        "sixes": 1,
+        "dismissals": 3,
+        "strike_rate": 92.31,
+        "batting_avg": 12.0
+    },
+    {
+        "batter": "Anureet Singh           ",
+        "total_runs": 36,
+        "balls_faced": 47,
+        "fours": 2,
+        "sixes": 1,
+        "dismissals": 4,
+        "strike_rate": 76.6,
+        "batting_avg": 9.0
+    },
+    {
+        "batter": "Joginder Sharma         ",
+        "total_runs": 36,
+        "balls_faced": 30,
+        "fours": 1,
+        "sixes": 2,
+        "dismissals": 4,
+        "strike_rate": 120.0,
+        "batting_avg": 9.0
+    },
+    {
+        "batter": "Sohail Tanvir           ",
+        "total_runs": 36,
+        "balls_faced": 31,
+        "fours": 3,
+        "sixes": 1,
+        "dismissals": 3,
+        "strike_rate": 116.13,
+        "batting_avg": 12.0
+    },
+    {
+        "batter": "AN Ahmed                ",
+        "total_runs": 36,
+        "balls_faced": 27,
+        "fours": 4,
+        "sixes": 1,
+        "dismissals": 1,
+        "strike_rate": 133.33,
+        "batting_avg": 36.0
+    },
+    {
+        "batter": "Lakshmipathy Balaji              ",
+        "total_runs": 36,
+        "balls_faced": 50,
+        "fours": 2,
+        "sixes": 1,
+        "dismissals": 7,
+        "strike_rate": 72.0,
+        "batting_avg": 5.14
+    },
+    {
+        "batter": "B Sumanth               ",
+        "total_runs": 35,
+        "balls_faced": 38,
+        "fours": 3,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 92.11,
+        "batting_avg": 35.0
+    },
+    {
+        "batter": "M Ashwin                ",
+        "total_runs": 35,
+        "balls_faced": 50,
+        "fours": 2,
+        "sixes": 1,
+        "dismissals": 8,
+        "strike_rate": 70.0,
+        "batting_avg": 4.38
+    },
+    {
+        "batter": "Anil Kumble         ",
+        "total_runs": 35,
+        "balls_faced": 49,
+        "fours": 3,
+        "sixes": 0,
+        "dismissals": 2,
+        "strike_rate": 71.43,
+        "batting_avg": 17.5
+    },
+    {
+        "batter": "Luke Ronchi             ",
+        "total_runs": 34,
+        "balls_faced": 37,
+        "fours": 6,
+        "sixes": 1,
+        "dismissals": 3,
+        "strike_rate": 91.89,
+        "batting_avg": 11.33
+    },
+    {
+        "batter": "S Sreesanth             ",
+        "total_runs": 34,
+        "balls_faced": 57,
+        "fours": 6,
+        "sixes": 0,
+        "dismissals": 3,
+        "strike_rate": 59.65,
+        "batting_avg": 11.33
+    },
+    {
+        "batter": "A Mithun                ",
+        "total_runs": 34,
+        "balls_faced": 26,
+        "fours": 4,
+        "sixes": 1,
+        "dismissals": 5,
+        "strike_rate": 130.77,
+        "batting_avg": 6.8
+    },
+    {
+        "batter": "AP Dole                 ",
+        "total_runs": 34,
+        "balls_faced": 23,
+        "fours": 3,
+        "sixes": 1,
+        "dismissals": 2,
+        "strike_rate": 147.83,
+        "batting_avg": 17.0
+    },
+    {
+        "batter": "Imran Tahir             ",
+        "total_runs": 33,
+        "balls_faced": 37,
+        "fours": 5,
+        "sixes": 0,
+        "dismissals": 4,
+        "strike_rate": 89.19,
+        "batting_avg": 8.25
+    },
+    {
+        "batter": "SB Dubey                ",
+        "total_runs": 33,
+        "balls_faced": 21,
+        "fours": 3,
+        "sixes": 2,
+        "dismissals": 2,
+        "strike_rate": 157.14,
+        "batting_avg": 16.5
+    },
+    {
+        "batter": "Dinesh Salunkhe       ",
+        "total_runs": 33,
+        "balls_faced": 24,
+        "fours": 5,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 137.5,
+        "batting_avg": 33.0
+    },
+    {
+        "batter": "Navdeep Saini           ",
+        "total_runs": 33,
+        "balls_faced": 38,
+        "fours": 3,
+        "sixes": 0,
+        "dismissals": 4,
+        "strike_rate": 86.84,
+        "batting_avg": 8.25
+    },
+    {
+        "batter": "RJ Peterson             ",
+        "total_runs": 32,
+        "balls_faced": 32,
+        "fours": 3,
+        "sixes": 1,
+        "dismissals": 3,
+        "strike_rate": 100.0,
+        "batting_avg": 10.67
+    },
+    {
+        "batter": "Ravi Bishnoi            ",
+        "total_runs": 32,
+        "balls_faced": 52,
+        "fours": 2,
+        "sixes": 0,
+        "dismissals": 7,
+        "strike_rate": 61.54,
+        "batting_avg": 4.57
+    },
+    {
+        "batter": "AT Carey                ",
+        "total_runs": 32,
+        "balls_faced": 29,
+        "fours": 0,
+        "sixes": 1,
+        "dismissals": 2,
+        "strike_rate": 110.34,
+        "batting_avg": 16.0
+    },
+    {
+        "batter": "Basil Thampi            ",
+        "total_runs": 32,
+        "balls_faced": 37,
+        "fours": 1,
+        "sixes": 1,
+        "dismissals": 2,
+        "strike_rate": 86.49,
+        "batting_avg": 16.0
+    },
+    {
+        "batter": "Tatenda Taibu          ",
+        "total_runs": 31,
+        "balls_faced": 26,
+        "fours": 3,
+        "sixes": 0,
+        "dismissals": 3,
+        "strike_rate": 119.23,
+        "batting_avg": 10.33
+    },
+    {
+        "batter": "NS Naik                 ",
+        "total_runs": 31,
+        "balls_faced": 53,
+        "fours": 2,
+        "sixes": 0,
+        "dismissals": 4,
+        "strike_rate": 58.49,
+        "batting_avg": 7.75
+    },
+    {
+        "batter": "S Sriram                ",
+        "total_runs": 31,
+        "balls_faced": 38,
+        "fours": 3,
+        "sixes": 0,
+        "dismissals": 2,
+        "strike_rate": 81.58,
+        "batting_avg": 15.5
+    },
+    {
+        "batter": "Arshdeep Singh          ",
+        "total_runs": 29,
+        "balls_faced": 42,
+        "fours": 4,
+        "sixes": 0,
+        "dismissals": 5,
+        "strike_rate": 69.05,
+        "batting_avg": 5.8
+    },
+    {
+        "batter": "J Syed Mohammad         ",
+        "total_runs": 29,
+        "balls_faced": 27,
+        "fours": 4,
+        "sixes": 0,
+        "dismissals": 2,
+        "strike_rate": 107.41,
+        "batting_avg": 14.5
+    },
+    {
+        "batter": "VH Zol                  ",
+        "total_runs": 29,
+        "balls_faced": 26,
+        "fours": 3,
+        "sixes": 1,
+        "dismissals": 2,
+        "strike_rate": 111.54,
+        "batting_avg": 14.5
+    },
+    {
+        "batter": "SB Jakati               ",
+        "total_runs": 28,
+        "balls_faced": 30,
+        "fours": 3,
+        "sixes": 0,
+        "dismissals": 2,
+        "strike_rate": 93.33,
+        "batting_avg": 14.0
+    },
+    {
+        "batter": "AS Joseph               ",
+        "total_runs": 27,
+        "balls_faced": 32,
+        "fours": 3,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 84.38,
+        "batting_avg": 27.0
+    },
+    {
+        "batter": "TL Seifert              ",
+        "total_runs": 26,
+        "balls_faced": 26,
+        "fours": 4,
+        "sixes": 0,
+        "dismissals": 3,
+        "strike_rate": 100.0,
+        "batting_avg": 8.67
+    },
+    {
+        "batter": "DJ Malan                ",
+        "total_runs": 26,
+        "balls_faced": 26,
+        "fours": 1,
+        "sixes": 1,
+        "dismissals": 1,
+        "strike_rate": 100.0,
+        "batting_avg": 26.0
+    },
+    {
+        "batter": "AS Rajpoot              ",
+        "total_runs": 26,
+        "balls_faced": 41,
+        "fours": 2,
+        "sixes": 1,
+        "dismissals": 4,
+        "strike_rate": 63.41,
+        "batting_avg": 6.5
+    },
+    {
+        "batter": "NL McCullum             ",
+        "total_runs": 26,
+        "balls_faced": 23,
+        "fours": 0,
+        "sixes": 1,
+        "dismissals": 3,
+        "strike_rate": 113.04,
+        "batting_avg": 8.67
+    },
+    {
+        "batter": "Ashok Dinda       ",
+        "total_runs": 26,
+        "balls_faced": 50,
+        "fours": 2,
+        "sixes": 0,
+        "dismissals": 9,
+        "strike_rate": 52.0,
+        "batting_avg": 2.89
+    },
+    {
+        "batter": "JM Kemp                 ",
+        "total_runs": 26,
+        "balls_faced": 25,
+        "fours": 1,
+        "sixes": 1,
+        "dismissals": 2,
+        "strike_rate": 104.0,
+        "batting_avg": 13.0
+    },
+    {
+        "batter": "AS Roy                  ",
+        "total_runs": 26,
+        "balls_faced": 24,
+        "fours": 3,
+        "sixes": 0,
+        "dismissals": 3,
+        "strike_rate": 108.33,
+        "batting_avg": 8.67
+    },
+    {
+        "batter": "MD Shanaka              ",
+        "total_runs": 26,
+        "balls_faced": 26,
+        "fours": 2,
+        "sixes": 1,
+        "dismissals": 2,
+        "strike_rate": 100.0,
+        "batting_avg": 13.0
+    },
+    {
+        "batter": "Pradeep Sangwan       ",
+        "total_runs": 26,
+        "balls_faced": 47,
+        "fours": 1,
+        "sixes": 0,
+        "dismissals": 8,
+        "strike_rate": 55.32,
+        "batting_avg": 3.25
+    },
+    {
+        "batter": "Shivnarine Chanderpaul      ",
+        "total_runs": 25,
+        "balls_faced": 33,
+        "fours": 4,
+        "sixes": 0,
+        "dismissals": 3,
+        "strike_rate": 75.76,
+        "batting_avg": 8.33
+    },
+    {
+        "batter": "Sanvir Singh            ",
+        "total_runs": 25,
+        "balls_faced": 22,
+        "fours": 2,
+        "sixes": 1,
+        "dismissals": 2,
+        "strike_rate": 113.64,
+        "batting_avg": 12.5
+    },
+    {
+        "batter": "A Choudhary             ",
+        "total_runs": 25,
+        "balls_faced": 20,
+        "fours": 1,
+        "sixes": 1,
+        "dismissals": 2,
+        "strike_rate": 125.0,
+        "batting_avg": 12.5
+    },
+    {
+        "batter": "Varun Chakravarthy              ",
+        "total_runs": 25,
+        "balls_faced": 49,
+        "fours": 2,
+        "sixes": 0,
+        "dismissals": 2,
+        "strike_rate": 51.02,
+        "batting_avg": 12.5
+    },
+    {
+        "batter": "Mohsin Khan             ",
+        "total_runs": 25,
+        "balls_faced": 27,
+        "fours": 2,
+        "sixes": 1,
+        "dismissals": 2,
+        "strike_rate": 92.59,
+        "batting_avg": 12.5
+    },
+    {
+        "batter": "Tanush Kotian           ",
+        "total_runs": 24,
+        "balls_faced": 32,
+        "fours": 3,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 75.0,
+        "batting_avg": 24.0
+    },
+    {
+        "batter": "AJ Turner               ",
+        "total_runs": 24,
+        "balls_faced": 31,
+        "fours": 0,
+        "sixes": 2,
+        "dismissals": 5,
+        "strike_rate": 77.42,
+        "batting_avg": 4.8
+    },
+    {
+        "batter": "KC Cariappa             ",
+        "total_runs": 24,
+        "balls_faced": 21,
+        "fours": 0,
+        "sixes": 2,
+        "dismissals": 3,
+        "strike_rate": 114.29,
+        "batting_avg": 8.0
+    },
+    {
+        "batter": "ER Dwivedi              ",
+        "total_runs": 24,
+        "balls_faced": 15,
+        "fours": 2,
+        "sixes": 2,
+        "dismissals": 2,
+        "strike_rate": 160.0,
+        "batting_avg": 12.0
+    },
+    {
+        "batter": "Musavir Khote     ",
+        "total_runs": 24,
+        "balls_faced": 22,
+        "fours": 2,
+        "sixes": 1,
+        "dismissals": 2,
+        "strike_rate": 109.09,
+        "batting_avg": 12.0
+    },
+    {
+        "batter": "BMAJ Mendis             ",
+        "total_runs": 23,
+        "balls_faced": 27,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 3,
+        "strike_rate": 85.19,
+        "batting_avg": 7.67
+    },
+    {
+        "batter": "SW Tait                 ",
+        "total_runs": 23,
+        "balls_faced": 26,
+        "fours": 1,
+        "sixes": 1,
+        "dismissals": 3,
+        "strike_rate": 88.46,
+        "batting_avg": 7.67
+    },
+    {
+        "batter": "P Dubey                 ",
+        "total_runs": 23,
+        "balls_faced": 33,
+        "fours": 2,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 69.7,
+        "batting_avg": 23.0
+    },
+    {
+        "batter": "Jagadeesh Arunkumar           ",
+        "total_runs": 23,
+        "balls_faced": 24,
+        "fours": 5,
+        "sixes": 0,
+        "dismissals": 3,
+        "strike_rate": 95.83,
+        "batting_avg": 7.67
+    },
+    {
+        "batter": "Umran Malik             ",
+        "total_runs": 23,
+        "balls_faced": 16,
+        "fours": 1,
+        "sixes": 2,
+        "dismissals": 1,
+        "strike_rate": 143.75,
+        "batting_avg": 23.0
+    },
+    {
+        "batter": "AF Milne                ",
+        "total_runs": 23,
+        "balls_faced": 31,
+        "fours": 0,
+        "sixes": 1,
+        "dismissals": 5,
+        "strike_rate": 74.19,
+        "batting_avg": 4.6
+    },
+    {
+        "batter": "SA Abbott               ",
+        "total_runs": 22,
+        "balls_faced": 18,
+        "fours": 1,
+        "sixes": 2,
+        "dismissals": 2,
+        "strike_rate": 122.22,
+        "batting_avg": 11.0
+    },
+    {
+        "batter": "HE van der Dussen       ",
+        "total_runs": 22,
+        "balls_faced": 25,
+        "fours": 2,
+        "sixes": 0,
+        "dismissals": 2,
+        "strike_rate": 88.0,
+        "batting_avg": 11.0
+    },
+    {
+        "batter": "Yudhvir Singh           ",
+        "total_runs": 22,
+        "balls_faced": 16,
+        "fours": 1,
+        "sixes": 2,
+        "dismissals": 4,
+        "strike_rate": 137.5,
+        "batting_avg": 5.5
+    },
+    {
+        "batter": "KL Nagarkoti            ",
+        "total_runs": 22,
+        "balls_faced": 34,
+        "fours": 1,
+        "sixes": 0,
+        "dismissals": 4,
+        "strike_rate": 64.71,
+        "batting_avg": 5.5
+    },
+    {
+        "batter": "AU Rashid               ",
+        "total_runs": 22,
+        "balls_faced": 17,
+        "fours": 2,
+        "sixes": 1,
+        "dismissals": 2,
+        "strike_rate": 129.41,
+        "batting_avg": 11.0
+    },
+    {
+        "batter": "GB Hogg                 ",
+        "total_runs": 22,
+        "balls_faced": 22,
+        "fours": 1,
+        "sixes": 0,
+        "dismissals": 2,
+        "strike_rate": 100.0,
+        "batting_avg": 11.0
+    },
+    {
+        "batter": "Tushar Deshpande          ",
+        "total_runs": 21,
+        "balls_faced": 15,
+        "fours": 2,
+        "sixes": 1,
+        "dismissals": 1,
+        "strike_rate": 140.0,
+        "batting_avg": 21.0
+    },
+    {
+        "batter": "DE Bollinger            ",
+        "total_runs": 21,
+        "balls_faced": 23,
+        "fours": 1,
+        "sixes": 1,
+        "dismissals": 1,
+        "strike_rate": 91.3,
+        "batting_avg": 21.0
+    },
+    {
+        "batter": "B Indrajith             ",
+        "total_runs": 21,
+        "balls_faced": 31,
+        "fours": 2,
+        "sixes": 0,
+        "dismissals": 3,
+        "strike_rate": 67.74,
+        "batting_avg": 7.0
+    },
+    {
+        "batter": "C Sakariya              ",
+        "total_runs": 20,
+        "balls_faced": 31,
+        "fours": 3,
+        "sixes": 0,
+        "dismissals": 5,
+        "strike_rate": 64.52,
+        "batting_avg": 4.0
+    },
+    {
+        "batter": "Muthiah Muralidaran       ",
+        "total_runs": 20,
+        "balls_faced": 30,
+        "fours": 1,
+        "sixes": 0,
+        "dismissals": 6,
+        "strike_rate": 66.67,
+        "batting_avg": 3.33
+    },
+    {
+        "batter": "S Kaul                  ",
+        "total_runs": 20,
+        "balls_faced": 36,
+        "fours": 1,
+        "sixes": 0,
+        "dismissals": 3,
+        "strike_rate": 55.56,
+        "batting_avg": 6.67
+    },
+    {
+        "batter": "AC Thomas               ",
+        "total_runs": 20,
+        "balls_faced": 19,
+        "fours": 1,
+        "sixes": 1,
+        "dismissals": 2,
+        "strike_rate": 105.26,
+        "batting_avg": 10.0
+    },
+    {
+        "batter": "Rohan Raje    ",
+        "total_runs": 20,
+        "balls_faced": 18,
+        "fours": 1,
+        "sixes": 1,
+        "dismissals": 1,
+        "strike_rate": 111.11,
+        "batting_avg": 20.0
+    },
+    {
+        "batter": "NJ Maddinson            ",
+        "total_runs": 20,
+        "balls_faced": 21,
+        "fours": 4,
+        "sixes": 0,
+        "dismissals": 3,
+        "strike_rate": 95.24,
+        "batting_avg": 6.67
+    },
+    {
+        "batter": "Y Gnaneswara Rao        ",
+        "total_runs": 19,
+        "balls_faced": 18,
+        "fours": 3,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 105.56,
+        "batting_avg": 19.0
+    },
+    {
+        "batter": "DR Martyn               ",
+        "total_runs": 19,
+        "balls_faced": 26,
+        "fours": 1,
+        "sixes": 0,
+        "dismissals": 2,
+        "strike_rate": 73.08,
+        "batting_avg": 9.5
+    },
+    {
+        "batter": "P Sahu                  ",
+        "total_runs": 19,
+        "balls_faced": 13,
+        "fours": 1,
+        "sixes": 1,
+        "dismissals": 0,
+        "strike_rate": 146.15,
+        "batting_avg": "-"
+    },
+    {
+        "batter": "Nathan Ellis           ",
+        "total_runs": 19,
+        "balls_faced": 26,
+        "fours": 0,
+        "sixes": 1,
+        "dismissals": 4,
+        "strike_rate": 73.08,
+        "batting_avg": 4.75
+    },
+    {
+        "batter": "Akash Deep              ",
+        "total_runs": 19,
+        "balls_faced": 12,
+        "fours": 2,
+        "sixes": 1,
+        "dismissals": 2,
+        "strike_rate": 158.33,
+        "batting_avg": 9.5
+    },
+    {
+        "batter": "R Bishnoi               ",
+        "total_runs": 19,
+        "balls_faced": 17,
+        "fours": 1,
+        "sixes": 2,
+        "dismissals": 3,
+        "strike_rate": 111.76,
+        "batting_avg": 6.33
+    },
+    {
+        "batter": "A Mukund                ",
+        "total_runs": 19,
+        "balls_faced": 23,
+        "fours": 1,
+        "sixes": 0,
+        "dismissals": 2,
+        "strike_rate": 82.61,
+        "batting_avg": 9.5
+    },
+    {
+        "batter": "Gulbadin Naib           ",
+        "total_runs": 19,
+        "balls_faced": 15,
+        "fours": 1,
+        "sixes": 1,
+        "dismissals": 1,
+        "strike_rate": 126.67,
+        "batting_avg": 19.0
+    },
+    {
+        "batter": "JR Hazlewood            ",
+        "total_runs": 19,
+        "balls_faced": 29,
+        "fours": 1,
+        "sixes": 0,
+        "dismissals": 0,
+        "strike_rate": 65.52,
+        "batting_avg": "-"
+    },
+    {
+        "batter": "R Shukla                ",
+        "total_runs": 19,
+        "balls_faced": 23,
+        "fours": 2,
+        "sixes": 0,
+        "dismissals": 2,
+        "strike_rate": 82.61,
+        "batting_avg": 9.5
+    },
+    {
+        "batter": "P Ray Barman            ",
+        "total_runs": 19,
+        "balls_faced": 25,
+        "fours": 2,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 76.0,
+        "batting_avg": 19.0
+    },
+    {
+        "batter": "Darren Lehmann       ",
+        "total_runs": 18,
+        "balls_faced": 19,
+        "fours": 3,
+        "sixes": 0,
+        "dismissals": 2,
+        "strike_rate": 94.74,
+        "batting_avg": 9.0
+    },
+    {
+        "batter": "JJ van der Wath         ",
+        "total_runs": 18,
+        "balls_faced": 17,
+        "fours": 1,
+        "sixes": 1,
+        "dismissals": 2,
+        "strike_rate": 105.88,
+        "batting_avg": 9.0
+    },
+    {
+        "batter": "Saurav Chauhan          ",
+        "total_runs": 18,
+        "balls_faced": 16,
+        "fours": 1,
+        "sixes": 1,
+        "dismissals": 3,
+        "strike_rate": 112.5,
+        "batting_avg": 6.0
+    },
+    {
+        "batter": "Naveen-ul-Haq           ",
+        "total_runs": 18,
+        "balls_faced": 26,
+        "fours": 2,
+        "sixes": 0,
+        "dismissals": 2,
+        "strike_rate": 69.23,
+        "batting_avg": 9.0
+    },
+    {
+        "batter": "Sumit Kumar             ",
+        "total_runs": 18,
+        "balls_faced": 26,
+        "fours": 2,
+        "sixes": 1,
+        "dismissals": 2,
+        "strike_rate": 69.23,
+        "batting_avg": 9.0
+    },
+    {
+        "batter": "BJ Haddin               ",
+        "total_runs": 18,
+        "balls_faced": 11,
+        "fours": 2,
+        "sixes": 1,
+        "dismissals": 1,
+        "strike_rate": 163.64,
+        "batting_avg": 18.0
+    },
+    {
+        "batter": "Harmeet Singh           ",
+        "total_runs": 18,
+        "balls_faced": 12,
+        "fours": 3,
+        "sixes": 0,
+        "dismissals": 2,
+        "strike_rate": 150.0,
+        "batting_avg": 9.0
+    },
+    {
+        "batter": "PV Tambe                ",
+        "total_runs": 18,
+        "balls_faced": 39,
+        "fours": 1,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 46.15,
+        "batting_avg": 18.0
+    },
+    {
+        "batter": "T Banton                ",
+        "total_runs": 18,
+        "balls_faced": 22,
+        "fours": 1,
+        "sixes": 1,
+        "dismissals": 2,
+        "strike_rate": 81.82,
+        "batting_avg": 9.0
+    },
+    {
+        "batter": "KMA Paul                ",
+        "total_runs": 18,
+        "balls_faced": 26,
+        "fours": 1,
+        "sixes": 1,
+        "dismissals": 4,
+        "strike_rate": 69.23,
+        "batting_avg": 4.5
+    },
+    {
+        "batter": "JA Richardson           ",
+        "total_runs": 17,
+        "balls_faced": 27,
+        "fours": 2,
+        "sixes": 0,
+        "dismissals": 3,
+        "strike_rate": 62.96,
+        "batting_avg": 5.67
+    },
+    {
+        "batter": "Parvez Rasool           ",
+        "total_runs": 17,
+        "balls_faced": 20,
+        "fours": 1,
+        "sixes": 0,
+        "dismissals": 2,
+        "strike_rate": 85.0,
+        "batting_avg": 8.5
+    },
+    {
+        "batter": "Pragyan Ojha ",
+        "total_runs": 16,
+        "balls_faced": 45,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 10,
+        "strike_rate": 35.56,
+        "batting_avg": 1.6
+    },
+    {
+        "batter": "YV Dhull                ",
+        "total_runs": 16,
+        "balls_faced": 23,
+        "fours": 1,
+        "sixes": 0,
+        "dismissals": 3,
+        "strike_rate": 69.57,
+        "batting_avg": 5.33
+    },
+    {
+        "batter": "Chamara Kapugedera         ",
+        "total_runs": 16,
+        "balls_faced": 24,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 3,
+        "strike_rate": 66.67,
+        "batting_avg": 5.33
+    },
+    {
+        "batter": "KS Sharma               ",
+        "total_runs": 16,
+        "balls_faced": 25,
+        "fours": 1,
+        "sixes": 0,
+        "dismissals": 3,
+        "strike_rate": 64.0,
+        "batting_avg": 5.33
+    },
+    {
+        "batter": "AJ Hosein               ",
+        "total_runs": 16,
+        "balls_faced": 11,
+        "fours": 1,
+        "sixes": 1,
+        "dismissals": 0,
+        "strike_rate": 145.45,
+        "batting_avg": "-"
+    },
+    {
+        "batter": "GR Napier               ",
+        "total_runs": 15,
+        "balls_faced": 16,
+        "fours": 1,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 93.75,
+        "batting_avg": 15.0
+    },
+    {
+        "batter": "Yo Mahesh            ",
+        "total_runs": 15,
+        "balls_faced": 28,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 2,
+        "strike_rate": 53.57,
+        "batting_avg": 7.5
+    },
+    {
+        "batter": "JL Pattinson            ",
+        "total_runs": 15,
+        "balls_faced": 13,
+        "fours": 2,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 115.38,
+        "batting_avg": 15.0
+    },
+    {
+        "batter": "A Zampa                 ",
+        "total_runs": 15,
+        "balls_faced": 25,
+        "fours": 1,
+        "sixes": 0,
+        "dismissals": 5,
+        "strike_rate": 60.0,
+        "batting_avg": 3.0
+    },
+    {
+        "batter": "C Madan                 ",
+        "total_runs": 15,
+        "balls_faced": 21,
+        "fours": 3,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 71.43,
+        "batting_avg": 15.0
+    },
+    {
+        "batter": "SD Lad                  ",
+        "total_runs": 15,
+        "balls_faced": 13,
+        "fours": 1,
+        "sixes": 1,
+        "dismissals": 1,
+        "strike_rate": 115.38,
+        "batting_avg": 15.0
+    },
+    {
+        "batter": "Virat Singh             ",
+        "total_runs": 15,
+        "balls_faced": 26,
+        "fours": 1,
+        "sixes": 0,
+        "dismissals": 3,
+        "strike_rate": 57.69,
+        "batting_avg": 5.0
+    },
+    {
+        "batter": "I Udana                 ",
+        "total_runs": 15,
+        "balls_faced": 11,
+        "fours": 1,
+        "sixes": 1,
+        "dismissals": 3,
+        "strike_rate": 136.36,
+        "batting_avg": 5.0
+    },
+    {
+        "batter": "G Coetzee               ",
+        "total_runs": 14,
+        "balls_faced": 22,
+        "fours": 0,
+        "sixes": 1,
+        "dismissals": 4,
+        "strike_rate": 63.64,
+        "batting_avg": 3.5
+    },
+    {
+        "batter": "FA Allen                ",
+        "total_runs": 14,
+        "balls_faced": 19,
+        "fours": 1,
+        "sixes": 0,
+        "dismissals": 2,
+        "strike_rate": 73.68,
+        "batting_avg": 7.0
+    },
+    {
+        "batter": "Vijaykumar Vyshak       ",
+        "total_runs": 14,
+        "balls_faced": 13,
+        "fours": 0,
+        "sixes": 1,
+        "dismissals": 2,
+        "strike_rate": 107.69,
+        "batting_avg": 7.0
+    },
+    {
+        "batter": "MDKJ Perera             ",
+        "total_runs": 14,
+        "balls_faced": 13,
+        "fours": 3,
+        "sixes": 0,
+        "dismissals": 2,
+        "strike_rate": 107.69,
+        "batting_avg": 7.0
+    },
+    {
+        "batter": "F Behardien             ",
+        "total_runs": 14,
+        "balls_faced": 13,
+        "fours": 2,
+        "sixes": 0,
+        "dismissals": 2,
+        "strike_rate": 107.69,
+        "batting_avg": 7.0
+    },
+    {
+        "batter": "Mustafizur Rahman       ",
+        "total_runs": 13,
+        "balls_faced": 23,
+        "fours": 0,
+        "sixes": 1,
+        "dismissals": 1,
+        "strike_rate": 56.52,
+        "batting_avg": 13.0
+    },
+    {
+        "batter": "Noor Ahmad              ",
+        "total_runs": 13,
+        "balls_faced": 18,
+        "fours": 2,
+        "sixes": 0,
+        "dismissals": 4,
+        "strike_rate": 72.22,
+        "batting_avg": 3.25
+    },
+    {
+        "batter": "DT Patil                ",
+        "total_runs": 13,
+        "balls_faced": 13,
+        "fours": 1,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 100.0,
+        "batting_avg": 13.0
+    },
+    {
+        "batter": "Arjun Tendulkar         ",
+        "total_runs": 13,
+        "balls_faced": 9,
+        "fours": 0,
+        "sixes": 1,
+        "dismissals": 1,
+        "strike_rate": 144.44,
+        "batting_avg": 13.0
+    },
+    {
+        "batter": "DR Shorey               ",
+        "total_runs": 13,
+        "balls_faced": 20,
+        "fours": 0,
+        "sixes": 1,
+        "dismissals": 2,
+        "strike_rate": 65.0,
+        "batting_avg": 6.5
+    },
+    {
+        "batter": "KJ Abbott               ",
+        "total_runs": 13,
+        "balls_faced": 8,
+        "fours": 0,
+        "sixes": 1,
+        "dismissals": 1,
+        "strike_rate": 162.5,
+        "batting_avg": 13.0
+    },
+    {
+        "batter": "Kartik Tyagi            ",
+        "total_runs": 13,
+        "balls_faced": 16,
+        "fours": 1,
+        "sixes": 0,
+        "dismissals": 4,
+        "strike_rate": 81.25,
+        "batting_avg": 3.25
+    },
+    {
+        "batter": "R Sai Kishore           ",
+        "total_runs": 13,
+        "balls_faced": 6,
+        "fours": 0,
+        "sixes": 2,
+        "dismissals": 1,
+        "strike_rate": 216.67,
+        "batting_avg": 13.0
+    },
+    {
+        "batter": "S Badree                ",
+        "total_runs": 13,
+        "balls_faced": 25,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 5,
+        "strike_rate": 52.0,
+        "batting_avg": 2.6
+    },
+    {
+        "batter": "AR Bawne                ",
+        "total_runs": 12,
+        "balls_faced": 12,
+        "fours": 1,
+        "sixes": 0,
+        "dismissals": 0,
+        "strike_rate": 100.0,
+        "batting_avg": "-"
+    },
+    {
+        "batter": "AA Chavan               ",
+        "total_runs": 12,
+        "balls_faced": 11,
+        "fours": 2,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 109.09,
+        "batting_avg": 12.0
+    },
+    {
+        "batter": "K Upadhyay              ",
+        "total_runs": 12,
+        "balls_faced": 9,
+        "fours": 0,
+        "sixes": 1,
+        "dismissals": 0,
+        "strike_rate": 133.33,
+        "batting_avg": "-"
+    },
+    {
+        "batter": "MA Wood                 ",
+        "total_runs": 12,
+        "balls_faced": 10,
+        "fours": 1,
+        "sixes": 1,
+        "dismissals": 2,
+        "strike_rate": 120.0,
+        "batting_avg": 6.0
+    },
+    {
+        "batter": "Mujeeb Ur Rahman        ",
+        "total_runs": 12,
+        "balls_faced": 15,
+        "fours": 2,
+        "sixes": 0,
+        "dismissals": 3,
+        "strike_rate": 80.0,
+        "batting_avg": 4.0
+    },
+    {
+        "batter": "DAJ Bracewell           ",
+        "total_runs": 12,
+        "balls_faced": 9,
+        "fours": 1,
+        "sixes": 0,
+        "dismissals": 0,
+        "strike_rate": 133.33,
+        "batting_avg": "-"
+    },
+    {
+        "batter": "Karanveer Singh         ",
+        "total_runs": 12,
+        "balls_faced": 17,
+        "fours": 1,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 70.59,
+        "batting_avg": 12.0
+    },
+    {
+        "batter": "DG Nalkande             ",
+        "total_runs": 12,
+        "balls_faced": 12,
+        "fours": 0,
+        "sixes": 1,
+        "dismissals": 2,
+        "strike_rate": 100.0,
+        "batting_avg": 6.0
+    },
+    {
+        "batter": "T Thushara              ",
+        "total_runs": 12,
+        "balls_faced": 19,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 2,
+        "strike_rate": 63.16,
+        "batting_avg": 6.0
+    },
+    {
+        "batter": "Nuwan Zoysa         ",
+        "total_runs": 11,
+        "balls_faced": 9,
+        "fours": 1,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 122.22,
+        "batting_avg": 11.0
+    },
+    {
+        "batter": "Taruwar Kohli             ",
+        "total_runs": 11,
+        "balls_faced": 20,
+        "fours": 0,
+        "sixes": 1,
+        "dismissals": 3,
+        "strike_rate": 55.0,
+        "batting_avg": 3.67
+    },
+    {
+        "batter": "Makhaya Ntini           ",
+        "total_runs": 11,
+        "balls_faced": 19,
+        "fours": 2,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 57.89,
+        "batting_avg": 11.0
+    },
+    {
+        "batter": "T Henderson             ",
+        "total_runs": 11,
+        "balls_faced": 16,
+        "fours": 0,
+        "sixes": 1,
+        "dismissals": 1,
+        "strike_rate": 68.75,
+        "batting_avg": 11.0
+    },
+    {
+        "batter": "RA Bawa                 ",
+        "total_runs": 11,
+        "balls_faced": 14,
+        "fours": 1,
+        "sixes": 0,
+        "dismissals": 2,
+        "strike_rate": 78.57,
+        "batting_avg": 5.5
+    },
+    {
+        "batter": "JE Root                 ",
+        "total_runs": 10,
+        "balls_faced": 15,
+        "fours": 1,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 66.67,
+        "batting_avg": 10.0
+    },
+    {
+        "batter": "KAJ Roach               ",
+        "total_runs": 10,
+        "balls_faced": 9,
+        "fours": 1,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 111.11,
+        "batting_avg": 10.0
+    },
+    {
+        "batter": "AG Murtaza              ",
+        "total_runs": 10,
+        "balls_faced": 14,
+        "fours": 1,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 71.43,
+        "batting_avg": 10.0
+    },
+    {
+        "batter": "RK Bhui                 ",
+        "total_runs": 10,
+        "balls_faced": 27,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 4,
+        "strike_rate": 37.04,
+        "batting_avg": 2.5
+    },
+    {
+        "batter": "TD Paine                ",
+        "total_runs": 10,
+        "balls_faced": 29,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 2,
+        "strike_rate": 34.48,
+        "batting_avg": 5.0
+    },
+    {
+        "batter": "J Theron                ",
+        "total_runs": 10,
+        "balls_faced": 13,
+        "fours": 1,
+        "sixes": 0,
+        "dismissals": 2,
+        "strike_rate": 76.92,
+        "batting_avg": 5.0
+    },
+    {
+        "batter": "SMSM Senanayake         ",
+        "total_runs": 10,
+        "balls_faced": 17,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 58.82,
+        "batting_avg": 10.0
+    },
+    {
+        "batter": "D du Preez              ",
+        "total_runs": 10,
+        "balls_faced": 13,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 76.92,
+        "batting_avg": 10.0
+    },
+    {
+        "batter": "Mukesh Kumar            ",
+        "total_runs": 10,
+        "balls_faced": 20,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 50.0,
+        "batting_avg": 10.0
+    },
+    {
+        "batter": "BB Sran                 ",
+        "total_runs": 10,
+        "balls_faced": 14,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 71.43,
+        "batting_avg": 10.0
+    },
+    {
+        "batter": "X Thalaivan Sargunam    ",
+        "total_runs": 10,
+        "balls_faced": 17,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 58.82,
+        "batting_avg": 10.0
+    },
+    {
+        "batter": "SM Harwood              ",
+        "total_runs": 9,
+        "balls_faced": 14,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 0,
+        "strike_rate": 64.29,
+        "batting_avg": "-"
+    },
+    {
+        "batter": "M Prasidh Krishna       ",
+        "total_runs": 9,
+        "balls_faced": 24,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 2,
+        "strike_rate": 37.5,
+        "batting_avg": 4.5
+    },
+    {
+        "batter": "Ashley Noffke              ",
+        "total_runs": 9,
+        "balls_faced": 12,
+        "fours": 1,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 75.0,
+        "batting_avg": 9.0
+    },
+    {
+        "batter": "AA Kulkarni             ",
+        "total_runs": 9,
+        "balls_faced": 8,
+        "fours": 2,
+        "sixes": 0,
+        "dismissals": 2,
+        "strike_rate": 112.5,
+        "batting_avg": 4.5
+    },
+    {
+        "batter": "L Wood                  ",
+        "total_runs": 9,
+        "balls_faced": 3,
+        "fours": 0,
+        "sixes": 1,
+        "dismissals": 0,
+        "strike_rate": 300.0,
+        "batting_avg": "-"
+    },
+    {
+        "batter": "Vaibhav Arora          ",
+        "total_runs": 9,
+        "balls_faced": 17,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 2,
+        "strike_rate": 52.94,
+        "batting_avg": 4.5
+    },
+    {
+        "batter": "K Kartikeya             ",
+        "total_runs": 9,
+        "balls_faced": 13,
+        "fours": 1,
+        "sixes": 0,
+        "dismissals": 2,
+        "strike_rate": 69.23,
+        "batting_avg": 4.5
+    },
+    {
+        "batter": "TM Srivastava           ",
+        "total_runs": 8,
+        "balls_faced": 11,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 72.73,
+        "batting_avg": 8.0
+    },
+    {
+        "batter": "TS Mills                ",
+        "total_runs": 8,
+        "balls_faced": 14,
+        "fours": 0,
+        "sixes": 1,
+        "dismissals": 4,
+        "strike_rate": 57.14,
+        "batting_avg": 2.0
+    },
+    {
+        "batter": "CK Langeveldt           ",
+        "total_runs": 8,
+        "balls_faced": 9,
+        "fours": 0,
+        "sixes": 1,
+        "dismissals": 2,
+        "strike_rate": 88.89,
+        "batting_avg": 4.0
+    },
+    {
+        "batter": "D Ferreira              ",
+        "total_runs": 8,
+        "balls_faced": 11,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 2,
+        "strike_rate": 72.73,
+        "batting_avg": 4.0
+    },
+    {
+        "batter": "Jaskaran Singh          ",
+        "total_runs": 8,
+        "balls_faced": 11,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 2,
+        "strike_rate": 72.73,
+        "batting_avg": 4.0
+    },
+    {
+        "batter": "P Chopra                ",
+        "total_runs": 8,
+        "balls_faced": 6,
+        "fours": 2,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 133.33,
+        "batting_avg": 8.0
+    },
+    {
+        "batter": "JPR Scantlebury-Searles ",
+        "total_runs": 8,
+        "balls_faced": 6,
+        "fours": 0,
+        "sixes": 1,
+        "dismissals": 1,
+        "strike_rate": 133.33,
+        "batting_avg": 8.0
+    },
+    {
+        "batter": "OC McCoy                ",
+        "total_runs": 8,
+        "balls_faced": 5,
+        "fours": 0,
+        "sixes": 1,
+        "dismissals": 0,
+        "strike_rate": 160.0,
+        "batting_avg": "-"
+    },
+    {
+        "batter": "CJ McKay                ",
+        "total_runs": 8,
+        "balls_faced": 15,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 53.33,
+        "batting_avg": 8.0
+    },
+    {
+        "batter": "Simarjeet Singh         ",
+        "total_runs": 7,
+        "balls_faced": 8,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 87.5,
+        "batting_avg": 7.0
+    },
+    {
+        "batter": "VS Malik                ",
+        "total_runs": 7,
+        "balls_faced": 7,
+        "fours": 1,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 100.0,
+        "batting_avg": 7.0
+    },
+    {
+        "batter": "AN Ghosh                ",
+        "total_runs": 7,
+        "balls_faced": 8,
+        "fours": 1,
+        "sixes": 0,
+        "dismissals": 2,
+        "strike_rate": 87.5,
+        "batting_avg": 3.5
+    },
+    {
+        "batter": "IS Sodhi                ",
+        "total_runs": 7,
+        "balls_faced": 18,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 2,
+        "strike_rate": 38.89,
+        "batting_avg": 3.5
+    },
+    {
+        "batter": "Pankaj Singh            ",
+        "total_runs": 7,
+        "balls_faced": 12,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 2,
+        "strike_rate": 58.33,
+        "batting_avg": 3.5
+    },
+    {
+        "batter": "I Malhotra              ",
+        "total_runs": 7,
+        "balls_faced": 4,
+        "fours": 1,
+        "sixes": 0,
+        "dismissals": 0,
+        "strike_rate": 175.0,
+        "batting_avg": "-"
+    },
+    {
+        "batter": "UA Birla                ",
+        "total_runs": 7,
+        "balls_faced": 15,
+        "fours": 1,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 46.67,
+        "batting_avg": 7.0
+    },
+    {
+        "batter": "Maheesh Theekshana",
+        "total_runs": 7,
+        "balls_faced": 7,
+        "fours": 0,
+        "sixes": 1,
+        "dismissals": 1,
+        "strike_rate": 100.0,
+        "batting_avg": 7.0
+    },
+    {
+        "batter": "V Viyaskanth            ",
+        "total_runs": 7,
+        "balls_faced": 5,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 0,
+        "strike_rate": 140.0,
+        "batting_avg": "-"
+    },
+    {
+        "batter": "Ankit Soni              ",
+        "total_runs": 7,
+        "balls_faced": 9,
+        "fours": 0,
+        "sixes": 1,
+        "dismissals": 2,
+        "strike_rate": 77.78,
+        "batting_avg": 3.5
+    },
+    {
+        "batter": "Mukesh Choudhary        ",
+        "total_runs": 6,
+        "balls_faced": 6,
+        "fours": 1,
+        "sixes": 0,
+        "dismissals": 0,
+        "strike_rate": 100.0,
+        "batting_avg": "-"
+    },
+    {
+        "batter": "SS Shaikh               ",
+        "total_runs": 6,
+        "balls_faced": 7,
+        "fours": 1,
+        "sixes": 0,
+        "dismissals": 0,
+        "strike_rate": 85.71,
+        "batting_avg": "-"
+    },
+    {
+        "batter": "Sunil Joshi        ",
+        "total_runs": 6,
+        "balls_faced": 16,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 2,
+        "strike_rate": 37.5,
+        "batting_avg": 3.0
+    },
+    {
+        "batter": "DM Bravo                ",
+        "total_runs": 6,
+        "balls_faced": 5,
+        "fours": 1,
+        "sixes": 0,
+        "dismissals": 0,
+        "strike_rate": 120.0,
+        "batting_avg": "-"
+    },
+    {
+        "batter": "PSP Handscomb           ",
+        "total_runs": 6,
+        "balls_faced": 12,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 50.0,
+        "batting_avg": 6.0
+    },
+    {
+        "batter": "BA Bhatt                ",
+        "total_runs": 6,
+        "balls_faced": 7,
+        "fours": 0,
+        "sixes": 1,
+        "dismissals": 0,
+        "strike_rate": 85.71,
+        "batting_avg": "-"
+    },
+    {
+        "batter": "SH Johnson              ",
+        "total_runs": 6,
+        "balls_faced": 7,
+        "fours": 1,
+        "sixes": 0,
+        "dismissals": 0,
+        "strike_rate": 85.71,
+        "batting_avg": "-"
+    },
+    {
+        "batter": "JP Behrendorff          ",
+        "total_runs": 6,
+        "balls_faced": 9,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 0,
+        "strike_rate": 66.67,
+        "batting_avg": "-"
+    },
+    {
+        "batter": "Arshad Khan (2)         ",
+        "total_runs": 5,
+        "balls_faced": 4,
+        "fours": 1,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 125.0,
+        "batting_avg": 5.0
+    },
+    {
+        "batter": "P Awana                 ",
+        "total_runs": 5,
+        "balls_faced": 14,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 3,
+        "strike_rate": 35.71,
+        "batting_avg": 1.67
+    },
+    {
+        "batter": "Shivam Sharma           ",
+        "total_runs": 5,
+        "balls_faced": 3,
+        "fours": 1,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 166.67,
+        "batting_avg": 5.0
+    },
+    {
+        "batter": "KMDN Kulasekara         ",
+        "total_runs": 5,
+        "balls_faced": 3,
+        "fours": 1,
+        "sixes": 0,
+        "dismissals": 0,
+        "strike_rate": 166.67,
+        "batting_avg": "-"
+    },
+    {
+        "batter": "B Laughlin              ",
+        "total_runs": 5,
+        "balls_faced": 13,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 2,
+        "strike_rate": 38.46,
+        "batting_avg": 2.5
+    },
+    {
+        "batter": "B Stanlake              ",
+        "total_runs": 5,
+        "balls_faced": 2,
+        "fours": 1,
+        "sixes": 0,
+        "dismissals": 0,
+        "strike_rate": 250.0,
+        "batting_avg": "-"
+    },
+    {
+        "batter": "SJ Srivastava           ",
+        "total_runs": 5,
+        "balls_faced": 5,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 100.0,
+        "batting_avg": 5.0
+    },
+    {
+        "batter": "A Tomar                 ",
+        "total_runs": 4,
+        "balls_faced": 8,
+        "fours": 1,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 50.0,
+        "batting_avg": 4.0
+    },
+    {
+        "batter": "Vikram Singh         ",
+        "total_runs": 4,
+        "balls_faced": 3,
+        "fours": 1,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 133.33,
+        "batting_avg": 4.0
+    },
+    {
+        "batter": "A Uniyal                ",
+        "total_runs": 4,
+        "balls_faced": 7,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 57.14,
+        "batting_avg": 4.0
+    },
+    {
+        "batter": "RS Sodhi                ",
+        "total_runs": 4,
+        "balls_faced": 2,
+        "fours": 1,
+        "sixes": 0,
+        "dismissals": 0,
+        "strike_rate": 200.0,
+        "batting_avg": "-"
+    },
+    {
+        "batter": "FH Edwards              ",
+        "total_runs": 4,
+        "balls_faced": 5,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 80.0,
+        "batting_avg": 4.0
+    },
+    {
+        "batter": "Glenn McGrath      ",
+        "total_runs": 4,
+        "balls_faced": 5,
+        "fours": 1,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 80.0,
+        "batting_avg": 4.0
+    },
+    {
+        "batter": "DP Nannes               ",
+        "total_runs": 4,
+        "balls_faced": 13,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 30.77,
+        "batting_avg": 4.0
+    },
+    {
+        "batter": "A Dananjaya             ",
+        "total_runs": 4,
+        "balls_faced": 5,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 0,
+        "strike_rate": 80.0,
+        "batting_avg": "-"
+    },
+    {
+        "batter": "A Chandila              ",
+        "total_runs": 4,
+        "balls_faced": 7,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 57.14,
+        "batting_avg": 4.0
+    },
+    {
+        "batter": "Akash Madhwal           ",
+        "total_runs": 4,
+        "balls_faced": 5,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 0,
+        "strike_rate": 80.0,
+        "batting_avg": "-"
+    },
+    {
+        "batter": "Liton Das               ",
+        "total_runs": 4,
+        "balls_faced": 4,
+        "fours": 1,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 100.0,
+        "batting_avg": 4.0
+    },
+    {
+        "batter": "Dilhara Fernando",
+        "total_runs": 4,
+        "balls_faced": 3,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 133.33,
+        "batting_avg": 4.0
+    },
+    {
+        "batter": "Kumar Kushagra          ",
+        "total_runs": 3,
+        "balls_faced": 7,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 3,
+        "strike_rate": 42.86,
+        "batting_avg": 1.0
+    },
+    {
+        "batter": "R Ninan                 ",
+        "total_runs": 3,
+        "balls_faced": 6,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 50.0,
+        "batting_avg": 3.0
+    },
+    {
+        "batter": "GC Viljoen              ",
+        "total_runs": 3,
+        "balls_faced": 7,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 2,
+        "strike_rate": 42.86,
+        "batting_avg": 1.5
+    },
+    {
+        "batter": "Kamran Khan             ",
+        "total_runs": 3,
+        "balls_faced": 5,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 60.0,
+        "batting_avg": 3.0
+    },
+    {
+        "batter": "BAW Mendis              ",
+        "total_runs": 3,
+        "balls_faced": 6,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 2,
+        "strike_rate": 50.0,
+        "batting_avg": 1.5
+    },
+    {
+        "batter": "Younis Khan             ",
+        "total_runs": 3,
+        "balls_faced": 7,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 42.86,
+        "batting_avg": 3.0
+    },
+    {
+        "batter": "S Tyagi                 ",
+        "total_runs": 3,
+        "balls_faced": 4,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 0,
+        "strike_rate": 75.0,
+        "batting_avg": "-"
+    },
+    {
+        "batter": "JE Taylor               ",
+        "total_runs": 3,
+        "balls_faced": 4,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 0,
+        "strike_rate": 75.0,
+        "batting_avg": "-"
+    },
+    {
+        "batter": "Mohammad Asif           ",
+        "total_runs": 3,
+        "balls_faced": 6,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 2,
+        "strike_rate": 50.0,
+        "batting_avg": 1.5
+    },
+    {
+        "batter": "RJW Topley              ",
+        "total_runs": 3,
+        "balls_faced": 6,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 0,
+        "strike_rate": 50.0,
+        "batting_avg": "-"
+    },
+    {
+        "batter": "T Natarajan             ",
+        "total_runs": 3,
+        "balls_faced": 5,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 0,
+        "strike_rate": 60.0,
+        "batting_avg": "-"
+    },
+    {
+        "batter": "Doddapaneni Kalyankrishna    ",
+        "total_runs": 3,
+        "balls_faced": 8,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 37.5,
+        "batting_avg": 3.0
+    },
+    {
+        "batter": "Fazalhaq Farooqi        ",
+        "total_runs": 3,
+        "balls_faced": 13,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 0,
+        "strike_rate": 23.08,
+        "batting_avg": "-"
+    },
+    {
+        "batter": "A Kamboj                ",
+        "total_runs": 2,
+        "balls_faced": 2,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 0,
+        "strike_rate": 100.0,
+        "batting_avg": "-"
+    },
+    {
+        "batter": "BR Sharath              ",
+        "total_runs": 2,
+        "balls_faced": 5,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 40.0,
+        "batting_avg": 2.0
+    },
+    {
+        "batter": "Mohammad Ashraful       ",
+        "total_runs": 2,
+        "balls_faced": 12,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 16.67,
+        "batting_avg": 2.0
+    },
+    {
+        "batter": "Mashrafe Mortaza        ",
+        "total_runs": 2,
+        "balls_faced": 2,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 0,
+        "strike_rate": 100.0,
+        "batting_avg": "-"
+    },
+    {
+        "batter": "GHS Garton              ",
+        "total_runs": 2,
+        "balls_faced": 4,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 50.0,
+        "batting_avg": 2.0
+    },
+    {
+        "batter": "A Singh                 ",
+        "total_runs": 2,
+        "balls_faced": 10,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 4,
+        "strike_rate": 20.0,
+        "batting_avg": 0.5
+    },
+    {
+        "batter": "H Das                   ",
+        "total_runs": 2,
+        "balls_faced": 5,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 40.0,
+        "batting_avg": 2.0
+    },
+    {
+        "batter": "Vikrant Yeligati",
+        "total_runs": 2,
+        "balls_faced": 2,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 100.0,
+        "batting_avg": 2.0
+    },
+    {
+        "batter": "KP Appanna              ",
+        "total_runs": 2,
+        "balls_faced": 4,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 50.0,
+        "batting_avg": 2.0
+    },
+    {
+        "batter": "S Randiv                ",
+        "total_runs": 2,
+        "balls_faced": 4,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 50.0,
+        "batting_avg": 2.0
+    },
+    {
+        "batter": "Shoaib Akhtar           ",
+        "total_runs": 2,
+        "balls_faced": 8,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 25.0,
+        "batting_avg": 2.0
+    },
+    {
+        "batter": "SB Wagh                 ",
+        "total_runs": 2,
+        "balls_faced": 3,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 2,
+        "strike_rate": 66.67,
+        "batting_avg": 1.0
+    },
+    {
+        "batter": "RS Gavaskar             ",
+        "total_runs": 2,
+        "balls_faced": 8,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 25.0,
+        "batting_avg": 2.0
+    },
+    {
+        "batter": "Shivam Singh            ",
+        "total_runs": 2,
+        "balls_faced": 3,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 0,
+        "strike_rate": 66.67,
+        "batting_avg": "-"
+    },
+    {
+        "batter": "T Shamsi                ",
+        "total_runs": 2,
+        "balls_faced": 4,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 0,
+        "strike_rate": 50.0,
+        "batting_avg": "-"
+    },
+    {
+        "batter": "RJ Gleeson              ",
+        "total_runs": 2,
+        "balls_faced": 2,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 0,
+        "strike_rate": 100.0,
+        "batting_avg": "-"
+    },
+    {
+        "batter": "Harshit Rana            ",
+        "total_runs": 2,
+        "balls_faced": 3,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 2,
+        "strike_rate": 66.67,
+        "batting_avg": 1.0
+    },
+    {
+        "batter": "RG More                 ",
+        "total_runs": 2,
+        "balls_faced": 2,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 0,
+        "strike_rate": 100.0,
+        "batting_avg": "-"
+    },
+    {
+        "batter": "SZ Mulani               ",
+        "total_runs": 1,
+        "balls_faced": 1,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 0,
+        "strike_rate": 100.0,
+        "batting_avg": "-"
+    },
+    {
+        "batter": "P Parameswaran          ",
+        "total_runs": 1,
+        "balls_faced": 3,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 0,
+        "strike_rate": 33.33,
+        "batting_avg": "-"
+    },
+    {
+        "batter": "NJ Rimmington           ",
+        "total_runs": 1,
+        "balls_faced": 1,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 0,
+        "strike_rate": 100.0,
+        "batting_avg": "-"
+    },
+    {
+        "batter": "MJ Suthar               ",
+        "total_runs": 1,
+        "balls_faced": 2,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 50.0,
+        "batting_avg": 1.0
+    },
+    {
+        "batter": "Paidikalva Vijaykumar        ",
+        "total_runs": 1,
+        "balls_faced": 1,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 0,
+        "strike_rate": 100.0,
+        "batting_avg": "-"
+    },
+    {
+        "batter": "LE Plunkett             ",
+        "total_runs": 1,
+        "balls_faced": 3,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 33.33,
+        "batting_avg": 1.0
+    },
+    {
+        "batter": "LB Williams             ",
+        "total_runs": 1,
+        "balls_faced": 2,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 0,
+        "strike_rate": 50.0,
+        "batting_avg": "-"
+    },
+    {
+        "batter": "M de Lange              ",
+        "total_runs": 1,
+        "balls_faced": 2,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 50.0,
+        "batting_avg": 1.0
+    },
+    {
+        "batter": "KA Maharaj              ",
+        "total_runs": 1,
+        "balls_faced": 2,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 50.0,
+        "batting_avg": 1.0
+    },
+    {
+        "batter": "HF Gurney               ",
+        "total_runs": 1,
+        "balls_faced": 5,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 0,
+        "strike_rate": 20.0,
+        "batting_avg": "-"
+    },
+    {
+        "batter": "SE Bond                 ",
+        "total_runs": 1,
+        "balls_faced": 2,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 50.0,
+        "batting_avg": 1.0
+    },
+    {
+        "batter": "PM Sarvesh Kumar        ",
+        "total_runs": 1,
+        "balls_faced": 2,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 0,
+        "strike_rate": 50.0,
+        "batting_avg": "-"
+    },
+    {
+        "batter": "DJ Muthuswami           ",
+        "total_runs": 1,
+        "balls_faced": 3,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 33.33,
+        "batting_avg": 1.0
+    },
+    {
+        "batter": "BE Hendricks            ",
+        "total_runs": 1,
+        "balls_faced": 3,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 33.33,
+        "batting_avg": 1.0
+    },
+    {
+        "batter": "KK Ahmed                ",
+        "total_runs": 1,
+        "balls_faced": 7,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 5,
+        "strike_rate": 14.29,
+        "batting_avg": 0.2
+    },
+    {
+        "batter": "Abdul Basith            ",
+        "total_runs": 1,
+        "balls_faced": 1,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 0,
+        "strike_rate": 100.0,
+        "batting_avg": "-"
+    },
+    {
+        "batter": "Shoaib Ahmed            ",
+        "total_runs": 1,
+        "balls_faced": 6,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 2,
+        "strike_rate": 16.67,
+        "batting_avg": 0.5
+    },
+    {
+        "batter": "Mohit Rathee            ",
+        "total_runs": 1,
+        "balls_faced": 2,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 0,
+        "strike_rate": 50.0,
+        "batting_avg": "-"
+    },
+    {
+        "batter": "YA Abdulla              ",
+        "total_runs": 0,
+        "balls_faced": 1,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 0,
+        "strike_rate": 0.0,
+        "batting_avg": "-"
+    },
+    {
+        "batter": "Mayank Dagar            ",
+        "total_runs": 0,
+        "balls_faced": 1,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 0,
+        "strike_rate": 0.0,
+        "batting_avg": "-"
+    },
+    {
+        "batter": "U Kaul                  ",
+        "total_runs": 0,
+        "balls_faced": 1,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 0,
+        "strike_rate": 0.0,
+        "batting_avg": "-"
+    },
+    {
+        "batter": "Yash Dayal              ",
+        "total_runs": 0,
+        "balls_faced": 1,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0,
+        "batting_avg": 0.0
+    },
+    {
+        "batter": "C Nanda                 ",
+        "total_runs": 0,
+        "balls_faced": 1,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0,
+        "batting_avg": 0.0
+    },
+    {
+        "batter": "SS Cottrell             ",
+        "total_runs": 0,
+        "balls_faced": 2,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0,
+        "batting_avg": 0.0
+    },
+    {
+        "batter": "JL Denly                ",
+        "total_runs": 0,
+        "balls_faced": 1,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0,
+        "batting_avg": 0.0
+    },
+    {
+        "batter": "Abdur Razzak            ",
+        "total_runs": 0,
+        "balls_faced": 2,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 0,
+        "strike_rate": 0.0,
+        "batting_avg": "-"
+    },
+    {
+        "batter": "IC Pandey               ",
+        "total_runs": 0,
+        "balls_faced": 2,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0,
+        "batting_avg": 0.0
+    },
+    {
+        "batter": "Y Prithvi Raj           ",
+        "total_runs": 0,
+        "balls_faced": 1,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 0,
+        "strike_rate": 0.0,
+        "batting_avg": "-"
+    },
+    {
+        "batter": "S Lamichhane            ",
+        "total_runs": 0,
+        "balls_faced": 1,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0,
+        "batting_avg": 0.0
+    },
+    {
+        "batter": "S Ladda                 ",
+        "total_runs": 0,
+        "balls_faced": 10,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 2,
+        "strike_rate": 0.0,
+        "batting_avg": 0.0
+    },
+    {
+        "batter": "ND Doshi                ",
+        "total_runs": 0,
+        "balls_faced": 13,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0,
+        "batting_avg": 0.0
+    },
+    {
+        "batter": "K Yadav                 ",
+        "total_runs": 0,
+        "balls_faced": 4,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 0,
+        "strike_rate": 0.0,
+        "batting_avg": "-"
+    },
+    {
+        "batter": "Sunny Gupta             ",
+        "total_runs": 0,
+        "balls_faced": 1,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0,
+        "batting_avg": 0.0
+    },
+    {
+        "batter": "L Ablish                ",
+        "total_runs": 0,
+        "balls_faced": 2,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 0,
+        "strike_rate": 0.0,
+        "batting_avg": "-"
+    },
+    {
+        "batter": "RR Bhatkal              ",
+        "total_runs": 0,
+        "balls_faced": 2,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 2,
+        "strike_rate": 0.0,
+        "batting_avg": 0.0
+    },
+    {
+        "batter": "RP Meredith             ",
+        "total_runs": 0,
+        "balls_faced": 3,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0,
+        "batting_avg": 0.0
+    },
+    {
+        "batter": "KM Asif                 ",
+        "total_runs": 0,
+        "balls_faced": 2,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0,
+        "batting_avg": 0.0
+    },
+    {
+        "batter": "R Sanjay Yadav          ",
+        "total_runs": 0,
+        "balls_faced": 2,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0,
+        "batting_avg": 0.0
+    },
+    {
+        "batter": "V Pratap Singh          ",
+        "total_runs": 0,
+        "balls_faced": 1,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0,
+        "batting_avg": 0.0
+    },
+    {
+        "batter": "KR Sen                  ",
+        "total_runs": 0,
+        "balls_faced": 3,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 0,
+        "strike_rate": 0.0,
+        "batting_avg": "-"
+    },
+    {
+        "batter": "S Kaushik               ",
+        "total_runs": 0,
+        "balls_faced": 1,
+        "fours": 0,
+        "sixes": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0,
+        "batting_avg": 0.0
+    }
+]

@@ -1,0 +1,58 @@
+/* Apply Oswald Font */
+body {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  background-color: #111;
+  color: white;
+  margin: 0;
+  padding: 0;
+}
+
+/* Center Align App */
+.App {
+  text-align: center;
+}
+
+/* Navigation Bar */
+nav ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  background: rgba(0, 0, 0, 0.6); /* Glassmorphism effect */
+  padding: 15px 0;
+  border-radius: 10px;
+  backdrop-filter: blur(10px);
+}
+
+/* Navigation Items */
+nav ul li {
+  display: inline;
+}
+
+/* Navigation Links */
+nav a {
+  text-decoration: none;
+  color: #00FFFF; /* Neon Cyan */
+  font-size: 18px;
+  font-weight: bold;
+  transition: color 0.3s ease, transform 0.2s ease;
+  padding: 10px 15px;
+  border-radius: 5px;
+}
+
+/* Active Link */
+nav a.active {
+  color: #ff00ff; /* Neon Magenta */
+  font-weight: bold;
+  text-shadow: 0 0 10px rgba(255, 0, 255, 0.7);
+}
+
+/* Hover Effect */
+nav a:hover {
+  transform: scale(1.1);
+  box-shadow: 0 0 10px rgba(255, 0, 255, 0.5);
+}

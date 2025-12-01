@@ -1,0 +1,159 @@
+{
+    "ipl_venues": [
+        {
+            "name": "Himachal Pradesh Cricket Association Stadium",
+            "location": "Dharamsala",
+            "capacity": 23000,
+            "home_team": "Used for KXIP & DC",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Dharamshala_Cricket_Stadium_Landscape.jpg"
+          },
+         {
+        "name": "Wankhede Stadium",
+        "location": "Mumbai",
+        "capacity": 33108,
+        "home_team": "Mumbai Indians",
+        "image_url": "https://www.iplt20.com/assets/images/stadiumimage/Wankhede-Stadium-new.jpg"
+      },
+      {
+        "name": "M. Chinnaswamy Stadium",
+        "location": "Bengaluru",
+        "capacity": 38000,
+        "home_team": "Royal Challengers Bangalore",
+        "image_url": "https://www.iplt20.com/assets/images/stadiumimage/M.Chinnaswamy-Stadium.jpg"
+      },
+      {
+        "name": "Eden Gardens",
+        "location": "Kolkata",
+        "capacity": 68000,
+        "home_team": "Kolkata Knight Riders",
+        "image_url": "https://www.iplt20.com/assets/images/stadiumimage/eden-garden-small-new.jpg"
+      },
+      {
+        "name": "Arun Jaitley Stadium (Feroz Shah Kotla)",
+        "location": "Delhi",
+        "capacity": 41820,
+        "home_team": "Delhi Capitals",
+        "image_url": "https://www.iplt20.com/assets/images/stadiumimage/Arun-Jaitley-Stadium-Delhi.jpg"
+      },
+      {
+        "name": "MA Chidambaram Stadium (Chepauk)",
+        "location": "Chennai",
+        "capacity": 38000,
+        "home_team": "Chennai Super Kings",
+        "image_url": "https://www.iplt20.com/assets/images/stadiumimage/Chennai-new.jpg"
+      },
+      {
+        "name": "Rajiv Gandhi International Stadium",
+        "location": "Hyderabad",
+        "capacity": 39000,
+        "home_team": "Sunrisers Hyderabad",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Uppal_stadium_Rajiv_Gandhi_International_Cricket_Stadium.jpg"
+      },
+      {
+        "name": "Sawai Mansingh Stadium",
+        "location": "Jaipur",
+        "capacity": 30000,
+        "home_team": "Rajasthan Royals",
+        "image_url": "https://images.news18.com/ibnlive/uploads/2021/11/sawai-mansingh-stadium-163644645916x9.jpg?impolicy=website&width=640&height=360"
+      },
+      {
+        "name": "Punjab Cricket Association Stadium (Mohali)",
+        "location": "Chandigarh",
+        "capacity": 26950,
+        "home_team": "Punjab Kings",
+        "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1200,q_50/lsci/db/PICTURES/CMS/346200/346264.jpg"
+      },
+      {
+        "name": "Narendra Modi Stadium (Motera)",
+        "location": "Ahmedabad",
+        "capacity": 132000,
+        "home_team": "Gujarat Titans",
+        "image_url": "https://www.iplt20.com/assets/images/stadiumimage/Narendra-new.jpg"
+      },
+      {
+        "name": "DY Patil Stadium",
+        "location": "Navi Mumbai",
+        "capacity": 55000,
+        "home_team": "Alternate Venue",
+        "image_url": "https://www.iplt20.com/assets/images/stadiumimage/DY-Patil-Stadium.jpg"
+      },
+      {
+        "name": "Brabourne Stadium",
+        "location": "Mumbai",
+        "capacity": 20000,
+        "home_team": "Occasional IPL Venue",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Cricket_Club_Of_India_Bombay.jpg"
+      },
+      {
+        "name": "Maharashtra Cricket Association Stadium",
+        "location": "Pune",
+        "capacity": 37406,
+        "home_team": "Former Home for RPS & CSK",
+        "image_url": "https://i0.wp.com/sportsistan.com/wp-content/uploads/2024/10/Maharashtra-Cricket-Association-Stadium-Pune-2_11zon.webp?w=1200&ssl=1"
+      },
+      {
+        "name": "Holkar Stadium",
+        "location": "Indore",
+        "capacity": 30000,
+        "home_team": "Alternate Venue for KXIP/RR",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Maharani_Usha_Raje_Cricket_Stadium_Indore_-_panoramio.jpg"
+      },
+      {
+        "name": "Shaheed Veer Narayan Singh Stadium",
+        "location": "Raipur",
+        "capacity": 50000,
+        "home_team": "Used for Delhi Capitals (2013-14)",
+        "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_640,q_50/lsci/db/PICTURES/CMS/157300/157386.jpg"
+      },
+      {
+        "name": "JSCA International Stadium",
+        "location": "Ranchi",
+        "capacity": 39000,
+        "home_team": "Alternate Venue for CSK & KKR",
+        "image_url": "https://www.cricwindow.com/images/stadiums/hec_international_cricket_stadium.jpg"
+      },
+      {
+        "name": "Dubai International Cricket Stadium",
+        "location": "UAE",
+        "capacity": 25000,
+        "home_team": "Used in 2014 & 2020 IPL",
+        "image_url": "https://akm-img-a-in.tosshub.com/sites/media2/indiatoday/images/stories/2014March/dubai_650_041114054907.jpg"
+      },
+      {
+        "name": "Sharjah Cricket Stadium",
+        "location": "UAE",
+        "capacity": 16000,
+        "home_team": "Used in 2014 & 2020 IPL",
+        "image_url": "https://lh3.googleusercontent.com/p/AF1QipPjHI1lADL-sxDfPfrhp7nTy18l2DelzVZhRJ0T=w431-h240-k-no"
+      },
+      {
+        "name": "Sheikh Zayed Stadium",
+        "location": "UAE",
+        "capacity": 20000,
+        "home_team": "Used in 2014 & 2020-21 IPL",
+        "image_url": "https://www.istockphoto.com/photo/abu-dhabi-uae-october-8-2020-sheikh-zayed-cricket-stadium-gm1228490809-362714143"
+      },
+      {
+        "name": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Stadium",
+        "location": "Visakhapatnam",
+        "capacity": 28000,
+        "home_team": "Alternate Venue for SRH & DC",
+        "image_url": "https://wordpresscdn.winzogames.com/prod/blog/wp-content/uploads/2025/03/18110656/main-2023-11-22t213634-1700669199.jpg"
+      },
+      {
+        "name": "Barsapara Cricket Stadium",
+        "location": "Guwahati",
+        "capacity": 38000,
+        "home_team": "Used for RR in IPL 2023",
+        "image_url": "https://t20storm.in/wp-content/uploads/2023/03/Barsapara-Cricket-Stadium-Guwahati-1536x1024.webp"
+      },
+      {
+        "name": "Ekana Cricket Stadium",
+        "location": "Lucknow",
+        "capacity": 50000,
+        "home_team": "Lucknow Super Giants",
+        "image_url": "https://library.sportingnews.com/styles/crop_style_16_9_desktop/s3/2023-10/GettyImages-1762918625%20%281%29.jpg?h=920929c4&itok=IdkqYjk0"
+      }
+     
+    ]
+  }
