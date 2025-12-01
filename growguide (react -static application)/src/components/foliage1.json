@@ -1,0 +1,1122 @@
+[
+    {
+      "_id": "6640f09d65d889f46b0a34b2",
+      "Plant Name": "Orchid",
+      "Plant Type": "Flowering Plants",
+      "Plant Description": "Known for its long, upright leaves with striking patterns.",
+      "Care Requirements": {
+        "Light": "Low to medium indirect light",
+        "Watering": "Allow soil to dry between waterings",
+        "Soil": "Well-draining potting mix",
+        "Temperature": "Prefers temperatures between 15-27°C (60-80°F)",
+        "Humidity": "Tolerant of low humidity levels",
+        "Fertilization": "Fertilize sparingly during growing season"
+      }
+    },
+    {
+      "_id": "6640f09d65d889f46b0a34b3",
+      "Plant Name": "Rose",
+      "Plant Type": "Flowering Plants",
+      "Plant Description": "Prefers full sun, well-drained soil, and regular watering. Pruning is essential for maintaining shape and promoting blooming.",
+      "Care Requirements": {
+        "Light": "Prefers full sun",
+        "Watering": "Regular watering",
+        "Soil": "Well-drained soil",
+        "Temperature": "Thrives in moderate temperatures",
+        "Humidity": "Moderate humidity levels",
+        "Fertilization": "Use balanced fertilizer during growing season"
+      }
+    },
+    {
+      "_id": "6640f09d65d889f46b0a34b4",
+      "Plant Name": "Tulip",
+      "Plant Type": "Flowering Plants",
+      "Plant Description": "Requires well-drained soil, full sun to partial shade, and regular watering during the growing season.",
+      "Care Requirements": {
+        "Light": "Full sun to partial shade",
+        "Watering": "Regular watering during growing season",
+        "Soil": "Well-drained soil",
+        "Temperature": "Prefers moderate temperatures",
+        "Humidity": "Moderate humidity levels",
+        "Fertilization": "No specific fertilization requirements mentioned"
+      }
+    },
+    {
+      "_id": "6640f09d65d889f46b0a34b5",
+      "Plant Name": "Hydrangea",
+      "Plant Type": "Flowering Plants",
+      "Plant Description": "Thrives in partial shade, moist, well-drained soil, and consistent moisture. Prune after flowering to encourage new growth and blooms.",
+      "Care Requirements": {
+        "Light": "Partial shade",
+        "Watering": "Consistent moisture",
+        "Soil": "Moist, well-drained soil",
+        "Temperature": "Moderate temperatures",
+        "Humidity": "Moderate humidity levels",
+        "Fertilization": "Apply balanced fertilizer in spring"
+      }
+    },
+    {
+      "_id": "6640f09d65d889f46b0a34b6",
+      "Plant Name": "Daffodil",
+      "Plant Type": "Flowering Plants",
+      "Plant Description": "Prefers well-drained soil, full sun to partial shade, and regular watering during active growth.",
+      "Care Requirements": {
+        "Light": "Full sun to partial shade",
+        "Watering": "Regular watering during active growth",
+        "Soil": "Well-drained soil",
+        "Temperature": "Prefers moderate temperatures",
+        "Humidity": "No specific humidity requirements mentioned",
+        "Fertilization": "No specific fertilization requirements mentioned"
+      }
+    },
+    {
+      "_id": "6640f09d65d889f46b0a34b7",
+      "Plant Name": "Lily",
+      "Plant Type": "Flowering Plants",
+      "Plant Description": "Requires well-drained soil, full sun to partial shade, and regular watering. Mulching helps retain soil moisture.",
+      "Care Requirements": {
+        "Light": "Full sun to partial shade",
+        "Watering": "Regular watering",
+        "Soil": "Well-drained soil",
+        "Temperature": "No specific temperature requirements mentioned",
+        "Humidity": "No specific humidity requirements mentioned",
+        "Fertilization": "No specific fertilization requirements mentioned"
+      }
+    },
+    {
+      "_id": "6640f09d65d889f46b0a34b8",
+      "Plant Name": "Peony",
+      "Plant Type": "Flowering Plants",
+      "Plant Description": "Thrives in full sun to partial shade, fertile, well-drained soil. Mulch to retain moisture and suppress weeds.",
+      "Care Requirements": {
+        "Light": "Full sun to partial shade",
+        "Watering": "No specific watering requirements mentioned",
+        "Soil": "Fertile, well-drained soil",
+        "Temperature": "No specific temperature requirements mentioned",
+        "Humidity": "No specific humidity requirements mentioned",
+        "Fertilization": "No specific fertilization requirements mentioned"
+      }
+    },
+    {
+      "_id": "6640f09d65d889f46b0a34b9",
+      "Plant Name": "Carnation",
+      "Plant Type": "Flowering Plants",
+      "Plant Description": "Prefers well-drained soil, full sun, and good air circulation. Deadhead spent blooms to encourage continuous flowering.",
+      "Care Requirements": {
+        "Light": "Full sun",
+        "Watering": "Infrequent deep watering",
+        "Soil": "Well-drained soil",
+        "Temperature": "No specific temperature requirements mentioned",
+        "Humidity": "No specific humidity requirements mentioned",
+        "Fertilization": "Apply balanced fertilizer during growing season"
+      }
+    },
+    {
+      "_id": "6640f09d65d889f46b0a34ba",
+      "Plant Name": "Sunflower",
+      "Plant Type": "Flowering Plants",
+      "Plant Description": "Thrives in full sun, well-drained soil. Provide support for tall varieties and water regularly.",
+      "Care Requirements": {
+        "Light": "Full sun",
+        "Watering": "Regular watering",
+        "Soil": "Well-drained soil",
+        "Temperature": "No specific temperature requirements mentioned",
+        "Humidity": "No specific humidity requirements mentioned",
+        "Fertilization": "Apply balanced fertilizer at planting time"
+      }
+    },
+    {
+      "_id": "6640f09d65d889f46b0a34bb",
+      "Plant Name": "Petunia",
+      "Plant Type": "Flowering Plants",
+      "Plant Description": "Prefers full sun, well-drained soil. Water regularly and deadhead spent blooms to promote continuous flowering.",
+      "Care Requirements": {
+        "Light": "Full sun",
+        "Watering": "Regular watering",
+        "Soil": "Well-drained soil",
+        "Temperature": "No specific temperature requirements mentioned",
+        "Humidity": "No specific humidity requirements mentioned",
+        "Fertilization": "Apply balanced liquid fertilizer every two weeks"
+      }
+    },
+    {
+      "_id": "6640f09d65d889f46b0a34bc",
+      "Plant Name": "Snake Plant",
+      "Plant Type": "Foliage Plants",
+      "Plant Description": "Known for its long, upright leaves with striking patterns.",
+      "Care Requirements": {
+        "Light": "Low to medium indirect light",
+        "Watering": "Allow soil to dry between waterings",
+        "Soil": "Well-draining potting mix",
+        "Temperature": "Prefers temperatures between 15-27°C (60-80°F)",
+        "Humidity": "Tolerant of low humidity levels",
+        "Fertilization": "Fertilize sparingly during growing season"
+      }
+    },
+    {
+      "_id": "6640f09d65d889f46b0a34bd",
+      "Plant Name": "ZZ Plant",
+      "Plant Type": "Foliage Plants",
+      "Plant Description": "Glossy, dark green leaves that are extremely low maintenance.",
+      "Care Requirements": {
+        "Light": "Low to bright indirect light",
+        "Watering": "Allow soil to dry completely between waterings",
+        "Soil": "Well-draining soil mix",
+        "Temperature": "Tolerates temperatures between 18-26°C (65-80°F)",
+        "Humidity": "Adaptable to various humidity levels",
+        "Fertilization": "Fertilize occasionally during growing season"
+      }
+    },
+    {
+      "_id": "6640f09d65d889f46b0a34be",
+      "Plant Name": "Pothos",
+      "Plant Type": "Foliage Plants",
+      "Plant Description": "Heart-shaped leaves that come in various shades of green and variegations.",
+      "Care Requirements": {
+        "Light": "Low to medium indirect light",
+        "Watering": "Keep soil consistently moist but not soggy",
+        "Soil": "Well-draining potting mix",
+        "Temperature": "Prefers temperatures between 15-30°C (60-86°F)",
+        "Humidity": "Tolerant of low humidity levels",
+        "Fertilization": "Fertilize monthly during growing season"
+      }
+    },
+    {
+      "_id": "6640f09d65d889f46b0a34bf",
+      "Plant Name": "Philodendron",
+      "Plant Type": "Foliage Plants",
+      "Plant Description": "Large, lush leaves that can vary greatly in shape and color depending on the species.",
+      "Care Requirements": {
+        "Light": "Low to medium indirect light",
+        "Watering": "Keep soil evenly moist, avoid overwatering",
+        "Soil": "Well-draining potting mix",
+        "Temperature": "Prefers temperatures between 18-27°C (65-80°F)",
+        "Humidity": "Prefers higher humidity levels",
+        "Fertilization": "Fertilize monthly during growing season"
+      }
+    },
+    {
+      "_id": "6640f09d65d889f46b0a34c0",
+      "Plant Name": "Spider Plant",
+      "Plant Type": "Foliage Plants",
+      "Plant Description": "Arching leaves with a central rosette and tiny white flowers.",
+      "Care Requirements": {
+        "Light": "Medium to bright indirect light",
+        "Watering": "Keep soil evenly moist, avoid overwatering",
+        "Soil": "Well-draining potting mix",
+        "Temperature": "Tolerates temperatures between 15-26°C (60-80°F)",
+        "Humidity": "Tolerant of various humidity levels",
+        "Fertilization": "Fertilize every 2-4 weeks during growing season"
+      }
+    },
+    {
+      "_id": "6640f09d65d889f46b0a34c1",
+      "Plant Name": "Peace Lily",
+      "Plant Type": "Foliage Plants",
+      "Plant Description": "Dark green leaves with white flowers that are often mistaken for petals.",
+      "Care Requirements": {
+        "Light": "Low to medium indirect light",
+        "Watering": "Keep soil consistently moist, do not overwater",
+        "Soil": "Well-draining potting mix",
+        "Temperature": "Prefers temperatures between 18-24°C (65-75°F)",
+        "Humidity": "Prefers higher humidity levels",
+        "Fertilization": "Fertilize monthly during growing season"
+      }
+    },
+    {
+      "_id": "6640f09d65d889f46b0a34c2",
+      "Plant Name": "Calathea",
+      "Plant Type": "Foliage Plants",
+      "Plant Description": "Known for their intricately patterned leaves that often feature striking combinations of colors.",
+      "Care Requirements": {
+        "Light": "Indirect light, avoid direct sunlight",
+        "Watering": "Keep soil evenly moist, avoid soggy soil",
+        "Soil": "Well-draining potting mix",
+        "Temperature": "Prefers temperatures between 18-26°C (65-80°F)",
+        "Humidity": "Prefers high humidity levels",
+        "Fertilization": "Fertilize every 2-4 weeks during growing season with diluted fertilizer"
+      }
+    },
+    {
+      "_id": "6640f09d65d889f46b0a34c3",
+      "Plant Name": "Fiddle Leaf Fig",
+      "Plant Type": "Foliage Plants",
+      "Plant Description": "Large, violin-shaped leaves that add a touch of drama to any room.",
+      "Care Requirements": {
+        "Light": "Bright, indirect light",
+        "Watering": "Allow soil to partially dry out between waterings",
+        "Soil": "Well-draining potting mix",
+        "Temperature": "Prefers temperatures between 18-24°C (65-75°F)",
+        "Humidity": "Prefers higher humidity levels",
+        "Fertilization": "Fertilize monthly during growing season"
+      }
+    },
+    {
+      "_id": "6640f09d65d889f46b0a34c4",
+      "Plant Name": "Rubber Plant",
+      "Plant Type": "Foliage Plants",
+      "Plant Description": "Thick, rubbery leaves that are typically dark green or burgundy.",
+      "Care Requirements": {
+        "Light": "Medium to bright indirect light",
+        "Watering": "Allow soil to dry out slightly between waterings",
+        "Soil": "Well-draining potting mix",
+        "Temperature": "Prefers temperatures between 18-24°C (65-75°F)",
+        "Humidity": "Tolerant of low humidity levels",
+        "Fertilization": "Fertilize every 2-4 weeks during growing season"
+      }
+    },
+    {
+      "_id": "6640f09d65d889f46b0a34c5",
+      "Plant Name": "Chinese Money Plant",
+      "Plant Type": "Foliage Plants",
+      "Plant Description": "Round, coin-like leaves that grow on long, slender stems.",
+      "Care Requirements": {
+        "Light": "Bright indirect light",
+        "Watering": "Allow soil to dry slightly between waterings",
+        "Soil": "Well-draining potting mix",
+        "Temperature": "Prefers temperatures between 18-24°C (65-75°F)",
+        "Humidity": "Tolerant of average indoor humidity levels",
+        "Fertilization": "Fertilize every 4-6 weeks during growing season"
+      }
+    },
+    {
+      "_id": "6650929e16a022209543f888",
+      "Plant Name": "Echeveria",
+      "Plant Type": "Succulent",
+      "Plant Description": "These rosette-shaped succulents come in various colors and textures, making them popular choices for indoor gardens. They require well-draining soil and plenty of sunlight.",
+      "Care Requirements": {
+        "Light": "Plenty of sunlight",
+        "Watering": "Minimal watering",
+        "Soil": "Well-draining soil",
+        "Temperature": "No specific temperature requirements mentioned",
+        "Humidity": "No specific humidity requirements mentioned",
+        "Fertilization": "No specific fertilization requirements mentioned"
+      }
+    },
+    {
+      "_id": "6650929e16a022209543f889",
+      "Plant Name": "Aloe Vera (Aloe barbadensis miller)",
+      "Plant Type": "Succulent",
+      "Plant Description": "Known for its medicinal properties, Aloe Vera is a succulent that thrives indoors with plenty of sunlight. It's also easy to care for and requires minimal watering.",
+      "Care Requirements": {
+        "Light": "Plenty of sunlight",
+        "Watering": "Minimal watering",
+        "Soil": "Well-draining soil",
+        "Temperature": "No specific temperature requirements mentioned",
+        "Humidity": "No specific humidity requirements mentioned",
+        "Fertilization": "No specific fertilization requirements mentioned"
+      }
+    },
+    {
+      "_id": "6650929e16a022209543f88a",
+      "Plant Name": "Jade Plant (Crassula ovata)",
+      "Plant Type": "Succulent",
+      "Plant Description": "With its thick, fleshy leaves, the Jade Plant is easy to care for and can grow well indoors. It prefers bright, indirect light and infrequent watering.",
+      "Care Requirements": {
+        "Light": "Bright, indirect light",
+        "Watering": "Infrequent watering",
+        "Soil": "Well-draining soil",
+        "Temperature": "No specific temperature requirements mentioned",
+        "Humidity": "No specific humidity requirements mentioned",
+        "Fertilization": "No specific fertilization requirements mentioned"
+      }
+    },
+    {
+      "_id": "6650929e16a022209543f88b",
+      "Plant Name": "String of Pearls (Senecio rowleyanus)",
+      "Plant Type": "Succulent",
+      "Plant Description": "This trailing succulent features spherical leaves that resemble pearls on a string, making it a unique addition to indoor hanging baskets. It thrives in bright, indirect light and well-draining soil.",
+      "Care Requirements": {
+        "Light": "Bright, indirect light",
+        "Watering": "Minimal watering",
+        "Soil": "Well-draining soil",
+        "Temperature": "No specific temperature requirements mentioned",
+        "Humidity": "No specific humidity requirements mentioned",
+        "Fertilization": "No specific fertilization requirements mentioned"
+      }
+    },
+    {
+      "_id": "6650929e16a022209543f88c",
+      "Plant Name": "Zebra Haworthia (Haworthia fasciata)",
+      "Plant Type": "Succulent",
+      "Plant Description": "Similar in appearance to the Zebra Plant (Haworthiopsis attenuata), this succulent also features striking white stripes on its dark green leaves, adding a unique visual interest to indoor spaces. It prefers bright, indirect light and minimal watering.",
+      "Care Requirements": {
+        "Light": "Bright, indirect light",
+        "Watering": "Minimal watering",
+        "Soil": "Well-draining soil",
+        "Temperature": "No specific temperature requirements mentioned",
+        "Humidity": "No specific humidity requirements mentioned",
+        "Fertilization": "No specific fertilization requirements mentioned"
+      }
+    },
+    {
+      "_id": "6650929e16a022209543f88d",
+      "Plant Name": "Christmas Cactus (Schlumbergera)",
+      "Plant Type": "Succulent",
+      "Plant Description": "With its vibrant flowers that bloom around the holiday season, the Christmas Cactus adds color and beauty to indoor gardens. It prefers bright, indirect light and moderate watering.",
+      "Care Requirements": {
+        "Light": "Bright, indirect light",
+        "Watering": "Moderate watering",
+        "Soil": "Well-draining soil",
+        "Temperature": "No specific temperature requirements mentioned",
+        "Humidity": "No specific humidity requirements mentioned",
+        "Fertilization": "No specific fertilization requirements mentioned"
+      }
+    },
+    {
+      "_id": "6650929e16a022209543f88e",
+      "Plant Name": "Barrel Cactus (Echinocactus grusonii)",
+      "Plant Type": "Succulent",
+      "Plant Description": "This round, spiky cactus is a popular choice for indoor succulent collections, requiring minimal watering and plenty of sunlight. It's drought-tolerant and prefers well-draining soil.",
+      "Care Requirements": {
+        "Light": "Plenty of sunlight",
+        "Watering": "Minimal watering",
+        "Soil": "Well-draining soil",
+        "Temperature": "No specific temperature requirements mentioned",
+        "Humidity": "No specific humidity requirements mentioned",
+        "Fertilization": "No specific fertilization requirements mentioned"
+      }
+    },
+    {
+      "_id": "6650929e16a022209543f88f",
+      "Plant Name": "Panda Plant (Kalanchoe tomentosa)",
+      "Plant Type": "Succulent",
+      "Plant Description": "Named for its fuzzy, panda-like leaves, this succulent is easy to care for and adds a playful touch to indoor spaces. It prefers bright, indirect light and infrequent watering.",
+      "Care Requirements": {
+        "Light": "Bright, indirect light",
+        "Watering": "Infrequent watering",
+        "Soil": "Well-draining soil",
+        "Temperature": "No specific temperature requirements mentioned",
+        "Humidity": "No specific humidity requirements mentioned",
+        "Fertilization": "No specific fertilization requirements mentioned"
+      }
+    },
+    {
+      "_id": "6650929e16a022209543f890",
+      "Plant Name": "Burro's Tail (Sedum morganianum)",
+      "Plant Type": "Succulent",
+      "Plant Description": "With its trailing stems adorned with plump, tear-shaped leaves, this succulent looks stunning cascading from hanging pots or shelves indoors. It prefers bright, indirect light and well-draining soil.",
+      "Care Requirements": {
+        "Light": "Bright, indirect light",
+        "Watering": "Minimal watering",
+        "Soil": "Well-draining soil",
+        "Temperature": "No specific temperature requirements mentioned",
+        "Humidity": "No specific humidity requirements mentioned",
+        "Fertilization": "No specific fertilization requirements mentioned"
+      }
+    },
+    {
+      "_id": "6650929e16a022209543f891",
+      "Plant Name": "Euphorbia trigona (African Milk Tree)",
+      "Plant Type": "Succulent",
+      "Plant Description": "This succulent features tall, branching stems with small leaves and thorns, adding architectural interest to indoor spaces. It prefers bright, indirect light and infrequent watering.",
+      "Care Requirements": {
+        "Light": "Bright, indirect light",
+        "Watering": "Infrequent watering",
+        "Soil": "Well-draining soil",
+        "Temperature": "No specific temperature requirements mentioned",
+        "Humidity": "No specific humidity requirements mentioned",
+        "Fertilization": "No specific fertilization requirements mentioned"
+      }
+    },
+    {
+      "_id": "66509a0e16a022209543f894",
+      "Plant Name": "Basil",
+      "Plant Type": "Herb",
+      "Plant Description": "Known for its aromatic leaves, basil is a popular herb used in various cuisines. It requires plenty of sunlight and well-drained soil.",
+      "Care Requirements": {
+        "Light": "Plenty of sunlight",
+        "Watering": "Regular watering",
+        "Soil": "Well-draining soil",
+        "Temperature": "15-25°C (59-77°F)",
+        "Humidity": "Average indoor humidity",
+        "Fertilization": "Fertilize every 4-6 weeks with a balanced fertilizer"
+      }
+    },
+    {
+      "_id": "66509a0e16a022209543f895",
+      "Plant Name": "Rosemary",
+      "Plant Type": "Herb",
+      "Plant Description": "This fragrant herb adds flavor to dishes and is also used for its medicinal properties. Rosemary prefers full sunlight and well-draining soil.",
+      "Care Requirements": {
+        "Light": "Full sunlight",
+        "Watering": "Moderate watering",
+        "Soil": "Well-draining soil",
+        "Temperature": "18-24°C (64-75°F)",
+        "Humidity": "Average indoor humidity",
+        "Fertilization": "Fertilize monthly with a balanced fertilizer during growing season"
+      }
+    },
+    {
+      "_id": "66509a0e16a022209543f896",
+      "Plant Name": "Thyme",
+      "Plant Type": "Herb",
+      "Plant Description": "Thyme is a versatile herb with small, flavorful leaves. It thrives in bright, indirect light and well-draining soil.",
+      "Care Requirements": {
+        "Light": "Bright, indirect light",
+        "Watering": "Regular watering",
+        "Soil": "Well-draining soil",
+        "Temperature": "18-24°C (64-75°F)",
+        "Humidity": "Average indoor humidity",
+        "Fertilization": "Fertilize every 4-6 weeks with a balanced fertilizer"
+      }
+    },
+    {
+      "_id": "66509a0e16a022209543f897",
+      "Plant Name": "Mint",
+      "Plant Type": "Herb",
+      "Plant Description": "Mint is a fast-growing herb with a refreshing taste. It can be grown indoors in partial sunlight and moist soil.",
+      "Care Requirements": {
+        "Light": "Partial sunlight",
+        "Watering": "Regular watering",
+        "Soil": "Moist, well-draining soil",
+        "Temperature": "18-23°C (64-73°F)",
+        "Humidity": "High humidity",
+        "Fertilization": "Fertilize every 2-3 weeks with a balanced fertilizer during growing season"
+      }
+    },
+    {
+      "_id": "66509a0e16a022209543f898",
+      "Plant Name": "Parsley",
+      "Plant Type": "Herb",
+      "Plant Description": "Often used as a garnish, parsley is a biennial herb that prefers bright, indirect light and well-draining soil.",
+      "Care Requirements": {
+        "Light": "Bright, indirect light",
+        "Watering": "Regular watering",
+        "Soil": "Well-draining soil",
+        "Temperature": "18-24°C (64-75°F)",
+        "Humidity": "Average indoor humidity",
+        "Fertilization": "Fertilize every 4-6 weeks with a balanced fertilizer"
+      }
+    },
+    {
+      "_id": "66509a0e16a022209543f899",
+      "Plant Name": "Chives",
+      "Plant Type": "Herb",
+      "Plant Description": "Chives produce edible leaves with a mild onion flavor. They can be grown indoors in bright, indirect light and well-draining soil.",
+      "Care Requirements": {
+        "Light": "Bright, indirect light",
+        "Watering": "Regular watering",
+        "Soil": "Well-draining soil",
+        "Temperature": "15-21°C (59-70°F)",
+        "Humidity": "Average indoor humidity",
+        "Fertilization": "Fertilize every 4-6 weeks with a balanced fertilizer"
+      }
+    },
+    {
+      "_id": "66509a0e16a022209543f89a",
+      "Plant Name": "Cilantro (Coriander)",
+      "Plant Type": "Herb",
+      "Plant Description": "Cilantro leaves are commonly used in many cuisines, especially in Mexican and Asian dishes. It requires moderate sunlight and well-draining soil.",
+      "Care Requirements": {
+        "Light": "Moderate sunlight",
+        "Watering": "Regular watering",
+        "Soil": "Well-draining soil",
+        "Temperature": "18-24°C (64-75°F)",
+        "Humidity": "Average indoor humidity",
+        "Fertilization": "Fertilize every 4-6 weeks with a balanced fertilizer"
+      }
+    },
+    {
+      "_id": "66509a0e16a022209543f89b",
+      "Plant Name": "Oregano",
+      "Plant Type": "Herb",
+      "Plant Description": "With its strong flavor, oregano is a staple herb in Italian cuisine. It grows well indoors in bright, indirect light and well-draining soil.",
+      "Care Requirements": {
+        "Light": "Bright, indirect light",
+        "Watering": "Regular watering",
+        "Soil": "Well-draining soil",
+        "Temperature": "18-24°C (64-75°F)",
+        "Humidity": "Average indoor humidity",
+        "Fertilization": "Fertilize every 4-6 weeks with a balanced fertilizer"
+      }
+    },
+    {
+      "_id": "66509a0e16a022209543f89c",
+      "Plant Name": "Sage",
+      "Plant Type": "Herb",
+      "Plant Description": "Sage leaves are aromatic and are used to flavor various dishes, particularly in Mediterranean cuisine. It prefers full sunlight and well-draining soil.",
+      "Care Requirements": {
+        "Light": "Full sunlight",
+        "Watering": "Regular watering",
+        "Soil": "Well-draining soil",
+        "Temperature": "18-24°C (64-75°F)",
+        "Humidity": "Average indoor humidity",
+        "Fertilization": "Fertilize every 4-6 weeks with a balanced fertilizer"
+      }
+    },
+    {
+      "_id": "66509a0e16a022209543f89d",
+      "Plant Name": "Lavender",
+      "Plant Type": "Herb",
+      "Plant Description": "Lavender is not just prized for its fragrance but also for its culinary and medicinal uses. It grows well indoors in bright, indirect light and well-draining soil.",
+      "Care Requirements": {
+        "Light": "Bright, indirect light",
+        "Watering": "Regular watering",
+        "Soil": "Well-draining soil",
+        "Temperature": "15-24°C (59-75°F)",
+        "Humidity": "Average indoor humidity",
+        "Fertilization": "Fertilize every 4-6 weeks with a balanced fertilizer"
+      }
+    },
+    {
+      "_id": "66509de116a022209543f8aa",
+      "Plant Name": "Azalea (Rhododendron)",
+      "Plant Type": "Flowering Shrub",
+      "Flower Description": "Known for their vibrant blooms in shades of pink, red, purple, and white, azaleas are popular flowering shrubs that thrive in acidic soil and partial shade.",
+      "Care Requirements": {
+        "Light": "Partial shade",
+        "Soil": "Acidic, well-draining soil",
+        "Watering": "Regular watering",
+        "Temperature": "15-24°C (59-75°F)",
+        "Humidity": "Average indoor humidity",
+        "Fertilization": "Fertilize after blooming with acidic fertilizer"
+      }
+    },
+    {
+      "_id": "66509de116a022209543f8ab",
+      "Plant Name": "Hydrangea",
+      "Plant Type": "Flowering Shrub",
+      "Flower Description": "With large, showy clusters of flowers, hydrangeas come in various colors including blue, pink, purple, and white. They prefer moist, well-draining soil and partial shade.",
+      "Care Requirements": {
+        "Light": "Partial shade",
+        "Soil": "Moist, well-draining soil",
+        "Watering": "Regular watering",
+        "Temperature": "15-24°C (59-75°F)",
+        "Humidity": "Average indoor humidity",
+        "Fertilization": "Fertilize in spring with balanced fertilizer"
+      }
+    },
+    {
+      "_id": "66509de116a022209543f8ac",
+      "Plant Name": "Lilac (Syringa)",
+      "Plant Type": "Flowering Shrub",
+      "Flower Description": "Lilacs are prized for their fragrant, delicate flowers that bloom in shades of purple, pink, white, and blue. They prefer full sun and well-draining soil.",
+      "Care Requirements": {
+        "Light": "Full sun",
+        "Soil": "Well-draining soil",
+        "Watering": "Regular watering",
+        "Temperature": "15-24°C (59-75°F)",
+        "Humidity": "Average indoor humidity",
+        "Fertilization": "Fertilize in early spring with balanced fertilizer"
+      }
+    },
+    {
+      "_id": "66509de116a022209543f8ad",
+      "Plant Name": "Forsythia",
+      "Plant Type": "Flowering Shrub",
+      "Flower Description": "Forsythias are early blooming shrubs with bright yellow flowers that signal the arrival of spring. They thrive in full sun to partial shade and well-draining soil.",
+      "Care Requirements": {
+        "Light": "Full sun to partial shade",
+        "Soil": "Well-draining soil",
+        "Watering": "Regular watering",
+        "Temperature": "15-24°C (59-75°F)",
+        "Humidity": "Average indoor humidity",
+        "Fertilization": "Fertilize in early spring with balanced fertilizer"
+      }
+    },
+    {
+      "_id": "66509de116a022209543f8ae",
+      "Plant Name": "Rhododendron",
+      "Plant Type": "Flowering Shrub",
+      "Flower Description": "Rhododendrons produce large, showy clusters of flowers in various colors including pink, purple, red, and white. They prefer acidic soil and partial shade.",
+      "Care Requirements": {
+        "Light": "Partial shade",
+        "Soil": "Acidic, well-draining soil",
+        "Watering": "Regular watering",
+        "Temperature": "15-24°C (59-75°F)",
+        "Humidity": "Average indoor humidity",
+        "Fertilization": "Fertilize in early spring with acidic fertilizer"
+      }
+    },
+    {
+      "_id": "66509de116a022209543f8af",
+      "Plant Name": "Weigela",
+      "Plant Type": "Flowering Shrub",
+      "Flower Description": "Weigelas are compact shrubs with tubular flowers that bloom in shades of pink, red, and white. They prefer full sun to partial shade and well-draining soil.",
+      "Care Requirements": {
+        "Light": "Full sun to partial shade",
+        "Soil": "Well-draining soil",
+        "Watering": "Regular watering",
+        "Temperature": "15-24°C (59-75°F)",
+        "Humidity": "Average indoor humidity",
+        "Fertilization": "Fertilize in early spring with balanced fertilizer"
+      }
+    },
+    {
+      "_id": "66509de116a022209543f8b0",
+      "Plant Name": "Mock Orange (Philadelphus)",
+      "Plant Type": "Flowering Shrub",
+      "Flower Description": "Mock oranges produce highly fragrant white flowers resembling orange blossoms. They prefer full sun to partial shade and well-draining soil.",
+      "Care Requirements": {
+        "Light": "Full sun to partial shade",
+        "Soil": "Well-draining soil",
+        "Watering": "Regular watering",
+        "Temperature": "15-24°C (59-75°F)",
+        "Humidity": "Average indoor humidity",
+        "Fertilization": "Fertilize in early spring with balanced fertilizer"
+      }
+    },
+    {
+      "_id": "66509de116a022209543f8b1",
+      "Plant Name": "Spirea",
+      "Plant Type": "Flowering Shrub",
+      "Flower Description": "Spireas are low-maintenance shrubs with clusters of flowers in shades of pink, white, or red. They thrive in full sun to partial shade and well-draining soil.",
+      "Care Requirements": {
+        "Light": "Full sun to partial shade",
+        "Soil": "Well-draining soil",
+        "Watering": "Regular watering",
+        "Temperature": "15-24°C (59-75°F)",
+        "Humidity": "Average indoor humidity",
+        "Fertilization": "Fertilize in early spring with balanced fertilizer"
+      }
+    },
+    {
+      "_id": "66509de116a022209543f8b2",
+      "Plant Name": "Butterfly Bush (Buddleja)",
+      "Plant Type": "Flowering Shrub",
+      "Flower Description": "Butterfly bushes are known for their long, cone-shaped clusters of flowers that attract butterflies and hummingbirds. They prefer full sun and well-draining soil.",
+      "Care Requirements": {
+        "Light": "Full sun",
+        "Soil": "Well-draining soil",
+        "Watering": "Regular watering",
+        "Temperature": "15-24°C (59-75°F)",
+        "Humidity": "Average indoor humidity",
+        "Fertilization": "Fertilize in early spring with balanced fertilizer"
+      }
+    },
+    {
+      "_id": "66509de116a022209543f8b3",
+      "Plant Name": "Camellia",
+      "Plant Type": "Flowering Shrub",
+      "Flower Description": "Camellias produce elegant, waxy flowers in shades of pink, red, white, and sometimes yellow. They prefer partial shade and acidic, well-draining soil.",
+      "Care Requirements": {
+        "Light": "Partial shade",
+        "Soil": "Acidic, well-draining soil",
+        "Watering": "Regular watering",
+        "Temperature": "15-24°C (59-75°F)",
+        "Humidity": "Average indoor humidity",
+        "Fertilization": "Fertilize in early spring with acidic fertilizer"
+      }
+    },
+    {
+      "_id": "6651a6e4371930c1e5d012bf",
+      "Plant Name": "Hosta",
+      "Plant Type": "Perennial",
+      "Plant Description": "Known for its lush foliage, hostas come in various shades of green, blue, and variegated patterns. They are shade-loving plants.",
+      "Care Requirements": {
+        "Light": "Partial to full shade",
+        "Watering": "Regular watering, keeping soil consistently moist",
+        "Soil": "Rich, well-draining soil",
+        "Temperature": "15-30°C (59-86°F)",
+        "Humidity": "Average indoor humidity",
+        "Fertilization": "Fertilize in spring with balanced fertilizer"
+      }
+    },
+    {
+      "_id": "6651a6e4371930c1e5d012c0",
+      "Plant Name": "Daylily (Hemerocallis)",
+      "Plant Type": "Perennial",
+      "Plant Description": "Daylilies produce a profusion of flowers in various colors and are known for their hardiness and adaptability.",
+      "Care Requirements": {
+        "Light": "Full sun to partial shade",
+        "Watering": "Moderate watering, allowing soil to dry slightly between waterings",
+        "Soil": "Well-draining soil",
+        "Temperature": "15-30°C (59-86°F)",
+        "Humidity": "Average indoor humidity",
+        "Fertilization": "Fertilize in spring with balanced fertilizer"
+      }
+    },
+    {
+      "_id": "6651a6e4371930c1e5d012c1",
+      "Plant Name": "Peony",
+      "Plant Type": "Perennial",
+      "Plant Description": "Peonies are known for their large, fragrant blooms and are available in a variety of colors.",
+      "Care Requirements": {
+        "Light": "Full sun to partial shade",
+        "Watering": "Regular watering, allowing soil to dry slightly between waterings",
+        "Soil": "Rich, well-draining soil",
+        "Temperature": "15-30°C (59-86°F)",
+        "Humidity": "Average indoor humidity",
+        "Fertilization": "Fertilize in spring with balanced fertilizer"
+      }
+    },
+    {
+      "_id": "6651a6e4371930c1e5d012c2",
+      "Plant Name": "Black-Eyed Susan (Rudbeckia)",
+      "Plant Type": "Perennial",
+      "Plant Description": "Known for their bright yellow petals and dark centers, Black-Eyed Susans are hardy and drought-tolerant.",
+      "Care Requirements": {
+        "Light": "Full sun",
+        "Watering": "Moderate watering, drought-tolerant once established",
+        "Soil": "Well-draining soil",
+        "Temperature": "15-30°C (59-86°F)",
+        "Humidity": "Average indoor humidity",
+        "Fertilization": "Fertilize in spring with balanced fertilizer"
+      }
+    },
+    {
+      "_id": "6651a6e4371930c1e5d012c3",
+      "Plant Name": "Sedum",
+      "Plant Type": "Perennial",
+      "Plant Description": "Sedums are succulents that produce clusters of star-shaped flowers. They are drought-tolerant and come in various sizes.",
+      "Care Requirements": {
+        "Light": "Full sun",
+        "Watering": "Minimal watering, drought-tolerant",
+        "Soil": "Well-draining soil",
+        "Temperature": "15-30°C (59-86°F)",
+        "Humidity": "Average indoor humidity",
+        "Fertilization": "Fertilize in spring with balanced fertilizer"
+      }
+    },
+    {
+      "_id": "6651a6e4371930c1e5d012c4",
+      "Plant Name": "Lavender (Lavandula)",
+      "Plant Type": "Perennial",
+      "Plant Description": "Lavender is known for its fragrant purple flowers and aromatic foliage. It is commonly used in gardens and for essential oils.",
+      "Care Requirements": {
+        "Light": "Full sun",
+        "Watering": "Moderate watering, allowing soil to dry between waterings",
+        "Soil": "Well-draining soil",
+        "Temperature": "15-30°C (59-86°F)",
+        "Humidity": "Low humidity",
+        "Fertilization": "Fertilize in spring with balanced fertilizer"
+      }
+    },
+    {
+      "_id": "6651a6e4371930c1e5d012c5",
+      "Plant Name": "Coneflower (Echinacea)",
+      "Plant Type": "Perennial",
+      "Plant Description": "Coneflowers are known for their daisy-like flowers with a prominent central cone. They attract butterflies and birds.",
+      "Care Requirements": {
+        "Light": "Full sun",
+        "Watering": "Moderate watering, allowing soil to dry slightly between waterings",
+        "Soil": "Well-draining soil",
+        "Temperature": "15-30°C (59-86°F)",
+        "Humidity": "Average indoor humidity",
+        "Fertilization": "Fertilize in spring with balanced fertilizer"
+      }
+    },
+    {
+      "_id": "6651a6e4371930c1e5d012c6",
+      "Plant Name": "Coreopsis",
+      "Plant Type": "Perennial",
+      "Plant Description": "Coreopsis produces bright, daisy-like flowers in shades of yellow, orange, pink, and red. They are easy to grow and low-maintenance.",
+      "Care Requirements": {
+        "Light": "Full sun",
+        "Watering": "Moderate watering, drought-tolerant once established",
+        "Soil": "Well-draining soil",
+        "Temperature": "15-30°C (59-86°F)",
+        "Humidity": "Average indoor humidity",
+        "Fertilization": "Fertilize in spring with balanced fertilizer"
+      }
+    },
+    {
+      "_id": "6651a6e4371930c1e5d012c7",
+      "Plant Name": "Phlox",
+      "Plant Type": "Perennial",
+      "Plant Description": "Phlox are known for their fragrant, colorful flowers that bloom in clusters. They come in various colors including pink, purple, red, and white.",
+      "Care Requirements": {
+        "Light": "Full sun to partial shade",
+        "Watering": "Regular watering, keeping soil consistently moist",
+        "Soil": "Rich, well-draining soil",
+        "Temperature": "15-30°C (59-86°F)",
+        "Humidity": "Average indoor humidity",
+        "Fertilization": "Fertilize in spring with balanced fertilizer"
+      }
+    },
+    {
+      "_id": "6651a6e4371930c1e5d012c8",
+      "Plant Name": "Bleeding Heart (Dicentra)",
+      "Plant Type": "Perennial",
+      "Plant Description": "Bleeding Hearts are known for their heart-shaped flowers that dangle from arching stems. They are shade-loving plants.",
+      "Care Requirements": {
+        "Light": "Partial to full shade",
+        "Watering": "Regular watering, keeping soil consistently moist",
+        "Soil": "Rich, well-draining soil",
+        "Temperature": "15-24°C (59-75°F)",
+        "Humidity": "Average indoor humidity",
+        "Fertilization": "Fertilize in spring with balanced fertilizer"
+      }
+    },
+    {
+      "_id": "6651a6e4371930c1e5d012c9",
+      "Plant Name": "Tomato",
+      "Plant Type": "Vegetable",
+      "Plant Description": "Tomatoes are popular garden vegetables known for their juicy fruits. They come in various sizes and colors.",
+      "Care Requirements": {
+        "Light": "Full sun",
+        "Watering": "Regular watering, keeping soil consistently moist",
+        "Soil": "Well-draining, rich soil",
+        "Temperature": "18-29°C (65-85°F)",
+        "Humidity": "Moderate humidity",
+        "Fertilization": "Fertilize with a balanced fertilizer every 2-3 weeks during growing season"
+      }
+    },
+    {
+      "_id": "6651a6e4371930c1e5d012ca",
+      "Plant Name": "Strawberry",
+      "Plant Type": "Fruit",
+      "Plant Description": "Strawberries are small, red, sweet fruits that grow on low-lying plants. They are popular for their delicious taste.",
+      "Care Requirements": {
+        "Light": "Full sun",
+        "Watering": "Regular watering, keeping soil consistently moist",
+        "Soil": "Well-draining, rich soil",
+        "Temperature": "15-25°C (59-77°F)",
+        "Humidity": "Moderate humidity",
+        "Fertilization": "Fertilize with a balanced fertilizer every month during growing season"
+      }
+    },
+    {
+      "_id": "6651a6e4371930c1e5d012cb",
+      "Plant Name": "Bell Pepper",
+      "Plant Type": "Vegetable",
+      "Plant Description": "Bell peppers are crunchy, colorful vegetables that can be eaten raw or cooked. They come in green, red, yellow, and orange varieties.",
+      "Care Requirements": {
+        "Light": "Full sun",
+        "Watering": "Regular watering, keeping soil consistently moist",
+        "Soil": "Well-draining, rich soil",
+        "Temperature": "21-27°C (70-80°F)",
+        "Humidity": "Moderate humidity",
+        "Fertilization": "Fertilize with a balanced fertilizer every 2-3 weeks during growing season"
+      }
+    },
+    {
+      "_id": "6651a6e4371930c1e5d012cc",
+      "Plant Name": "Blueberry",
+      "Plant Type": "Fruit",
+      "Plant Description": "Blueberries are small, blue, sweet fruits that grow on bushes. They are known for their health benefits.",
+      "Care Requirements": {
+        "Light": "Full sun to partial shade",
+        "Watering": "Regular watering, keeping soil consistently moist",
+        "Soil": "Acidic, well-draining soil",
+        "Temperature": "18-24°C (65-75°F)",
+        "Humidity": "Moderate humidity",
+        "Fertilization": "Fertilize with an acidic fertilizer in early spring"
+      }
+    },
+    {
+      "_id": "6651a6e4371930c1e5d012cd",
+      "Plant Name": "Cucumber",
+      "Plant Type": "Vegetable",
+      "Plant Description": "Cucumbers are long, green vegetables that are commonly used in salads and pickles. They grow on vines.",
+      "Care Requirements": {
+        "Light": "Full sun",
+        "Watering": "Regular watering, keeping soil consistently moist",
+        "Soil": "Well-draining, rich soil",
+        "Temperature": "20-25°C (68-77°F)",
+        "Humidity": "Moderate humidity",
+        "Fertilization": "Fertilize with a balanced fertilizer every 3-4 weeks during growing season"
+      }
+    },
+    {
+      "_id": "6651a6e4371930c1e5d012ce",
+      "Plant Name": "Apple",
+      "Plant Type": "Fruit",
+      "Plant Description": "Apples are popular fruits that grow on trees and come in many varieties, ranging from sweet to tart.",
+      "Care Requirements": {
+        "Light": "Full sun",
+        "Watering": "Regular watering, keeping soil consistently moist",
+        "Soil": "Well-draining, rich soil",
+        "Temperature": "16-24°C (60-75°F)",
+        "Humidity": "Moderate humidity",
+        "Fertilization": "Fertilize with a balanced fertilizer in early spring and late fall"
+      }
+    },
+    {
+      "_id": "6651a6e4371930c1e5d012cf",
+      "Plant Name": "Spinach",
+      "Plant Type": "Vegetable",
+      "Plant Description": "Spinach is a leafy green vegetable known for its high nutritional value. It can be eaten raw or cooked.",
+      "Care Requirements": {
+        "Light": "Full sun to partial shade",
+        "Watering": "Regular watering, keeping soil consistently moist",
+        "Soil": "Well-draining, rich soil",
+        "Temperature": "10-22°C (50-72°F)",
+        "Humidity": "Moderate humidity",
+        "Fertilization": "Fertilize with a balanced fertilizer every 2-3 weeks during growing season"
+      }
+    },
+    {
+      "_id": "6651a6e4371930c1e5d012d0",
+      "Plant Name": "Raspberry",
+      "Plant Type": "Fruit",
+      "Plant Description": "Raspberries are small, red, sweet fruits that grow on canes. They are known for their delicious flavor.",
+      "Care Requirements": {
+        "Light": "Full sun",
+        "Watering": "Regular watering, keeping soil consistently moist",
+        "Soil": "Well-draining, rich soil",
+        "Temperature": "15-25°C (59-77°F)",
+        "Humidity": "Moderate humidity",
+        "Fertilization": "Fertilize with a balanced fertilizer in early spring"
+      }
+    },
+    {
+      "_id": "6651a6e4371930c1e5d012d1",
+      "Plant Name": "Carrot",
+      "Plant Type": "Vegetable",
+      "Plant Description": "Carrots are root vegetables that are typically orange, though they come in other colors as well. They are crunchy and sweet.",
+      "Care Requirements": {
+        "Light": "Full sun",
+        "Watering": "Regular watering, keeping soil consistently moist",
+        "Soil": "Well-draining, sandy soil",
+        "Temperature": "15-21°C (59-70°F)",
+        "Humidity": "Moderate humidity",
+        "Fertilization": "Fertilize with a balanced fertilizer at planting time"
+      }
+    },
+    {
+      "_id": "6651a6e4371930c1e5d012d2",
+      "Plant Name": "Grape",
+      "Plant Type": "Fruit",
+      "Plant Description": "Grapes are small, sweet fruits that grow in clusters on vines. They are used for eating fresh, making wine, and producing raisins.",
+      "Care Requirements": {
+        "Light": "Full sun",
+        "Watering": "Regular watering, keeping soil consistently moist",
+        "Soil": "Well-draining, rich soil",
+        "Temperature": "16-24°C (60-75°F)",
+        "Humidity": "Moderate humidity",
+        "Fertilization": "Fertilize with a balanced fertilizer in early spring"
+      }
+    },
+    {
+      "_id": "6651a924371930c1e5d012d3",
+      "Plant Name": "Ficus Bonsai",
+      "Plant Type": "Bonsai",
+      "Plant Description": "Ficus is a popular bonsai tree known for its strong roots and flexible branches. It is ideal for beginners.",
+      "Care Requirements": {
+        "Light": "Bright, indirect light",
+        "Watering": "Keep soil moist but not waterlogged",
+        "Soil": "Well-draining bonsai soil mix",
+        "Temperature": "15-30°C (59-86°F)",
+        "Humidity": "Moderate to high humidity",
+        "Fertilization": "Fertilize every two weeks during growing season"
+      }
+    },
+    {
+      "_id": "6651a924371930c1e5d012d4",
+      "Plant Name": "Juniper Bonsai",
+      "Plant Type": "Bonsai",
+      "Plant Description": "Juniper is a classic bonsai tree with needle-like foliage. It is well-suited for outdoor bonsai.",
+      "Care Requirements": {
+        "Light": "Full sun",
+        "Watering": "Allow soil to dry slightly between waterings",
+        "Soil": "Well-draining bonsai soil mix",
+        "Temperature": "10-24°C (50-75°F)",
+        "Humidity": "Average humidity",
+        "Fertilization": "Fertilize monthly during growing season"
+      }
+    },
+    {
+      "_id": "6651a924371930c1e5d012d5",
+      "Plant Name": "Chinese Elm Bonsai",
+      "Plant Type": "Bonsai",
+      "Plant Description": "Chinese Elm is known for its small leaves and graceful shape. It is adaptable and can be grown indoors or outdoors.",
+      "Care Requirements": {
+        "Light": "Bright, indirect light",
+        "Watering": "Keep soil moist but not waterlogged",
+        "Soil": "Well-draining bonsai soil mix",
+        "Temperature": "10-25°C (50-77°F)",
+        "Humidity": "Moderate humidity",
+        "Fertilization": "Fertilize every two weeks during growing season"
+      }
+    },
+    {
+      "_id": "6651a924371930c1e5d012d6",
+      "Plant Name": "Japanese Maple Bonsai",
+      "Plant Type": "Bonsai",
+      "Plant Description": "Japanese Maple is admired for its vibrant foliage that changes color with the seasons. It prefers a cooler climate.",
+      "Care Requirements": {
+        "Light": "Partial shade to full sun",
+        "Watering": "Keep soil moist but not waterlogged",
+        "Soil": "Well-draining bonsai soil mix",
+        "Temperature": "10-24°C (50-75°F)",
+        "Humidity": "Moderate to high humidity",
+        "Fertilization": "Fertilize monthly during growing season"
+      }
+    },
+    {
+      "_id": "6651a924371930c1e5d012d7",
+      "Plant Name": "Bougainvillea Bonsai",
+      "Plant Type": "Bonsai",
+      "Plant Description": "Bougainvillea is a flowering bonsai known for its vibrant bracts. It thrives in warm climates and requires full sun.",
+      "Care Requirements": {
+        "Light": "Full sun",
+        "Watering": "Allow soil to dry slightly between waterings",
+        "Soil": "Well-draining bonsai soil mix",
+        "Temperature": "18-30°C (64-86°F)",
+        "Humidity": "Average humidity",
+        "Fertilization": "Fertilize every two weeks during growing season"
+      }
+    },
+    {
+      "_id": "6651a924371930c1e5d012d8",
+      "Plant Name": "Pine Bonsai",
+      "Plant Type": "Bonsai",
+      "Plant Description": "Pine bonsai trees are known for their rugged bark and needle-like foliage. They are often used in traditional bonsai designs.",
+      "Care Requirements": {
+        "Light": "Full sun",
+        "Watering": "Allow soil to dry slightly between waterings",
+        "Soil": "Well-draining bonsai soil mix",
+        "Temperature": "10-24°C (50-75°F)",
+        "Humidity": "Average humidity",
+        "Fertilization": "Fertilize monthly during growing season"
+      }
+    },
+    {
+      "_id": "6651a924371930c1e5d012d9",
+      "Plant Name": "Azalea Bonsai",
+      "Plant Type": "Bonsai",
+      "Plant Description": "Azalea bonsai are prized for their stunning flowers that bloom in various colors. They prefer acidic soil.",
+      "Care Requirements": {
+        "Light": "Partial shade to full sun",
+        "Watering": "Keep soil moist but not waterlogged",
+        "Soil": "Acidic, well-draining bonsai soil mix",
+        "Temperature": "10-24°C (50-75°F)",
+        "Humidity": "Moderate to high humidity",
+        "Fertilization": "Fertilize every two weeks during growing season"
+      }
+    },
+    {
+      "_id": "6651a924371930c1e5d012da",
+      "Plant Name": "Olive Bonsai",
+      "Plant Type": "Bonsai",
+      "Plant Description": "Olive bonsai trees are hardy and can live for many years. They have small, dark green leaves and can produce olives.",
+      "Care Requirements": {
+        "Light": "Full sun",
+        "Watering": "Allow soil to dry slightly between waterings",
+        "Soil": "Well-draining bonsai soil mix",
+        "Temperature": "15-30°C (59-86°F)",
+        "Humidity": "Average humidity",
+        "Fertilization": "Fertilize monthly during growing season"
+      }
+    },
+    {
+      "_id": "6651a924371930c1e5d012db",
+      "Plant Name": "Boxwood Bonsai",
+      "Plant Type": "Bonsai",
+      "Plant Description": "Boxwood is a dense, evergreen shrub that is easily shaped. It is suitable for both beginners and experienced bonsai enthusiasts.",
+      "Care Requirements": {
+        "Light": "Bright, indirect light",
+        "Watering": "Keep soil moist but not waterlogged",
+        "Soil": "Well-draining bonsai soil mix",
+        "Temperature": "10-24°C (50-75°F)",
+        "Humidity": "Moderate humidity",
+        "Fertilization": "Fertilize every two weeks during growing season"
+      }
+    },
+    {
+      "_id": "6651a924371930c1e5d012dc",
+      "Plant Name": "Carmona (Fukien Tea) Bonsai",
+      "Plant Type": "Bonsai",
+      "Plant Description": "Carmona, or Fukien Tea, is a tropical bonsai known for its small, shiny leaves and white flowers. It is suitable for indoor growing.",
+      "Care Requirements": {
+        "Light": "Bright, indirect light",
+        "Watering": "Keep soil moist but not waterlogged",
+        "Soil": "Well-draining bonsai soil mix",
+        "Temperature": "15-30°C (59-86°F)",
+        "Humidity": "Moderate to high humidity",
+        "Fertilization": "Fertilize every two weeks during growing season"
+      }
+    }
+  ]

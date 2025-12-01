@@ -1,0 +1,68 @@
+.flower-card {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    overflow: hidden;
+    transition: transform 0.3s, box-shadow 0.3s;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+  }
+  
+  .flower-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  }
+  
+  .card-img-top {
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  .card-body {
+    padding: 20px;
+  }
+  
+  .card-title {
+    color: #333;
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .card-text {
+    color: #555;
+    margin-bottom: 15px;
+  }
+  
+  .care-requirements {
+    margin-top: 15px;
+  }
+  
+  .care-requirements h6 {
+    color: #333;
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+  }
+  
+  .care-requirements ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  
+  .care-requirements li {
+    color: #666;
+    margin-bottom: 5px;
+  }
+  
+  .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+    padding: 8px 20px;
+    font-size: 1rem;
+    transition: background-color 0.3s, border-color 0.3s;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+  }
+  

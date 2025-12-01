@@ -1,0 +1,142 @@
+[
+  {
+      "_id": "6640f09d65d889f46b0a34b2",
+      "Plant Name": "Orchid",
+      "Plant Type": "Flowering Plants",
+      "Plant Description": "Known for its long, upright leaves with striking patterns.",
+      "Care Requirements": {
+          "Light": "Low to medium indirect light",
+          "Watering": "Allow soil to dry between waterings",
+          "Soil": "Well-draining potting mix",
+          "Temperature": "Prefers temperatures between 15-27°C (60-80°F)",
+          "Humidity": "Tolerant of low humidity levels",
+          "Fertilization": "Fertilize sparingly during growing season"
+      }
+  },
+  {
+      "_id": "6640f09d65d889f46b0a34b3",
+      "Plant Name": "Rose",
+      "Plant Type": "Flowering Plants",
+      "Plant Description": "Prefers full sun, well-drained soil, and regular watering. Pruning is essential for maintaining shape and promoting blooming.",
+      "Care Requirements": {
+          "Light": "Prefers full sun",
+          "Watering": "Regular watering",
+          "Soil": "Well-drained soil",
+          "Temperature": "Thrives in moderate temperatures",
+          "Humidity": "Moderate humidity levels",
+          "Fertilization": "Use balanced fertilizer during growing season"
+      }
+  },
+  {
+      "_id": "6640f09d65d889f46b0a34b4",
+      "Plant Name": "Tulip",
+      "Plant Type": "Flowering Plants",
+      "Plant Description": "Requires well-drained soil, full sun to partial shade, and regular watering during the growing season.",
+      "Care Requirements": {
+          "Light": "Full sun to partial shade",
+          "Watering": "Regular watering during growing season",
+          "Soil": "Well-drained soil",
+          "Temperature": "Prefers moderate temperatures",
+          "Humidity": "Moderate humidity levels",
+          "Fertilization": "No specific fertilization requirements mentioned"
+      }
+  },
+  {
+      "_id": "6640f09d65d889f46b0a34b5",
+      "Plant Name": "Hydrangea",
+      "Plant Type": "Flowering Plants",
+      "Plant Description": "Thrives in partial shade, moist, well-drained soil, and consistent moisture. Prune after flowering to encourage new growth and blooms.",
+      "Care Requirements": {
+          "Light": "Partial shade",
+          "Watering": "Consistent moisture",
+          "Soil": "Moist, well-drained soil",
+          "Temperature": "Moderate temperatures",
+          "Humidity": "Moderate humidity levels",
+          "Fertilization": "Apply balanced fertilizer in spring"
+      }
+  },
+  {
+      "_id": "6640f09d65d889f46b0a34b6",
+      "Plant Name": "Daffodil",
+      "Plant Type": "Flowering Plants",
+      "Plant Description": "Prefers well-drained soil, full sun to partial shade, and regular watering during active growth.",
+      "Care Requirements": {
+          "Light": "Full sun to partial shade",
+          "Watering": "Regular watering during active growth",
+          "Soil": "Well-drained soil",
+          "Temperature": "Prefers moderate temperatures",
+          "Humidity": "No specific humidity requirements mentioned",
+          "Fertilization": "No specific fertilization requirements mentioned"
+      }
+  },
+  {
+      "_id": "6640f09d65d889f46b0a34b7",
+      "Plant Name": "Lily",
+      "Plant Type": "Flowering Plants",
+      "Plant Description": "Requires well-drained soil, full sun to partial shade, and regular watering. Mulching helps retain soil moisture.",
+      "Care Requirements": {
+          "Light": "Full sun to partial shade",
+          "Watering": "Regular watering",
+          "Soil": "Well-drained soil",
+          "Temperature": "No specific temperature requirements mentioned",
+          "Humidity": "No specific humidity requirements mentioned",
+          "Fertilization": "No specific fertilization requirements mentioned"
+      }
+  },
+  {
+      "_id": "6640f09d65d889f46b0a34b8",
+      "Plant Name": "Peony",
+      "Plant Type": "Flowering Plants",
+      "Plant Description": "Thrives in full sun to partial shade, fertile, well-drained soil. Mulch to retain moisture and suppress weeds.",
+      "Care Requirements": {
+          "Light": "Full sun to partial shade",
+          "Watering": "No specific watering requirements mentioned",
+          "Soil": "Fertile, well-drained soil",
+          "Temperature": "No specific temperature requirements mentioned",
+          "Humidity": "No specific humidity requirements mentioned",
+          "Fertilization": "No specific fertilization requirements mentioned"
+      }
+  },
+  {
+      "_id": "6640f09d65d889f46b0a34b9",
+      "Plant Name": "Carnation",
+      "Plant Type": "Flowering Plants",
+      "Plant Description": "Prefers well-drained soil, full sun, and good air circulation. Deadhead spent blooms to encourage continuous flowering.",
+      "Care Requirements": {
+          "Light": "Full sun",
+          "Watering": "Infrequent deep watering",
+          "Soil": "Well-drained soil",
+          "Temperature": "No specific temperature requirements mentioned",
+          "Humidity": "No specific humidity requirements mentioned",
+          "Fertilization": "Apply balanced fertilizer during growing season"
+      }
+  },
+  {
+      "_id": "6640f09d65d889f46b0a34ba",
+      "Plant Name": "Sunflower",
+      "Plant Type": "Flowering Plants",
+      "Plant Description": "Thrives in full sun, well-drained soil. Provide support for tall varieties and water regularly.",
+      "Care Requirements": {
+          "Light": "Full sun",
+          "Watering": "Regular watering",
+          "Soil": "Well-drained soil",
+          "Temperature": "No specific temperature requirements mentioned",
+          "Humidity": "No specific humidity requirements mentioned",
+          "Fertilization": "Apply balanced fertilizer at planting time"
+      }
+  },
+  {
+      "_id": "6640f09d65d889f46b0a34bb",
+      "Plant Name": "Petunia",
+      "Plant Type": "Flowering Plants",
+      "Plant Description": "Prefers full sun, well-drained soil. Water regularly and deadhead spent blooms to promote continuous flowering.",
+      "Care Requirements": {
+          "Light": "Full sun",
+          "Watering": "Regular watering",
+          "Soil": "Well-drained soil",
+          "Temperature": "No specific temperature requirements mentioned",
+          "Humidity": "No specific humidity requirements mentioned",
+          "Fertilization": "Apply balanced liquid fertilizer every two weeks"
+      }
+  }
+]
