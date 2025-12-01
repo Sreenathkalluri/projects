@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stock Price Prediction</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="background-animation" id="particles"></div>
+    
+    <div class="container">
+        <div class="content-wrapper">
+            <div class="main-content">
+                <div class="prediction-container">
+                    <div class="form-header">
+                        <h1>Stock Price Prediction</h1>
+                        <p>Enter the last 3 days of WIPRO stock data to predict the next day's closing price</p>
+                    </div>
+
+                    <form method="POST" action="/predict" class="stock-form">
+                        <div class="form-group">
+                            <h3><i class="fas fa-calendar-day"></i> Day 1 Data</h3>
+                            <div class="day-inputs">
+                                <div class="input-field">
+                                    <label for="open_1"><i class="fas fa-door-open"></i> Open Price</label>
+                                    <input type="number" step="0.01" id="open_1" name="open_1" placeholder="415.50" required>
+                                </div>
+                                <div class="input-field">
+                                    <label for="high_1"><i class="fas fa-arrow-up"></i> High Price</label>
+                                    <input type="number" step="0.01" id="high_1" name="high_1" placeholder="418.75" required>
+                                </div>
+                                <div class="input-field">
+                                    <label for="low_1"><i class="fas fa-arrow-down"></i> Low Price</label>
+                                    <input type="number" step="0.01" id="low_1" name="low_1" placeholder="414.20" required>
+                                </div>
+                                <div class="input-field">
+                                    <label for="close_1"><i class="fas fa-door-closed"></i> Close Price</label>
+                                    <input type="number" step="0.01" id="close_1" name="close_1" placeholder="417.80" required>
+                                </div>
+                                <div class="input-field">
+                                    <label for="volume_1"><i class="fas fa-chart-bar"></i> Volume</label>
+                                    <input type="number" id="volume_1" name="volume_1" placeholder="5421800" required>
+                                </div>
+                                <div class="input-field">
+                                    <label for="vwap_1"><i class="fas fa-balance-scale"></i> VWAP</label>
+                                    <input type="number" step="0.01" id="vwap_1" name="vwap_1" placeholder="416.45" required>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <h3><i class="fas fa-calendar-day"></i> Day 2 Data</h3>
+                            <div class="day-inputs">
+                                <div class="input-field">
+                                    <label for="open_2"><i class="fas fa-door-open"></i> Open Price</label>
+                                    <input type="number" step="0.01" id="open_2" name="open_2" placeholder="417.50" required>
+                                </div>
+                                <div class="input-field">
+                                    <label for="high_2"><i class="fas fa-arrow-up"></i> High Price</label>
+                                    <input type="number" step="0.01" id="high_2" name="high_2" placeholder="419.25" required>
+                                </div>
+                                <div class="input-field">
+                                    <label for="low_2"><i class="fas fa-arrow-down"></i> Low Price</label>
+                                    <input type="number" step="0.01" id="low_2" name="low_2" placeholder="416.30" required>
+                                </div>
+                                <div class="input-field">
+                                    <label for="close_2"><i class="fas fa-door-closed"></i> Close Price</label>
+                                    <input type="number" step="0.01" id="close_2" name="close_2" placeholder="418.40" required>
+                                </div>
+                                <div class="input-field">
+                                    <label for="volume_2"><i class="fas fa-chart-bar"></i> Volume</label>
+                                    <input type="number" id="volume_2" name="volume_2" placeholder="5124500" required>
+                                </div>
+                                <div class="input-field">
+                                    <label for="vwap_2"><i class="fas fa-balance-scale"></i> VWAP</label>
+                                    <input type="number" step="0.01" id="vwap_2" name="vwap_2" placeholder="417.85" required>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <h3><i class="fas fa-calendar-day"></i> Day 3 Data</h3>
+                            <div class="day-inputs">
+                                <div class="input-field">
+                                    <label for="open_3"><i class="fas fa-door-open"></i> Open Price</label>
+                                    <input type="number" step="0.01" id="open_3" name="open_3" placeholder="418.20" required>
+                                </div>
+                                <div class="input-field">
+                                    <label for="high_3"><i class="fas fa-arrow-up"></i> High Price</label>
+                                    <input type="number" step="0.01" id="high_3" name="high_3" placeholder="420.50" required>
+                                </div>
+                                <div class="input-field">
+                                    <label for="low_3"><i class="fas fa-arrow-down"></i> Low Price</label>
+                                    <input type="number" step="0.01" id="low_3" name="low_3" placeholder="417.60" required>
+                                </div>
+                                <div class="input-field">
+                                    <label for="close_3"><i class="fas fa-door-closed"></i> Close Price</label>
+                                    <input type="number" step="0.01" id="close_3" name="close_3" placeholder="419.75" required>
+                                </div>
+                                <div class="input-field">
+                                    <label for="volume_3"><i class="fas fa-chart-bar"></i> Volume</label>
+                                    <input type="number" id="volume_3" name="volume_3" placeholder="4987600" required>
+                                </div>
+                                <div class="input-field">
+                                    <label for="vwap_3"><i class="fas fa-balance-scale"></i> VWAP</label>
+                                    <input type="number" step="0.01" id="vwap_3" name="vwap_3" placeholder="419.10" required>
+                                </div>
+                            </div>
+                        </div>
+
+                        {% if prediction_text %}
+                        <div class="alert alert-error">
+                            {{ prediction_text }}
+                        </div>
+                        {% endif %}
+
+                        <div class="btn-center">
+                            <button type="submit" class="btn predict-btn">
+                                <i class="fas fa-rocket"></i>
+                                Generate Prediction
+                            </button>
+                        </div>
+                    </form>
+                </div>
+
+                <div class="info-panel">
+                    <h3>Financial Terms Explained</h3>
+                    <div class="term-cards">
+                        <div class="term-card">
+                            <div class="term-icon">
+                                <i class="fas fa-door-open"></i>
+                            </div>
+                            <div class="term-content">
+                                <h4>Open Price</h4>
+                                <p>The price at which a stock first trades when the market opens for the day.</p>
+                            </div>
+                        </div>
+                        <div class="term-card">
+                            <div class="term-icon">
+                                <i class="fas fa-arrow-up"></i>
+                            </div>
+                            <div class="term-content">
+                                <h4>High Price</h4>
+                                <p>The highest price at which a stock traded during the trading day.</p>
+                            </div>
+                        </div>
+                        <div class="term-card">
+                            <div class="term-icon">
+                                <i class="fas fa-arrow-down"></i>
+                            </div>
+                            <div class="term-content">
+                                <h4>Low Price</h4>
+                                <p>The lowest price at which a stock traded during the trading day.</p>
+                            </div>
+                        </div>
+                        <div class="term-card">
+                            <div class="term-icon">
+                                <i class="fas fa-door-closed"></i>
+                            </div>
+                            <div class="term-content">
+                                <h4>Close Price</h4>
+                                <p>The final price at which a stock is traded when the market closes.</p>
+                            </div>
+                        </div>
+                        <div class="term-card">
+                            <div class="term-icon">
+                                <i class="fas fa-chart-bar"></i>
+                            </div>
+                            <div class="term-content">
+                                <h4>Volume</h4>
+                                <p>The total number of shares traded during a specific time period.</p>
+                            </div>
+                        </div>
+                        <div class="term-card">
+                            <div class="term-icon">
+                                <i class="fas fa-balance-scale"></i>
+                            </div>
+                            <div class="term-content">
+                                <h4>VWAP</h4>
+                                <p>Volume Weighted Average Price - the average price weighted by trading volume.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

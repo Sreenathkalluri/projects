@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prediction Result</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="background-animation" id="particles"></div>
+    
+    <div class="container">
+        <main class="result-content">
+            <div class="prediction-container">
+                <div class="result-header">
+                    <h1>Prediction Results</h1>
+                    <p>WIPRO stock price based on input data</p>
+                </div>
+
+                <div class="prediction-main">
+                    <div class="price-display-container">
+                        <div class="price-label">Predicted Next Day Closing Price</div>
+                        <div class="price-display">₹ {{ predicted_price }}</div>
+                        <div class="confidence-badge">
+                            <i class="fas fa-shield-alt"></i>
+                            High Confidence Prediction
+                        </div>
+                    </div>
+
+                    <div class="graph-container">
+                        <div id="graph"></div>
+                    </div>
+                </div>
+
+
+                <div class="action-buttons">
+                    <a href="/" class="btn btn-primary">
+                        <i class="fas fa-arrow-left"></i>
+                        New Prediction
+                    </a>
+                </div>
+            </div>
+
+            
+        </main>
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+    <script>
+        // Pass data from Flask to JavaScript
+        const days = {{ days | tojson }};
+        const closes = {{ closes | tojson }};
+        
+        // Initialize chart when page loads
+        document.addEventListener('DOMContentLoaded', function() {
+            initializeResultChart();
+        });
+        
+        function initializeResultChart() {
+            const trace = {
+                x: days,
+                y: closes,
+                type: 'scatter',
+                mode: 'lines+markers',
+                line: { 
+                    color: '#d4af37', 
+                    width: 4,
+                    shape: 'spline'
+                },
+                marker: { 
+                    size: 10, 
+                    color: '#ffd700',
+                    line: {
+                        color: '#000',
+                        width: 2
+                    }
+                },
+                fill: 'tozeroy',
+                fillcolor: 'rgba(212, 175, 55, 0.1)'
+            };
+
+            const layout = {
+                title: {
+                    text: 'Stock Price Trend & Prediction',
+                    font: { color: '#d4af37', size: 20 }
+                },
+                xaxis: { 
+                    title: { text: 'Trading Days', font: { color: '#b8b8b8' } },
+                    tickfont: { color: '#b8b8b8' },
+                    gridcolor: '#444'
+                },
+                yaxis: { 
+                    title: { text: 'Closing Price (₹)', font: { color: '#b8b8b8' } },
+                    tickfont: { color: '#b8b8b8' },
+                    gridcolor: '#444'
+                },
+                plot_bgcolor: '#1a1a1a',
+                paper_bgcolor: '#1a1a1a',
+                font: { color: '#b8b8b8' },
+                hoverlabel: {
+                    bgcolor: '#2d2d2d',
+                    bordercolor: '#d4af37',
+                    font: { color: '#fff' }
+                },
+                annotations: [{
+                    x: days[days.length - 1],
+                    y: closes[closes.length - 1],
+                    text: 'PREDICTION',
+                    showarrow: true,
+                    arrowhead: 2,
+                    arrowsize: 1,
+                    arrowwidth: 2,
+                    arrowcolor: '#d4af37',
+                    bgcolor: '#2d2d2d',
+                    bordercolor: '#d4af37',
+                    borderwidth: 1,
+                    font: { color: '#d4af37', size: 12 }
+                }]
+            };
+
+            const config = {
+                responsive: true,
+                displayModeBar: true,
+                displaylogo: false,
+                modeBarButtonsToRemove: ['pan2d', 'lasso2d', 'select2d'],
+                modeBarStyle: {
+                    bgcolor: '#2d2d2d',
+                    color: '#d4af37'
+                }
+            };
+
+            Plotly.newPlot('graph', [trace], layout, config);
+        }
+        
+    </script>
+</body>
+</html>
